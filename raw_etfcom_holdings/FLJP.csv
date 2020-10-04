@@ -1,0 +1,509 @@
+,Name,Allocation
+0,Toyota Motor Corp.,4.33%
+1,SoftBank Group Corp.,2.51%
+2,Sony Corporation,2.51%
+3,Keyence Corporation,1.95%
+4,Takeda Pharmaceutical Co. Ltd.,1.52%
+5,"Daiichi Sankyo Company, Limited",1.51%
+6,"Nintendo Co., Ltd.",1.45%
+7,KDDI Corporation,1.39%
+8,"Mitsubishi UFJ Financial Group, Inc.",1.32%
+9,"DAIKIN INDUSTRIES, LTD.",1.28%
+10,Shin-Etsu Chemical Co Ltd,1.25%
+11,"Recruit Holdings Co., Ltd.",1.18%
+12,"Honda Motor Co., Ltd.",1.13%
+13,Tokyo Electron Ltd.,1.04%
+14,Nidec Corporation,1.02%
+15,"Sumitomo Mitsui Financial Group, Inc.",0.97%
+16,Kao Corp.,0.95%
+17,HOYA CORPORATION,0.93%
+18,"Murata Manufacturing Co., Ltd.",0.91%
+19,"Mizuho Financial Group, Inc.",0.89%
+20,Fanuc Corporation,0.89%
+21,Itochu Corporation,0.88%
+22,"NTT DoCoMo, Inc.",0.86%
+23,SMC Corporation,0.83%
+24,"Hitachi,Ltd.",0.81%
+25,Nippon Telegraph and Telephone Corporation,0.80%
+26,Astellas Pharma Inc.,0.79%
+27,"Chugai Pharmaceutical Co., Ltd.",0.79%
+28,"FAST RETAILING CO., LTD.",0.78%
+29,"Tokio Marine Holdings, Inc.",0.77%
+30,"Mitsui & Co.,Ltd",0.73%
+31,Mitsubishi Electric Corp.,0.71%
+32,Mitsubishi Corporation,0.68%
+33,Terumo Corporation,0.68%
+34,SoftBank Corp.,0.68%
+35,"M3, Inc.",0.67%
+36,Central Japan Railway Company,0.66%
+37,"Seven & I Holdings Co., Ltd.",0.66%
+38,Fujitsu Limited,0.66%
+39,"Oriental Land Co., Ltd.",0.63%
+40,"Eisai Co., Ltd.",0.60%
+41,East Japan Railway Company,0.60%
+42,Japan Tobacco Inc.,0.59%
+43,"Shiseido Company,Limited",0.56%
+44,Olympus Corp.,0.56%
+45,Komatsu Ltd.,0.51%
+46,Panasonic Corporation,0.50%
+47,"Otsuka Holdings Co., Ltd.",0.49%
+48,"Secom Co., Ltd.",0.49%
+49,Bridgestone Corporation,0.48%
+50,Kubota Corporation,0.48%
+51,DENSO CORPORATION,0.48%
+52,"Mitsubishi Estate Company, Limited",0.47%
+53,Suzuki Motor Corp.,0.47%
+54,"AEON Co., Ltd.",0.46%
+55,Canon Inc.,0.46%
+56,Unicharm Corporation,0.46%
+57,Kyocera Corporation,0.46%
+58,"Daiwa House Industry Co., Ltd.",0.45%
+59,Z Holdings Corporation,0.43%
+60,FUJIFILM Holdings Corp,0.43%
+61,Shimano Inc.,0.43%
+62,"Nitori Holdings Co., Ltd.",0.42%
+63,"Mitsui Fudosan Co., Ltd.",0.42%
+64,"Shionogi & Co., Ltd.",0.42%
+65,"Nomura Holdings, Inc.",0.40%
+66,ORIX Corporation,0.40%
+67,Sysmex Corporation,0.40%
+68,"Kirin Holdings Company, Limited",0.40%
+69,"Dai-ichi Life Holdings,Inc.",0.39%
+70,"Japan Exchange Group, Inc.",0.37%
+71,Toshiba Corporation,0.37%
+72,Sumitomo Corporation,0.35%
+73,OMRON Corporation,0.35%
+74,NEC Corp.,0.35%
+75,TDK Corporation,0.35%
+76,"ONO Pharmaceutical Co., Ltd.",0.34%
+77,"Sompo Holdings,Inc.",0.34%
+78,"Asahi Group Holdings,Ltd.",0.34%
+79,"MS&AD Insurance Group Holdings, Inc.",0.34%
+80,SUBARU CORP,0.34%
+81,BANDAI NAMCO Holdings Inc.,0.32%
+82,Pan Pacific International Holdings Corporation,0.32%
+83,NIPPON PAINT HOLDINGS CO.LTD.,0.31%
+84,"Sumitomo Realty & Development Co., Ltd.",0.31%
+85,"OBIC Co., Ltd.",0.31%
+86,"Sekisui House, Ltd.",0.30%
+87,"ENEOS Holdings, Inc.",0.30%
+88,Makita Corporation,0.30%
+89,"Meiji Holdings Co., Ltd.",0.29%
+90,"SG Holdings Co., Ltd.",0.27%
+91,"Sumitomo Mitsui Trust Holdings, Inc.",0.27%
+92,Asahi Kasei Corporation,0.27%
+93,"NEXON Co., Ltd.",0.25%
+94,"JAPAN POST HOLDINGS Co., Ltd.",0.25%
+95,Advantest Corp.,0.25%
+96,"TOKYO GAS Co., Ltd.",0.25%
+97,"Ajinomoto Co., Inc.",0.24%
+98,Kikkoman Corporation,0.24%
+99,Nitto Denko Corp.,0.24%
+100,"Yamato Holdings Co., Ltd.",0.24%
+101,"Daifuku Co., Ltd.",0.23%
+102,"Sumitomo Electric Industries, Ltd.",0.23%
+103,Yaskawa Electric Corporation,0.23%
+104,"Chubu Electric Power Company,Incorporated",0.23%
+105,West Japan Railway Company,0.23%
+106,Toyota Industries Corp.,0.23%
+107,Marubeni Corporation,0.22%
+108,Shimadzu Corporation,0.22%
+109,NIPPON STEEL CORP.,0.21%
+110,"Osaka Gas Co., Ltd.",0.21%
+111,Trend Micro Incorporated,0.20%
+112,"Sumitomo Metal Mining Co., Ltd.",0.20%
+113,"Nissan Motor Co., Ltd.",0.20%
+114,"Resona Holdings, Inc.",0.20%
+115,Nissan Chemical Corporation,0.20%
+116,"Nissin Foods Holdings Co., Ltd.",0.20%
+117,"Kintetsu Group Holdings Co., Ltd.",0.20%
+118,"Mitsubishi Heavy Industries, Ltd.",0.19%
+119,Keio Corporation,0.19%
+120,Mitsubishi Chemical Holdings Corporation,0.19%
+121,"Odakyu Electric Railway Co., Ltd.",0.19%
+122,NTT DATA Corporation,0.19%
+123,"Hankyu Hanshin Holdings, Inc.",0.19%
+124,"Yakult Honsha Co., Ltd.",0.19%
+125,"Rakuten, Inc.",0.19%
+126,"Toray Industries, Inc.",0.19%
+127,"Nomura Research Institute,Ltd.",0.18%
+128,"Kansai Electric Power Company, Incorporated",0.18%
+129,Yamaha Corporation,0.18%
+130,Misumi Group Inc.,0.18%
+131,U.S. Dollar,0.18%
+132,MinebeaMitsumi Inc.,0.18%
+133,Daiwa Securities Group Inc.,0.18%
+134,"Santen Pharmaceutical Co., Ltd.",0.18%
+135,TAISEI CORP,0.17%
+136,Disco Corporation,0.17%
+137,TOTO Ltd,0.17%
+138,"Kyowa Kirin Co., Ltd.",0.17%
+139,TOKYU CORPORATION,0.17%
+140,Obayashi Corporation,0.17%
+141,Toyota Tsusho Corp.,0.17%
+142,Nihon M&A Center Inc.,0.17%
+143,"Tobu Railway Co., Ltd.",0.16%
+144,"Asahi Intecc Co., Ltd.",0.16%
+145,Aisin Seiki Co Ltd,0.16%
+146,Lasertec Corp.,0.16%
+147,"Hikari Tsushin, Inc.",0.16%
+148,"Toyo Suisan Kaisha, Ltd.",0.15%
+149,"Koito Manufacturing Co., Ltd.",0.15%
+150,Dentsu Group Inc.,0.15%
+151,"Dai Nippon Printing Co., Ltd.",0.15%
+152,INPEX CORPORATION,0.15%
+153,Hamamatsu Photonics K.K.,0.15%
+154,"Daito Trust Construction Co., Ltd.",0.15%
+155,"CyberAgent, Inc.",0.15%
+156,Kajima Corporation,0.15%
+157,"Sekisui Chemical Co., Ltd.",0.14%
+158,Lion Corporation,0.14%
+159,"Nagoya Railroad Co., Ltd.",0.14%
+160,"Rohm Co., Ltd.",0.14%
+161,"Kobayashi Pharmaceutical Co., Ltd.",0.14%
+162,"T&D Holdings, Inc.",0.14%
+163,TIS Inc.,0.14%
+164,"MonotaRO Co., Ltd.",0.14%
+165,Otsuka Corporation,0.13%
+166,"Sumitomo Chemical Co., Ltd.",0.13%
+167,"SBI Holdings, Inc.",0.13%
+168,"Idemitsu Kosan Co., Ltd.",0.13%
+169,AGC Inc.,0.13%
+170,"Ricoh Company, Ltd.",0.13%
+171,"Square Enix Holdings Co., Ltd.",0.13%
+172,"TSURUHA Holdings, Inc.",0.13%
+173,Isuzu Motors Limited,0.13%
+174,"Capcom Co., Ltd.",0.13%
+175,"FamilyMart Co., Ltd.",0.13%
+176,"Tohoku Electric Power Company, Incorporated",0.12%
+177,"Kansai Paint Co., Ltd.",0.12%
+178,NH Foods Ltd.,0.12%
+179,Suntory Beverage & Food Ltd.,0.12%
+180,"TOHO GAS Co., Ltd.",0.12%
+181,"Tokyo Electric Power Company Holdings, Incorporated",0.12%
+182,"Welcia Holdings Co., Ltd.",0.12%
+183,LIXIL Group Corp.,0.12%
+184,Renesas Electronics Corporation,0.12%
+185,"GMO Payment Gateway, Inc.",0.12%
+186,Toho Co. Ltd.,0.12%
+187,Pigeon Corporation,0.12%
+188,"Toppan Printing Co., Ltd.",0.12%
+189,"Stanley Electric Co., Ltd.",0.11%
+190,"Nippon Shinyaku Co., Ltd.",0.11%
+191,"Yamaha Motor Co., Ltd.",0.11%
+192,"Keihan Holdings Co.,Ltd.",0.11%
+193,"Keisei Electric Railway Co., Ltd.",0.11%
+194,"Kyushu Electric Power Company,Incorporated",0.11%
+195,Tosoh Corporation,0.11%
+196,"NIPPON EXPRESS CO., LTD.",0.11%
+197,Shimizu Corporation,0.11%
+198,"Miura Co., Ltd.",0.11%
+199,"Yamada Denki Co., Ltd.",0.11%
+200,Nisshin Seifun Group Inc.,0.11%
+201,Oracle Corporation Japan,0.11%
+202,Azbil Corporation,0.11%
+203,"Mitsui Chemicals, Inc.",0.11%
+204,"JFE Holdings, Inc.",0.10%
+205,Yokogawa Electric Corp.,0.10%
+206,"NGK Insulators, Ltd.",0.10%
+207,Itochu Techno-Solutions Corporation,0.10%
+208,Nabtesco Corporation,0.10%
+209,Oji Holdings Corp.,0.10%
+210,HOSHIZAKI Corp.,0.10%
+211,"HIROSE ELECTRIC CO., LTD.",0.10%
+212,JSR Corp.,0.10%
+213,Haseko Corporation,0.10%
+214,"Fuji Electric Co., Ltd.",0.10%
+215,"Ryohin Keikaku Co., Ltd.",0.10%
+216,Justsystems Corporation,0.10%
+217,"Chugoku Electric Power Co., Inc.",0.10%
+218,COMSYS Holdings Corporation,0.10%
+219,"Brother Industries, Ltd.",0.10%
+220,Keikyu Corporation,0.10%
+221,"Concordia Financial Group, Ltd.",0.10%
+222,"Sohgo Security Services Co., Ltd.",0.09%
+223,KONAMI HOLDINGS CORP,0.09%
+224,Mazda Motor Corp.,0.09%
+225,"Kuraray Co., Ltd.",0.09%
+226,"Hisamitsu Pharmaceutical Co., Inc.",0.09%
+227,Alfresa Holdings Corporation,0.09%
+228,"Taiyo Yuden Co., Ltd.",0.09%
+229,"Marui Group Co., Ltd.",0.09%
+230,"Hitachi Construction Machinery Co., Ltd.",0.09%
+231,"NGK SPARK PLUG CO., LTD.",0.09%
+232,"Hulic Co., Ltd.",0.09%
+233,"Shizuoka Bank, Ltd.",0.09%
+234,Rinnai Corporation,0.09%
+235,"USS Co., Ltd.",0.09%
+236,Anritsu Corporation,0.09%
+237,"Casio Computer Co., Ltd.",0.09%
+238,NSK Ltd.,0.09%
+239,"Rohto Pharmaceutical Co., Ltd.",0.09%
+240,"IBIDEN CO., LTD.",0.09%
+241,Kyushu Railway Company,0.08%
+242,COSMOS Pharmaceutical Corporation,0.08%
+243,Hakuhodo Dy Holdings Incorporated,0.08%
+244,"Chiba Bank, Ltd.",0.08%
+245,Seiko Epson Corp.,0.08%
+246,"Kakaku.com, Inc.",0.08%
+247,"Taisho Pharmaceutical Holdings Co., Ltd.",0.08%
+248,"Japan Post Bank Co., Ltd.",0.08%
+249,Peptidream Inc.,0.08%
+250,SUMCO Corporation,0.08%
+251,"Bank of Kyoto, Ltd.",0.08%
+252,"Hitachi Metals, Ltd.",0.08%
+253,NOF Corporation,0.08%
+254,"Mitsubishi Gas Chemical Company, Inc.",0.08%
+255,"Skylark Holdings Co., Ltd.",0.08%
+256,Kurita Water Industries Ltd.,0.08%
+257,"JAPAN POST INSURANCE Co., Ltd.",0.08%
+258,Showa Denko K.K.,0.08%
+259,"Net One Systems Co., Ltd.",0.08%
+260,"ITO EN,Ltd.",0.08%
+261,"Iida Group Holdings Co., Ltd.",0.08%
+262,"Sumitomo Heavy Industries, Ltd.",0.08%
+263,"Alps Alpine Co., Ltd.",0.08%
+264,Taiheiyo Cement Corporation,0.08%
+265,Medipal Holdings Corporation,0.07%
+266,"Sundrug Co., Ltd.",0.07%
+267,Kose Corporation,0.07%
+268,"Suzuken Co., Ltd.",0.07%
+269,"THK Co., Ltd.",0.07%
+270,PERSOL HOLDINGS CO. LTD.,0.07%
+271,"Fukuoka Financial Group, Inc.",0.07%
+272,"ZOZO, Inc.",0.07%
+273,Teijin Limited,0.07%
+274,Sojitz Corp.,0.07%
+275,Nichirei Corporation,0.07%
+276,SCSK Corporation,0.07%
+277,Nippon Yusen Kabushiki Kaisha,0.07%
+278,"Electric Power Development Co., Ltd.",0.07%
+279,Tokyo Century Corporation,0.07%
+280,Kyowa Exeo Corporation,0.07%
+281,Nihon Kohden Corporation,0.07%
+282,Mitsubishi Materials Corp.,0.07%
+283,"Matsumotokiyoshi Holdings Co., Ltd.",0.07%
+284,Ebara Corporation,0.07%
+285,LINE Corp.,0.07%
+286,Tokyu Fudosan Holdings Corp.,0.07%
+287,Taiyo Nippon Sanso Corporation,0.07%
+288,"Sawai Pharmaceutical Co., Ltd.",0.07%
+289,Nikon Corp.,0.07%
+290,K'S Holdings Corporation,0.07%
+291,"AMADA Co., Ltd.",0.06%
+292,JGC Holdings Corporation,0.06%
+293,House Foods Group Inc.,0.06%
+294,"Lawson, Inc.",0.06%
+295,Coca-Cola Bottlers Japan Holdings Inc.,0.06%
+296,Goldwin Inc.,0.06%
+297,"SHO BOND Holdings Co., Ltd.",0.06%
+298,"Japan Airlines Co., Ltd.",0.06%
+299,"Mebuki Financial Group, Inc.",0.06%
+300,"Morinaga Milk Industry Co., Ltd.",0.06%
+301,"Tokyo Tatemono Co., Ltd.",0.06%
+302,"Nomura Real Estate Holdings, Inc.",0.06%
+303,Asics Corporation,0.06%
+304,Sushiro Global Holdings Ltd.,0.06%
+305,"CALBEE, Inc.",0.06%
+306,"Sumitomo Forestry Co., Ltd.",0.06%
+307,Sega Sammy Holdings Inc.,0.06%
+308,ANA Holdings Inc.,0.06%
+309,Air Water Inc.,0.06%
+310,"Kagome Co., Ltd.",0.06%
+311,Sumitomo Dainippon Pharma Co. Ltd.,0.06%
+312,"Ship Healthcare Holdings, Inc.",0.06%
+313,Fancl Corporation,0.06%
+314,"Seino Holdings Co., Ltd.",0.06%
+315,"Shinsei Bank, Limited",0.06%
+316,"Ezaki Glico Co., Ltd.",0.06%
+317,Mitsubishi Logistics Corporation,0.06%
+318,"Nihon Unisys,Ltd.",0.06%
+319,"Aozora Bank, Ltd.",0.06%
+320,"Nankai Electric Railway Co., Ltd.",0.06%
+321,"Zensho Holdings Co., Ltd.",0.06%
+322,"Relo Group, Inc.",0.06%
+323,Tsumura & Co.,0.06%
+324,Mitsubishi UFJ Lease & Finance Company Limited,0.05%
+325,"Japan Airport Terminal Co., Ltd.",0.05%
+326,"Nishi-Nippon Railroad Co., Ltd.",0.05%
+327,"Izumi Co., Ltd.",0.05%
+328,Kawasaki Heavy Industries Ltd.,0.05%
+329,"Seibu Holdings, Inc.",0.05%
+330,"Yamazaki Baking Co., Ltd.",0.05%
+331,"Yaoko Co., Ltd.",0.05%
+332,"Koei Tecmo Holdings Co., Ltd.",0.05%
+333,"Denka Co., Ltd.",0.05%
+334,Kinden Corporation,0.05%
+335,"Sotetsu Holdings, Inc.",0.05%
+336,"Kamigumi Co., Ltd.",0.05%
+337,Sankyu Inc.,0.05%
+338,"SHIMAMURA Co., Ltd.",0.05%
+339,"Horiba , Ltd.",0.05%
+340,FP Corporation,0.05%
+341,Kewpie Corporation,0.05%
+342,Daicel Corporation,0.05%
+343,"Morinaga & Co., Ltd.",0.05%
+344,Isetan Mitsukoshi Holdings Ltd.,0.05%
+345,"Benesse Holdings, Inc.",0.05%
+346,Nifco Inc.,0.05%
+347,"Sugi Holdings Co., Ltd.",0.05%
+348,"Zenkoku Hosho Co., Ltd.",0.05%
+349,Sanwa Holdings Corporation,0.05%
+350,"Hino Motors,Ltd.",0.05%
+351,"SCREEN Holdings Co., Ltd",0.05%
+352,"Tokai Carbon Co., Ltd.",0.05%
+353,DIC Corporation,0.05%
+354,"Mitsui O.S.K.Lines,Ltd.",0.05%
+355,IHI Corporation,0.05%
+356,"JCR Pharmaceuticals Co., Ltd.",0.05%
+357,Tokuyama Corporation,0.05%
+358,"Mabuchi Motor Co., Ltd.",0.05%
+359,JTEKT Corporation,0.05%
+360,"UBE Industries, Ltd.",0.05%
+361,"Hachijuni Bank, Ltd.",0.05%
+362,"Iyo Bank, Ltd.",0.04%
+363,Sharp Corporation,0.04%
+364,"Nippon Kayaku Co., Ltd.",0.04%
+365,"Aica Kogyo Company, Limited",0.04%
+366,"Kobe Bussan Co., Ltd.",0.04%
+367,"Open House Co., Ltd.",0.04%
+368,"J. FRONT RETAILING Co., Ltd.",0.04%
+369,"ULVAC, Inc.",0.04%
+370,Toyo Seikan Group Holdings Ltd.,0.04%
+371,"Hitachi Transport System,Ltd.",0.04%
+372,"Kyushu Financial Group, Inc.",0.04%
+373,BIC Cameras Inc.,0.04%
+374,"Penta-Ocean Construction Co., Ltd.",0.04%
+375,Takara Holdings Inc.,0.04%
+376,"Seven Bank, Ltd.",0.04%
+377,"Sumitomo Rubber Industries, Ltd.",0.04%
+378,"AEON Mall Co., Ltd.",0.04%
+379,"Chugoku Bank, Limited",0.04%
+380,Toyo Tire Corporation,0.04%
+381,"Toyoda Gosei Co., Ltd.",0.04%
+382,Ain Holdings Inc.,0.04%
+383,"Park24 Co., Ltd.",0.04%
+384,"DeNA Co., Ltd.",0.04%
+385,"Credit Saison Co., Ltd.",0.04%
+386,Ushio Inc.,0.04%
+387,"OBIC Business Consultants Co., Ltd.",0.04%
+388,"Nagase & Co., Ltd.",0.04%
+389,Zeon Corporation,0.04%
+390,"Yokohama Rubber Co., Ltd.",0.04%
+391,Amano Corporation,0.04%
+392,"Dowa Holdings Co., Ltd.",0.04%
+393,"Rengo Co., Ltd.",0.04%
+394,"Daiichikosho Co., Ltd.",0.04%
+395,"Fuyo General Lease Co., Ltd.",0.04%
+396,"Yamaguchi Financial Group, Inc.",0.04%
+397,Mitsubishi Motors Corporation,0.04%
+398,"TS Tech Co., Ltd.",0.04%
+399,Toda Corporation,0.04%
+400,"ACOM Co., Ltd.",0.04%
+401,Hiroshima Bank Ltd.,0.04%
+402,"KUSURI NO AOKI HOLDINGS CO.,LTD.",0.04%
+403,"Fuji Oil Holdings, Inc.",0.04%
+404,Paltac Corporation,0.04%
+405,Kyudenko Corporation,0.04%
+406,"Konica Minolta, Inc.",0.04%
+407,Nipro Corporation,0.04%
+408,Takara Bio Inc.,0.04%
+409,GMO Internet Inc.,0.04%
+410,"SMS Co., Ltd.",0.04%
+411,"Toyobo Co., Ltd.",0.04%
+412,"Sankyo Co., Ltd.",0.04%
+413,Pola Orbis Holdings Inc.,0.04%
+414,Maruichi Steel Tube Ltd.,0.04%
+415,NOK Corporation,0.03%
+416,TechnoPro Holdings Inc.,0.03%
+417,"ARIAKE JAPAN Co., Ltd.",0.03%
+418,"Gunma Bank, Ltd.",0.03%
+419,"ABC-MART, INC.",0.03%
+420,Sapporo Holdings Limited,0.03%
+421,Fujitsu General Limited,0.03%
+422,"Nippon Electric Glass Co., Ltd.",0.03%
+423,Nippo Corporation,0.03%
+424,"Nippon Shokubai Co., Ltd.",0.03%
+425,"Mani, Inc.",0.03%
+426,"Nippon Paper Industries Co., Ltd.",0.03%
+427,Kaneka Corporation,0.03%
+428,Hitachi Capital Corp.,0.03%
+429,Benefit One Inc.,0.03%
+430,GS Yuasa Corporation,0.03%
+431,"Kaken Pharmaceutical Co., Ltd.",0.03%
+432,"DMG MORI CO., LTD.",0.03%
+433,Hokuriku Electric Power Company,0.03%
+434,"Mitsui Mining and Smelting Company, Limited",0.03%
+435,Lintec Corporation,0.03%
+436,"Shochiku Co., Ltd.",0.03%
+437,"Takashimaya Company, Limited",0.03%
+438,"Shiga Bank, Ltd.",0.03%
+439,"Furukawa Electric Co., Ltd.",0.03%
+440,"MEGMILK SNOW BRAND Co., Ltd.",0.03%
+441,"Cosmo Energy Holdings Co., Ltd.",0.03%
+442,"Hokuhoku Financial Group, Inc.",0.03%
+443,"Fukuyama Transporting Co., Ltd.",0.03%
+444,"Kobe Steel, Ltd.",0.03%
+445,"H.U.Group Holdings, Inc.",0.03%
+446,"Noevir Holdings Co., Ltd.",0.03%
+447,Okuma Corp.,0.03%
+448,"Japan Steel Works, Ltd.",0.03%
+449,"Shikoku Electric Power Company, Incorporated",0.03%
+450,"AEON Financial Service Co., Ltd.",0.03%
+451,"77 Bank, Ltd.",0.03%
+452,OSG Corp,0.03%
+453,TADANO Ltd.,0.03%
+454,Glory Ltd.,0.03%
+455,Toshiba Tec Corp.,0.03%
+456,Nisshinbo Holdings Inc.,0.03%
+457,"Kotobuki Spirits Co., Ltd.",0.03%
+458,"Nishi-Nippon Financial Holdings, Inc.",0.03%
+459,"Resorttrust, Inc.",0.03%
+460,"Daishi Hokuetsu Financial Group, Inc.",0.03%
+461,"Mochida Pharmaceutical Co., Ltd.",0.02%
+462,Canon Marketing Japan Inc.,0.02%
+463,"NHK Spring Co., Ltd.",0.02%
+464,Maeda Corporation,0.02%
+465,"Fuji Seal International, Inc.",0.02%
+466,"Matsui Securities Co., Ltd.",0.02%
+467,"Kyoritsu Maintenance Co., Ltd.",0.02%
+468,WACOAL HOLDINGS CORP,0.02%
+469,"Kokuyo Co., Ltd.",0.02%
+470,Heiwa Corporation,0.02%
+471,"Sanrio Company, Ltd.",0.02%
+472,"Citizen Watch Co, Ltd.",0.02%
+473,Fujikura Ltd,0.02%
+474,"Itoham Yonekyu Holdings, Inc.",0.02%
+475,"Sumitomo Osaka Cement Co., Ltd.",0.02%
+476,NTN Corporation,0.02%
+477,"Daido Steel Co., Ltd.",0.02%
+478,"Kawasaki Kisen Kaisha, Ltd.",0.02%
+479,"Kandenko Co., Ltd.",0.02%
+480,Topcon Corp.,0.02%
+481,ASKUL Corporation,0.02%
+482,NS Solutions Corp,0.02%
+483,Pilot Corporation,0.02%
+484,"Kansai Mirai Financial Group,Inc",0.02%
+485,"TOKAI RIKA CO., LTD.",0.02%
+486,Toyota Boshoku Corp.,0.02%
+487,"Autobacs Seven Co., Ltd.",0.02%
+488,"Sumitomo Bakelite Co., Ltd.",0.02%
+489,"Mitsubishi Shokuhin Co., Ltd.",0.02%
+490,"Japan Aviation Electronics Industry, Limited",0.02%
+491,"Yamato Kogyo Co., Ltd.",0.02%
+492,"Nissan Shatai Co., Ltd.",0.02%
+493,Orient Corporation,0.02%
+494,"Kissei Pharmaceutical Co., Ltd.",0.01%
+495,Ichigo Inc.,0.01%
+496,Maruha Nichiro Corp.,0.01%
+497,H2O Retailing Corporation,0.01%
+498,"Gungho Online Entertainment, Inc.",0.01%
+499,"Fuji Media Holdings, Inc.",0.01%
+500,SKY Perfect JSAT Holdings Inc.,0.01%
+501,"Maeda Road Construction Co., Ltd.",0.01%
+502,"Tokyo Broadcasting System Holdings, Inc.",0.01%
+503,"H.I.S.Co., Ltd.",0.01%
+504,"Japan Petroleum Exploration Co., Ltd.",0.01%
+505,TV Asahi Holdings Corporation,0.01%
+506,"Nippon Television Holdings, Inc.",0.01%
+507,Institutional Fiduciary Trust Money Market Portfolio,0.00%

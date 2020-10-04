@@ -1,0 +1,992 @@
+,Name,Allocation
+0,U.S. Dollar,12.80%
+1,UMBS TBA 30yr 2% October Delivery 2.000% 01-DEC-2049,6.56%
+2,CORPORATE BOND,5.09%
+3,United States Treasury Bond 3.625% 15-FEB-2044,3.90%
+4,UMBS TBA 30yr 3% September Delivery 3.000% 01-APR-2048,3.85%
+5,GNMA II TBA 30yr 3% September Delivery 3.000% 01-FEB-2049,2.85%
+6,UMBS TBA 15yr 2% September Delivery 2.000% 01-JAN-2035,1.79%
+7,GNMA II TBA 30yr 3.5% September Delivery 3.500% 01-FEB-2049,1.78%
+8,UMBS TBA 30yr 3.5% September Delivery 3.500% 01-JUN-2048,1.70%
+9,United States Treasury Notes 2.75% 30-JUN-2025,1.65%
+10,United States Treasury Bond 3.75% 15-NOV-2043,1.37%
+11,United States Treasury Bond 3.625% 15-AUG-2043,1.25%
+12,UMBS TBA 30yr 4% September Delivery 4.000% 01-JUN-2048,1.24%
+13,United States Treasury Notes 0.625% 15-MAY-2030,1.18%
+14,UMBS TBA 30yr 2% September Delivery 2.000% 01-DEC-2049,1.15%
+15,UMBS TBA 30yr 4.5% September Delivery 4.500% 01-JUN-2048,1.06%
+16,GNMA II 30yr Pool#MA6766 3.000% 20-Jul-2050 3.0% 20-JUL-2050,0.97%
+17,TREASURY ISSUES (LONG-TERM),0.91%
+18,GNMA II TBA 30yr 2.5% September Delivery 2.500% 01-MAY-2049,0.78%
+19,GNMA II TBA 30yr 4.5% September Delivery 4.500% 01-DEC-2049,0.69%
+20,GNMA II TBA 30yr 4% September Delivery 4.000% 01-NOV-2048,0.58%
+21,FIXED INCOME (UNCLASSFIED),0.55%
+22,United States Treasury Notes 0.625% 15-JAN-2026,0.54%
+23,United States Treasury Notes 0.875% 15-JAN-2029,0.50%
+24,MORTGAGE-BACKED SECURITIES,0.48%
+25,United States Treasury Bond 3.375% 15-MAY-2044,0.42%
+26,GNMA II TBA 30yr 2% September Delivery 2.000% 01-NOV-2049,0.41%
+27,FHLMC 15yr Pool#ZS8673 3.000% 01-Oct-2032 3.0% 01-OCT-2032,0.41%
+28,United States Treasury Bond 3.125% 15-AUG-2044,0.40%
+29,United States Treasury Bond 3.0% 15-NOV-2045,0.38%
+30,FNMA 20yr Pool#AS9642 3.500% 01-May-2037 3.5% 01-MAY-2037,0.37%
+31,Otis Worldwide Corp. 2.565% 15-FEB-2030,0.31%
+32,Broadcom Inc. 5.0% 15-APR-2030,0.30%
+33,"Goldman Sachs Group, Inc. 3.5% 16-NOV-2026",0.29%
+34,Bank of America Corporation 3.705% 24-APR-2028,0.29%
+35,JPMorgan Chase & Co. 3.797% 23-JUL-2024,0.29%
+36,FNMA 30yr Pool#AL3067 4.000% 01-Jan-2043 4.0% 01-JAN-2043,0.27%
+37,UMBS TBA 15yr 3% September Delivery 3.000% 01-JAN-2033,0.26%
+38,Morgan Stanley 3.125% 27-JUL-2026,0.26%
+39,New York Transn Dev Corp Lease Rev 4.248% 01-SEP-2035,0.26%
+40,Metropolitan Transn Auth N Y Rev 5.175% 15-NOV-2049,0.25%
+41,GNMA II TBA 30yr 5% September Delivery 5.000% 01-SEP-2049,0.25%
+42,Bank of America Corporation 4.083% 20-MAR-2051,0.25%
+43,Fannie Mae REMIC Trust 2017-51 CP 3.0% 25-FEB-2047,0.24%
+44,FNMA 40yr Pool#BF0264 3.500% 01-May-2058 3.5% 01-MAY-2058,0.24%
+45,"PulteGroup, Inc. 5.5% 01-MAR-2026",0.23%
+46,"NRZ Advance Receivables Trust 2015-ON1, Advance Receivables Backed Notes, Series 2019-T1 AT1 2.59% 15-JUL-2052",0.23%
+47,"NRZ Advance Receivables Trust 2015-ON1, Advance Receivables Backed Notes, Series 2019-T5 AT5 2.4246% 15-OCT-2051",0.23%
+48,"Anheuser-Busch Inbev Worldwide, Inc. 5.45% 23-JAN-2039",0.23%
+49,United States Treasury Bond 2.25% 15-AUG-2049,0.23%
+50,Towd Point Mortgage Trust 2017-6 A1 2.75% 25-OCT-2057,0.23%
+51,"Freddie Mac Gold MACS, Series 286 3.5 3.5% 15-OCT-2042",0.22%
+52,BX Commercial Mortgage Trust 2019-XL A 1.082% 15-OCT-2036,0.22%
+53,UMBS TBA 15yr 2.5% September Delivery 2.500% 01-DEC-2033,0.22%
+54,Philadelphia Pa Auth For Indl Dev Pension Fdg 6.55% 15-OCT-2028,0.22%
+55,"Clean Harbors, Inc. 4.875% 15-JUL-2027",0.22%
+56,United States Treasury Bond 3.125% 15-MAY-2048,0.22%
+57,UMBS TBA 30yr 2.5% September Delivery 2.500% 01-JAN-2049,0.22%
+58,"IPALCO Enterprises, Inc. 4.25% 01-MAY-2030",0.21%
+59,United States Treasury Bond 3.0% 15-FEB-2048,0.21%
+60,Towd Point Mortgage Trust 2018-2 A1 3.25% 25-MAR-2058,0.21%
+61,Citigroup Inc. 3.2% 21-OCT-2026,0.21%
+62,FNMA 40yr Pool#BF0202 4.500% 01-Jan-2051 4.5% 01-JAN-2051,0.21%
+63,FNMA 30yr Pool#BM2003 4.000% 01-Oct-2047 4.0% 01-OCT-2047,0.21%
+64,Wells Fargo & Company 2.406% 30-OCT-2025,0.20%
+65,Riverside Cnty Calif Pension Oblig 3.07% 15-FEB-2028,0.20%
+66,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-1 MV 3.5% 25-JUL-2058",0.19%
+67,Riverside Cnty Calif Pension Oblig 2.863% 15-FEB-2026,0.19%
+68,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-3 MT 3.5% 25-OCT-2058",0.19%
+69,FHLMC 30yr Pool#Q44966 3.500% 01-Dec-2046 3.5% 01-DEC-2046,0.19%
+70,Domino's Pizza Master Issuer Series 2017-1 2017-A2II 3.082% 25-JUL-2047,0.19%
+71,GNMA II 30yr Pool#MA4262 3.500% 20-Feb-2047 3.5% 20-FEB-2047,0.19%
+72,Apple Inc. 2.2% 11-SEP-2029,0.18%
+73,MSCI Inc. 5.375% 15-MAY-2027,0.18%
+74,FNMA 30yr Pool#MA3334 4.500% 01-Apr-2048 4.5% 01-APR-2048,0.18%
+75,Wells Fargo & Company 3.069% 24-JAN-2023,0.18%
+76,"T-Mobile USA, Inc. 6.5% 15-JAN-2026",0.18%
+77,International Business Machines Corporation 1.95% 15-MAY-2030,0.18%
+78,Ball Corporation 4.0% 15-NOV-2023,0.18%
+79,Verizon Communications Inc. 4.812% 15-MAR-2039,0.17%
+80,Regional Management Issuance Trust 2018-2 A 4.56% 15-JAN-2028,0.17%
+81,Charter Communications Operating Capital Corp. 6.484% 23-OCT-2045,0.17%
+82,Dryden 33 Senior Loan Fund AR2 1.505% 15-APR-2029,0.17%
+83,Verizon Communications Inc. 4.5% 10-AUG-2033,0.17%
+84,Rede D'Or Finance SARL 4.5% 22-JAN-2030,0.17%
+85,"VOLT LXXXVI, Series 2020-NPL2 A1A 2.9814% 25-FEB-2050",0.17%
+86,Morgan Stanley Bank of America Merrill Lynch Trust 2014-C19 A4 3.526% 15-DEC-2047,0.17%
+87,Service Corporation International 5.125% 01-JUN-2029,0.17%
+88,Towd Point Mortgage Trust 2017-4 A1 2.75% 25-JUN-2057,0.16%
+89,FNMA 40yr Pool#BF0093 3.500% 01-May-2056 3.5% 01-MAY-2056,0.16%
+90,"T-Mobile USA, Inc. 3.5% 15-APR-2025",0.16%
+91,GNMA II Pool#784924 3.0% 20-FEB-2047,0.16%
+92,"Connecticut Avenue Securities, Series 2014-C04 2M2 5.17163% 25-NOV-2024",0.16%
+93,"Ashtead Capital, Inc. 4.375% 15-AUG-2027",0.16%
+94,United States Treasury Bond 1.0% 15-FEB-2048,0.16%
+95,GNMA II 30yr Pool#MA3035 4.000% 20-Aug-2045 4.0% 20-AUG-2045,0.16%
+96,IHS Markit Ltd. 4.125% 01-AUG-2023,0.16%
+97,NortonLifeLock Inc. 5.0% 15-APR-2025,0.16%
+98,Oracle Corporation 3.85% 01-APR-2060,0.16%
+99,Government of Romania 4.625% 03-APR-2049,0.16%
+100,"NRZ Advance Receivables Trust 2015-ON1, Advance Receivables Backed Notes, Series 2019-T4 AT4 2.3286% 15-OCT-2051",0.16%
+101,Citigroup Commercial Mortgage Trust 2014-GC23 A4 3.622% 10-JUL-2047,0.16%
+102,"NRZ Advance Receivables Trust 2015-ON1, Advance Receivables Backed Notes, Series 2019-T3 AT3 2.5118% 15-SEP-2052",0.15%
+103,Chesapeake Funding II Series 2019-2 A1 1.95% 15-SEP-2031,0.15%
+104,Government of the Dominican Republic 6.4% 05-JUN-2049,0.15%
+105,Fnma Connecticut Avenue Securities Series 2016-C04 4.42163% 25-JAN-2029,0.15%
+106,ASSET-BACKED SECURITIES,0.15%
+107,"Anheuser-Busch Inbev Worldwide, Inc. 4.6% 15-APR-2048",0.15%
+108,Fannie Mae REMIC Trust 2019-12 HA 3.5% 25-NOV-2057,0.15%
+109,Morgan Stanley 2.699% 22-JAN-2031,0.15%
+110,Credit Suisse Group AG 6.25% PERP,0.15%
+111,FHLMC 30yr Pool#G08870 5.500% 01-Feb-2049 5.5% 01-FEB-2049,0.15%
+112,New Residential Mortgage Loan Trust 2018-RPL1 A1 3.5% 25-DEC-2057,0.14%
+113,FNMA 30yr Pool#CA0451 3.500% 01-Sep-2047 3.5% 01-SEP-2047,0.14%
+114,"Connecticut Avenue Securities, Series 2015-C04 2M2 5.72163% 25-APR-2028",0.14%
+115,TICP CLO III-2 A 1.11175% 20-APR-2028,0.14%
+116,"VOLT LXXXVIII, Series 2020-NPL4 A1 2.9811% 25-MAR-2050",0.14%
+117,Fannie Mae Guaranteed Stripped Mortgage-Backed Securities Trust Number 416 A300 3.0% 25-NOV-2042,0.14%
+118,"Home Depot, Inc. 3.3% 15-APR-2040",0.14%
+119,SoftBank Group Corp. 6.0% PERP,0.14%
+120,Towd Point Mortgage Trust 2019-4 A1 2.9% 25-OCT-2059,0.14%
+121,JPMorgan Chase & Co. 3.702% 06-MAY-2030,0.14%
+122,Power Finance Corporation Limited 3.95% 23-APR-2030,0.14%
+123,Metlife Securitization Trust 2018-1 A 3.75% 25-MAR-2057,0.14%
+124,Fannie Mae REMIC Trust 2019-14 CA 3.5% 25-APR-2049,0.14%
+125,UBS Group Funding (Switzerland) AG 7.0% PERP,0.14%
+126,Boston Scientific Corporation 3.75% 01-MAR-2026,0.14%
+127,FNMA 30yr Pool#FM2892 3.500% 01-Jul-2048 3.5% 01-JUL-2048,0.14%
+128,FHLMC 30yr Pool#ZA5113 4.000% 01-Dec-2047 4.0% 01-DEC-2047,0.14%
+129,Suzano Austria GmbH 5.0% 15-JAN-2030,0.14%
+130,Fannie Mae REMIC Trust 2019-15 AB 3.5% 25-MAY-2053,0.14%
+131,COMM 2014-UBS4 A5 3.694% 10-AUG-2047,0.13%
+132,"Constellation Brands, Inc. 3.6% 15-FEB-2028",0.13%
+133,Exelon Corporation 3.95% 15-JUN-2025,0.13%
+134,FNMA 30yr Pool#BJ6137 3.500% 01-Jan-2048 3.5% 01-JAN-2048,0.13%
+135,WFRBS Commercial Mortgage Trust 2012-C10 A3 2.875% 15-DEC-2045,0.13%
+136,Evergreen Credit Card Trust 1.9% 15-SEP-2024,0.13%
+137,COMM 2014-UBS2 A5 3.961% 10-MAR-2047,0.13%
+138,"T-Mobile USA, Inc. 3.875% 15-APR-2030",0.13%
+139,FHLMC 30yr Pool#Q45650 3.500% 01-Jan-2047 3.5% 01-JAN-2047,0.13%
+140,Southern Company 3.7% 30-APR-2030,0.13%
+141,"SPS Servicer Advance Receivables Trust, Series 2019-T2 AT2 2.32% 15-OCT-2052",0.13%
+142,"VOLT LXXX, Series 2019-NPL6 A1A 3.2282% 25-OCT-2049",0.13%
+143,GNMA II 30yr Pool#MA5986 4.000% 20-Jun-2049 4.0% 20-JUN-2049,0.13%
+144,McDonald's Corporation 4.2% 01-APR-2050,0.12%
+145,Charter Communications Operating LLC 5.375% 01-MAY-2047,0.12%
+146,"Zimmer Biomet Holdings, Inc. 3.05% 15-JAN-2026",0.12%
+147,United States Treasury Bond 1.0% 15-FEB-2049,0.12%
+148,FHLMC Stacr 2019-HQA1 2.52163% 25-FEB-2049,0.12%
+149,WFRBS Commercial Mortgage Trust 2014-C24 A5 3.607% 15-NOV-2047,0.12%
+150,Fannie Mae REMIC Trust 2019-45 PT 3.0% 25-AUG-2049,0.12%
+151,Diageo Capital Plc 2.0% 29-APR-2030,0.12%
+152,"Dominion Energy, Inc. 3.375% 01-APR-2030",0.12%
+153,Union Pacific Corporation 4.375% 10-SEP-2038,0.12%
+154,NXP BV 4.875% 01-MAR-2024,0.12%
+155,"Hilton Domestic Operating Co., Inc. 4.25% 01-SEP-2024",0.12%
+156,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2020-1 MT 2.5% 25-AUG-2059",0.12%
+157,COMM 2013-LC6 A4 2.941% 10-JAN-2046,0.12%
+158,JPMorgan Chase & Co. 3.96% 29-JAN-2027,0.12%
+159,COMM 2013-CCRE9 Mortgage Trust A4 4.361531% 10-JUL-2045,0.12%
+160,"Connecticut Avenue Securities, Series 2014-C01 M2 4.57163% 25-JAN-2024",0.12%
+161,FHLMC 20yr Pool#G31106 5.000% 01-Sep-2031 5.0% 01-SEP-2031,0.12%
+162,Towd Point Mortgage Trust 2017-1 A1 2.75% 25-OCT-2056,0.12%
+163,"Becton, Dickinson and Company 3.363% 06-JUN-2024",0.12%
+164,UBS-Barclays Commercial Mortgage Trust 2013-C6 A4 3.2443% 10-APR-2046,0.12%
+165,Broadcom Corporation 3.875% 15-JAN-2027,0.12%
+166,Morgan Stanley 2.5% 21-APR-2021,0.11%
+167,Apple Inc. 3.35% 09-FEB-2027,0.11%
+168,"Vantage Data Centers Issuer, Series 2018-2 A2_2018_2 4.196% 15-NOV-2043",0.11%
+169,"Connecticut Avenue Securities, Series 2015-C04 1M2 5.87163% 25-APR-2028",0.11%
+170,Comcast Corporation 3.75% 01-APR-2040,0.11%
+171,FNMA 30yr Pool#MA3183 4.000% 01-Nov-2047 4.0% 01-NOV-2047,0.11%
+172,COMM 2014-CCRE19 Mortgage Trust A5 3.796% 10-AUG-2047,0.11%
+173,Government of Chile 2.55% 27-JAN-2032,0.11%
+174,Government of the United States of America 0.25% 15-JUL-2030,0.11%
+175,International Airport Finance SA 12.0% 15-MAR-2033,0.11%
+176,"DuPont de Nemours, Inc. 4.205% 15-NOV-2023",0.11%
+177,GS Mortgage Securities Trust 2014-GC26 A5 3.629% 10-NOV-2047,0.11%
+178,NiSource Inc. 3.6% 01-MAY-2030,0.11%
+179,"GlaxoSmithKline Capital, Inc. 3.625% 15-MAY-2025",0.11%
+180,United States Treasury Bond 3.0% 15-FEB-2047,0.11%
+181,BAMLL Commercial Mortgage Securities Trust 2019-BPR ANM 3.112% 05-NOV-2032,0.11%
+182,Broadcom Inc. 4.25% 15-APR-2026,0.11%
+183,United Technologies Corporation 3.95% 16-AUG-2025,0.11%
+184,CIFC Funding 2018-I A 1.27175% 18-APR-2031,0.11%
+185,Triangle Re 2019-1 M1 2.07163% 25-NOV-2029,0.11%
+186,"PNC Financial Services Group, Inc. 2.55% 22-JAN-2030",0.10%
+187,Georgia Power Company 2.1% 30-JUL-2023,0.10%
+188,Telefonica Celular del Paraguay SAE 5.875% 15-APR-2027,0.10%
+189,Wells Fargo & Company 3.0% 22-APR-2026,0.10%
+190,Voya CLO 2015-1 A1R 1.17175% 18-JAN-2029,0.10%
+191,Fannie Mae Guaranteed Stripped Mortgage-Backed Securities Trust Number 411 A3 3.0% 25-AUG-2042,0.10%
+192,AT&T Inc. 3.825% 25-NOV-2020,0.10%
+193,Bank of America Corporation 3.864% 23-JUL-2024,0.10%
+194,Sound Point CLO IV-R A 1.42175% 18-APR-2031,0.10%
+195,International Business Machines Corporation 3.5% 15-MAY-2029,0.10%
+196,"Duke Energy Carolinas, LLC 4.25% 15-DEC-2041",0.10%
+197,Carlyle Global Market Strategies CLO 2013-4 A1RR 1.275% 15-JAN-2031,0.10%
+198,New Residential Mortgage Loan Trust 2019-1 A1 4.0% 25-SEP-2057,0.10%
+199,New York Life Global Funding 2.0% 22-JAN-2025,0.10%
+200,OCP CLO 2016-12 A1R 1.39175% 18-OCT-2028,0.10%
+201,AbbVie Inc. 2.95% 21-NOV-2026,0.10%
+202,"Connecticut Avenue Securities, Series 2015-C03 2M2 5.17163% 25-JUL-2025",0.10%
+203,FNMA 30yr Pool#BF0237 4.000% 01-Jun-2041 4.0% 01-JUN-2041,0.10%
+204,Marathon Petroleum Corporation 4.7% 01-MAY-2025,0.10%
+205,"Energy Transfer Operating, L.P. 6.125% 15-DEC-2045",0.10%
+206,JPMBB Commercial Mortgage Securities Trust 2013-C12 A4 3.3626% 15-JUL-2045,0.10%
+207,CVS Health Corporation 4.125% 01-APR-2040,0.10%
+208,"NBM US Holdings, Inc. 7.0% 14-MAY-2026",0.10%
+209,"Structured Agency Credit Risk (STACR) Debt Notes, Series 2013-DN2 M2 4.42163% 25-NOV-2023",0.10%
+210,Fannie Mae REMIC Trust 2014-78 PA 2.0% 25-MAY-2044,0.10%
+211,"Connecticut Avenue Securities, Series 2014-C03 1M2 3.17163% 25-JUL-2024",0.10%
+212,Sprint Spectrum Co. LLC 5.152% 20-MAR-2028,0.10%
+213,FNMA 30yr Pool#MA3210 3.500% 01-Dec-2047 3.5% 01-DEC-2047,0.10%
+214,"Cox Communications, Inc. 3.15% 15-AUG-2024",0.10%
+215,Anglo American Capital Plc 4.75% 10-APR-2027,0.10%
+216,OZLM XII A1R 1.31825% 30-APR-2027,0.10%
+217,Northrop Grumman Corporation 5.15% 01-MAY-2040,0.09%
+218,Teva Pharmaceutical Finance Netherlands III BV 3.15% 01-OCT-2026,0.09%
+219,Government of Qatar 3.75% 16-APR-2030,0.09%
+220,"NRZ MSR-Collateralized Notes, Series 2018-FNT2 A 3.79% 25-JUL-2054",0.09%
+221,General Motors Company 6.125% 01-OCT-2025,0.09%
+222,Bank of America Corporation 3.194% 23-JUL-2030,0.09%
+223,Wells Fargo Commercial Mortgage Trust 2012-LC5 A3 2.918% 15-OCT-2045,0.09%
+224,"L3Harris Technologies, Inc. 2.9% 15-DEC-2029",0.09%
+225,Fannie Mae REMIC Trust 2015-26 A 2.0% 25-MAR-2044,0.09%
+226,"PNC Financial Services Group, Inc. 2.2% 01-NOV-2024",0.09%
+227,Carlyle Global Market Strategies CLO 2015-2 A1R 1.0245% 27-APR-2027,0.09%
+228,Citigroup Inc. 3.352% 24-APR-2025,0.09%
+229,HSBC Holdings Plc 4.583% 19-JUN-2029,0.09%
+230,Bayer US Finance II LLC 4.25% 15-DEC-2025,0.09%
+231,"Amazon.com, Inc. 3.875% 22-AUG-2037",0.09%
+232,"Altria Group, Inc. 5.375% 31-JAN-2044",0.09%
+233,Walt Disney Company 2.65% 13-JAN-2031,0.09%
+234,Metropolitan Transn Auth N Y Rev 5.0% 15-NOV-2050,0.09%
+235,FHLMC 30yr Pool#G08789 4.000% 01-Nov-2047 4.0% 01-NOV-2047,0.09%
+236,Emirate of Abu Dhabi (United Arab Emirates) 3.875% 16-APR-2050,0.09%
+237,ALM XVI A1ARR 1.175% 15-JUL-2027,0.09%
+238,FedEx Corporation 4.25% 15-MAY-2030,0.08%
+239,CAMB Commercial Mortgage Trust 2019-LIFE F 2.712% 15-DEC-2037,0.08%
+240,"DB Master Finance, Series 2019-1 A2I 3.787% 20-MAY-2049",0.08%
+241,Treman Park CLO ARR 1.34175% 20-OCT-2028,0.08%
+242,Connecticut Avenue Securities Trust 2019-R04 2.27163% 25-JUN-2039,0.08%
+243,Federal National Mortgage Association 3.72163% 25-JUL-2029,0.08%
+244,COMM 2015-3BP A 3.178% 10-FEB-2035,0.08%
+245,Vodafone Group Plc 6.15% 27-FEB-2037,0.08%
+246,Penske Truck Leasing Co. LP 2.7% 01-NOV-2024,0.08%
+247,Dominion Energy Gas Holdings LLC 2.5% 15-NOV-2024,0.08%
+248,AT&T Inc. 4.35% 15-JUN-2045,0.08%
+249,State of Illinois 4.95% 01-JUN-2023,0.08%
+250,FNMA 30yr Pool#BC0676 3.500% 01-Dec-2045 3.5% 01-DEC-2045,0.08%
+251,Bank 2020-BNK25 XA 1.000846% 15-JAN-2063,0.08%
+252,FHLMC STACR 2018-HRP1 1.82163% 25-MAY-2043,0.08%
+253,Citigroup Inc. 4.412% 31-MAR-2031,0.08%
+254,Bank 2018-BNK10 XA 0.878644% 15-FEB-2061,0.08%
+255,New Residential Mortgage Loan Trust 2017-6 A1 4.0% 25-AUG-2057,0.08%
+256,"Structured Agency Credit Risk (STACR) Debt Notes, Series 2016-DNA1 M3 5.72163% 25-JUL-2028",0.08%
+257,State Street Corporation 2.354% 01-NOV-2025,0.08%
+258,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2018-3 MA 3.5% 25-AUG-2057",0.08%
+259,Citigroup Commercial Mortgage Trust 2016-C3 C 4.262992% 15-NOV-2049,0.08%
+260,Fannie Mae Multifamily REMIC Trust 2019-M21 X3 1.331523% 25-JUN-2034,0.08%
+261,Government of Qatar 3.4% 16-APR-2025,0.08%
+262,"Anthem, Inc. 2.25% 15-MAY-2030",0.08%
+263,"SBA Tower Trust, Secured Tower Revenue Securities, Series 2019-1 C_2019_1 2.836% 15-JAN-2050",0.08%
+264,Penske Truck Leasing Co. LP 4.0% 15-JUL-2025,0.08%
+265,UBS Group Funding (Switzerland) AG 2.65% 01-FEB-2022,0.08%
+266,CCO Holdings LLC 4.25% 01-FEB-2031,0.08%
+267,AbbVie Inc. 4.25% 21-NOV-2049,0.08%
+268,Voya CLO 2016-3 A1R 1.46175% 18-OCT-2031,0.08%
+269,PMT Credit Risk Transfer Trust 2019-1R A 2.16625% 27-MAR-2024,0.08%
+270,Minerva Luxembourg SA 6.5% 20-SEP-2026,0.08%
+271,Municipal Elec Auth Ga 6.637% 01-APR-2057,0.08%
+272,UniCredit S.p.A. 6.572% 14-JAN-2022,0.08%
+273,Tencent Holdings Ltd. 3.595% 19-JAN-2028,0.08%
+274,Boeing Company 5.04% 01-MAY-2027,0.08%
+275,Discovery Communications LLC 6.35% 01-JUN-2040,0.08%
+276,New Residential Mortgage Loan Trust 2017-3 A1 4.0% 25-APR-2057,0.08%
+277,Government of Saudi Arabia 2.9% 22-OCT-2025,0.08%
+278,Bank of New York Mellon Corporation 2.1% 24-OCT-2024,0.07%
+279,BNP Paribas S.A. 2.219% 09-JUN-2026,0.07%
+280,"Evergy, Inc. 2.9% 15-SEP-2029",0.07%
+281,FNMA 10yr Pool#AN4436 3.180% 01-Feb-2027 3.18% 01-FEB-2027,0.07%
+282,Amgen Inc. 2.2% 21-FEB-2027,0.07%
+283,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2018-2 MV 3.5% 25-NOV-2057",0.07%
+284,Fannie Mae REMIC Trust 2018-72 BA 3.5% 25-JUL-2054,0.07%
+285,DERIVATIVE SECURITIES (OTHER),0.07%
+286,Fannie Mae REMIC Trust 2017-72 CD 3.0% 25-SEP-2047,0.07%
+287,MTRO Commercial Mortgage Trust 2019-TECH D 1.962% 15-DEC-2033,0.07%
+288,Anglo American Capital Plc 5.625% 01-APR-2030,0.07%
+289,"Kinder Morgan Energy Partners, L.P. 3.5% 01-MAR-2021",0.07%
+290,Fannie Mae REMIC Trust 2017-72 B 3.0% 25-SEP-2047,0.07%
+291,Benchmark 2018-B4 Commercial Mortgage Trust XA 0.686731% 15-JUL-2051,0.07%
+292,"Fiserv, Inc. 3.2% 01-JUL-2026",0.07%
+293,Kernel Holding S.A. 6.5% 17-OCT-2024,0.07%
+294,GE Capital Funding LLC 4.4% 15-MAY-2030,0.07%
+295,"Puget Energy, Inc. 3.65% 15-MAY-2025",0.07%
+296,"Wendy's Funding, Series 2018-1 2018_A2II 3.884% 15-MAR-2048",0.07%
+297,TransCanada PipeLines Ltd. 4.1% 15-APR-2030,0.07%
+298,NiSource Finance Corp. 3.49% 15-MAY-2027,0.07%
+299,FNMA 30yr Pool#FM3346 3.500% 01-Jan-2046 3.5% 01-JAN-2046,0.07%
+300,NVIDIA Corporation 3.5% 01-APR-2040,0.07%
+301,Benefit Street Partners CLO IV A1RR 1.52175% 20-JAN-2029,0.07%
+302,Fannie Mae REMIC Trust 2018-19 DC 3.5% 25-MAY-2056,0.07%
+303,"Constellation Brands, Inc. 3.15% 01-AUG-2029",0.07%
+304,"Conagra Brands, Inc. 4.85% 01-NOV-2028",0.07%
+305,B.A.T. Capital Corp. 2.789% 06-SEP-2024,0.07%
+306,Government of Ghana 6.375% 11-FEB-2027,0.07%
+307,GNMA II 30yr Pool#AB9186 3.500% 20-Nov-2042 3.5% 20-NOV-2042,0.07%
+308,Inter-American Development Bank 7.25% 10-JUN-2021,0.07%
+309,CVS Health Corporation 5.05% 25-MAR-2048,0.07%
+310,Southern California Edison Company 2.25% 01-JUN-2030,0.07%
+311,Georgia Power Company 4.3% 15-MAR-2042,0.07%
+312,Ginnie Mae REMIC Trust 2013-037 LG 2.0% 20-JAN-2042,0.07%
+313,"Connecticut Avenue Securities, Series 2014-C04 1M2 5.07163% 25-NOV-2024",0.07%
+314,KeyCorp 2.55% 01-OCT-2029,0.07%
+315,Charter Communications Operating LLC 5.75% 01-APR-2048,0.07%
+316,Government of Senegal 6.25% 23-MAY-2033,0.07%
+317,Danske Bank A/S 5.375% 12-JAN-2024,0.07%
+318,Fannie Mae REMIC Trust 2019-7 JA 3.5% 25-MAR-2049,0.07%
+319,"Structured Agency Credit Risk (STACR) Debt Notes, Series 2019-DNA3 M2 2.22163% 25-JUL-2049",0.07%
+320,"VOLT LXXXI, Series 2019-NPL7 A1A 3.1789% 25-OCT-2049",0.07%
+321,Microsoft Corporation 3.7% 08-AUG-2046,0.07%
+322,Global Payments Inc. 2.9% 15-MAY-2030,0.07%
+323,Tencent Holdings Ltd. 3.975% 11-APR-2029,0.07%
+324,"Freddie Mac Multiclass Certificates, Series 4136 EB 1.75% 15-OCT-2042",0.06%
+325,"CSC Holdings, LLC 3.375% 15-FEB-2031",0.06%
+326,Sempra Energy 3.4% 01-FEB-2028,0.06%
+327,BlueMountain CLO 2015-2 A1R 1.20175% 18-JUL-2027,0.06%
+328,QUALCOMM Incorporated 4.8% 20-MAY-2045,0.06%
+329,"Standard Industries, Inc. (New York) 6.0% 15-OCT-2025",0.06%
+330,"AutoZone, Inc. 3.625% 15-APR-2025",0.06%
+331,Southern Company 3.25% 01-JUL-2026,0.06%
+332,Alibaba Group Holding Ltd. 4.2% 06-DEC-2047,0.06%
+333,FNMA Connecticut Avenue Securities Series 2019-R02 2.47163% 25-AUG-2031,0.06%
+334,"Willis North America, Inc. 4.5% 15-SEP-2028",0.06%
+335,"Deephaven Residential Mortgage Trust, Series 2019-4 A1 2.791% 25-OCT-2059",0.06%
+336,Emirate of Abu Dhabi (United Arab Emirates) 2.5% 16-APR-2025,0.06%
+337,Alibaba Group Holding Ltd. 3.4% 06-DEC-2027,0.06%
+338,Berkshire Hathaway Energy Co. 3.25% 15-APR-2028,0.06%
+339,California St 7.3% 01-OCT-2039,0.06%
+340,"Steel Dynamics, Inc. 2.8% 15-DEC-2024",0.06%
+341,Public Service Enterprise Group Incorporated 2.875% 15-JUN-2024,0.06%
+342,FNMA 10yr Pool#AN7963 3.100% 01-Dec-2027 3.1% 01-DEC-2027,0.06%
+343,Southern California Edison Company 2.85% 01-AUG-2029,0.06%
+344,Syngenta Finance NV 4.892% 24-APR-2025,0.06%
+345,Comcast Corporation 4.6% 15-OCT-2038,0.06%
+346,China Construction Bank Corporation FRN 24-SEP-2021,0.06%
+347,Alcon Finance Corp. 2.75% 23-SEP-2026,0.06%
+348,Fnma Connecticut Avenue Securities Series 2016-C07 4.52163% 25-MAY-2029,0.06%
+349,"L3Harris Technologies, Inc. 3.85% 15-JUN-2023",0.06%
+350,Fifth Third Bancorp 2.375% 28-JAN-2025,0.06%
+351,Capital One Financial Corporation 3.9% 29-JAN-2024,0.06%
+352,OZLM IX A1ARR 1.55175% 20-OCT-2031,0.06%
+353,Danske Bank A/S 5.0% 12-JAN-2022,0.06%
+354,"Connecticut Avenue Securities, Series 2015-C03 1M2 5.17163% 25-JUL-2025",0.06%
+355,FNMA 15yr Pool#FM3067 3.000% 01-Aug-2033 3.0% 01-AUG-2033,0.06%
+356,Equinor ASA 3.625% 06-APR-2040,0.06%
+357,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-2 MA 3.5% 25-AUG-2058",0.06%
+358,Telefonica Emisiones SA 5.213% 08-MAR-2047,0.06%
+359,LSTAR Securities Investment 2019-1 A1 1.85563% 01-MAR-2024,0.06%
+360,Charter Communications Operating LLC 4.8% 01-MAR-2050,0.06%
+361,Commonwealth Edison Company 3.65% 15-JUN-2046,0.06%
+362,Aon plc 2.2% 15-NOV-2022,0.06%
+363,Government of Senegal 4.75% 13-MAR-2028,0.06%
+364,GNMA II 30yr Pool#MA4586 3.500% 20-Jul-2047 3.5% 20-JUL-2047,0.06%
+365,Boeing Company 5.15% 01-MAY-2030,0.06%
+366,FHLMC 30yr Pool#Q53682 3.500% 01-Jan-2048 3.5% 01-JAN-2048,0.06%
+367,"IPALCO Enterprises, Inc. 3.7% 01-SEP-2024",0.05%
+368,CCO Holdings LLC 5.125% 01-MAY-2027,0.05%
+369,Federal Home Loan Mortgage Corporation 1.97163% 25-JUL-2030,0.05%
+370,JPMorgan Chase & Co. 4.005% 23-APR-2029,0.05%
+371,United Technologies Corporation 4.45% 16-NOV-2038,0.05%
+372,GLP Capital LP 5.75% 01-JUN-2028,0.05%
+373,"Santander Holdings USA, Inc. 3.7% 28-MAR-2022",0.05%
+374,McDonald's Corporation 3.35% 01-APR-2023,0.05%
+375,FHLMC 30yr Pool#G08766 3.500% 01-Jun-2047 3.5% 01-JUN-2047,0.05%
+376,"Altria Group, Inc. 5.8% 14-FEB-2039",0.05%
+377,GNMA II 30yr Pool#MA4451 3.500% 20-May-2047 3.5% 20-MAY-2047,0.05%
+378,Toll Brothers Finance Corp. 4.875% 15-NOV-2025,0.05%
+379,"Structured Agency Credit Risk (STACR) Debt Notes, Series 2014-DN1 M2 2.37163% 25-FEB-2024",0.05%
+380,AT&T Inc. 4.5% 09-MAR-2048,0.05%
+381,"Structured Agency Credit Risk (STACR) Debt Notes, Series 2016-HQA2 M3 5.32163% 25-NOV-2028",0.05%
+382,Discovery Communications LLC 3.95% 20-MAR-2028,0.05%
+383,GNMA II 30yr Pool#MA5077 3.500% 20-Mar-2048 3.5% 20-MAR-2048,0.05%
+384,UnitedHealth Group Incorporated 2.875% 15-AUG-2029,0.05%
+385,Molson Coors International LP 2.75% 18-SEP-2020,0.05%
+386,"Marsh & McLennan Companies, Inc. 3.875% 15-MAR-2024",0.05%
+387,"Aramark Services, Inc. 5.0% 01-FEB-2028",0.05%
+388,Fannie Mae REMIC Trust 2017-26 CG 3.5% 25-JUL-2044,0.05%
+389,"Conagra Brands, Inc. 4.6% 01-NOV-2025",0.05%
+390,Bank of America Corporation 2.456% 22-OCT-2025,0.05%
+391,"Owens-Brockway Glass Container, Inc. 5.875% 15-AUG-2023",0.05%
+392,FNMA 30yr Pool#FM3412 3.500% 01-Mar-2046 3.5% 01-MAR-2046,0.05%
+393,Kellogg Company 3.4% 15-NOV-2027,0.05%
+394,FHLMC Stacr 2019-HQA3 2.02163% 25-SEP-2049,0.05%
+395,Government of Mexico 4.5% 22-APR-2029,0.05%
+396,GNMA I 30yr Pool#784770 5.500% 15-Sep-2045 5.5% 15-SEP-2045,0.05%
+397,"Goldman Sachs Group, Inc. 6.75% 01-OCT-2037",0.05%
+398,FNMA 30yr Pool#AK2833 4.000% 01-Feb-2042 4.0% 01-FEB-2042,0.05%
+399,Morgan Stanley 5.0% 24-NOV-2025,0.05%
+400,AerCap Ireland Capital DAC 3.875% 23-JAN-2028,0.05%
+401,"Lowe's Companies, Inc. 4.55% 05-APR-2049",0.05%
+402,FHLMC 30yr Pool#ZS0886 5.000% 01-Jul-2035 5.0% 01-JUL-2035,0.05%
+403,"Lowe's Companies, Inc. 5.0% 15-APR-2040",0.05%
+404,"Duke Energy Indiana, LLC 3.25% 01-OCT-2049",0.05%
+405,Domino's Pizza Master Issuer Series 2019-1 2019-A2 3.668% 25-OCT-2049,0.05%
+406,Houghton Mifflin Harcourt Co 22-Nov-2019 Term Loan 22-Nov-2024,0.05%
+407,PRPM Trust 2019-GS1 A1 3.474% 25-OCT-2024,0.05%
+408,"Alpek, S.A.B. de C.V. 4.25% 18-SEP-2029",0.05%
+409,"Marsh & McLennan Companies, Inc. 4.375% 15-MAR-2029",0.05%
+410,JP Morgan Chase Commercial Mortgage Securities Trust 2020-NNN AFX 2.8123% 16-JAN-2037,0.05%
+411,Wells Fargo & Company 3.75% 24-JAN-2024,0.05%
+412,ETP Legacy LP 4.95% 15-JUN-2028,0.05%
+413,MPLX LP 5.2% 01-MAR-2047,0.05%
+414,"Elanco Animal Health, Inc. Equity Unit Cons of Nts 01.02.23 + 1 PC",0.05%
+415,Alixpartners Llp 28-Mar-2017 Term Loan B 04-Apr-2024,0.05%
+416,FNMA 10yr Pool#AN7376 2.880% 01-Nov-2027 2.88% 01-NOV-2027,0.05%
+417,FHLMC 30yr Pool#Q53534 3.000% 01-Jan-2048 3.0% 01-JAN-2048,0.05%
+418,Alpha Topco Ltd 31-Jan-2018 Term Loan B 01-Feb-2024,0.05%
+419,AbbVie Inc. 4.625% 01-OCT-2042,0.05%
+420,Oracle Corporation 4.0% 15-NOV-2047,0.05%
+421,"Fidelity National Information Services, Inc. 3.75% 21-MAY-2029",0.05%
+422,Sedgwick Claims Mgmt Sec Tl 29-Oct-2018 Senior Sec. Term Loan B 31-Aug-1905,0.04%
+423,"United Rentals (North America), Inc. 5.875% 15-SEP-2026",0.04%
+424,Cirrus Funding 2018-1 A 4.8% 25-JAN-2037,0.04%
+425,"Freddie Mac Structured Pass-Through Certificates, Series K-112 X1 1.536124% 25-MAY-2030",0.04%
+426,Chicago Ill Brd Ed 6.319% 01-NOV-2029,0.04%
+427,Zelis Payments Buyer Inc 27-Sep-2019 Term Loan B 10-Sep-2026,0.04%
+428,Savage Enterprises Llc 12-Feb-2020 Term Loan B 01-Aug-2025,0.04%
+429,Credit Suisse Group Funding (Guernsey) Ltd. FRN 16-APR-2021,0.04%
+430,Navient Corporation 7.25% 25-JAN-2022,0.04%
+431,Alcon Finance Corp. 3.0% 23-SEP-2029,0.04%
+432,American Tower Corporation 2.4% 15-MAR-2025,0.04%
+433,COMM 2014-CCRE14 Mortgage Trust A4 4.236% 10-FEB-2047,0.04%
+434,Asurion Llc 31-Jul-2017 Term Loan B-4 04-Aug-2022,0.04%
+435,FNMA 10yr Pool#AN6257 3.160% 01-Aug-2027 3.16% 01-AUG-2027,0.04%
+436,CSAIL 2015-C2 Commercial Mortgage Trust XA 0.891865% 15-APR-2025,0.04%
+437,Duke Energy Corporation 2.65% 01-SEP-2026,0.04%
+438,Brightview Holdings Inc 27-Jul-2018 Delayed Draw/Multi-Draw Term Loan 27-Jul-2025,0.04%
+439,"Connecticut Avenue Securities, Series 2016-C02 1M2 6.17163% 25-SEP-2028",0.04%
+440,Fannie Mae REMIC Trust 2018-70 HA 3.5% 25-OCT-2056,0.04%
+441,GNMA II 30yr Pool#MA4837 3.500% 20-Nov-2047 3.5% 20-NOV-2047,0.04%
+442,Equifax Inc. 2.6% 15-DEC-2025,0.04%
+443,General Electric Company 3.625% 01-MAY-2030,0.04%
+444,Diamond Bc Bv 25-Jul-2017 Term Loan 06-Sep-2024,0.04%
+445,International Business Machines Corporation 4.7% 19-FEB-2046,0.04%
+446,Comcast Corporation 3.25% 01-NOV-2039,0.04%
+447,GLP Capital LP 5.3% 15-JAN-2029,0.04%
+448,Intel Corporation 3.1% 15-FEB-2060,0.04%
+449,FNMA 10yr Pool#AN7676 3.000% 01-Dec-2029 3.0% 01-DEC-2029,0.04%
+450,Charter Communications Holdings Llc 23-Oct-2019 Term Loan B-2 01-Feb-2027,0.04%
+451,Sysco Corporation 5.95% 01-APR-2030,0.04%
+452,MPLX LP 4.125% 01-MAR-2027,0.04%
+453,AbbVie Inc. 3.2% 21-NOV-2029,0.04%
+454,"BP Capital Markets America, Inc. 3.633% 06-APR-2030",0.04%
+455,FNMA 15yr Balloon Pool#AN6046 3.220% 01-Jul-2032 3.22% 01-JUL-2032,0.04%
+456,Tullow Oil plc 7.0% 01-MAR-2025,0.04%
+457,Oglethorpe Power Corporation 5.05% 01-OCT-2048,0.04%
+458,New Residential Mortgage Loan Trust 2018-4 A1S 0.92163% 25-JAN-2048,0.04%
+459,Cleco Corporate Holdings LLC 3.375% 15-SEP-2029,0.04%
+460,GNMA II 30yr Pool#MA3803 3.500% 20-Jul-2046 3.5% 20-JUL-2046,0.04%
+461,GNMA II 30yr Pool#MA4004 3.500% 20-Oct-2046 3.5% 20-OCT-2046,0.04%
+462,Baxter International Inc. 3.95% 01-APR-2030,0.04%
+463,"T-Mobile USA, Inc. 4.5% 15-APR-2050",0.04%
+464,Beacon Roofing Supply Inc 24-Aug-2017 Term Loan B 01-Jan-2025,0.04%
+465,Hub International Ltd 24-Feb-2020 Term Loan B 25-Apr-2025,0.04%
+466,Alabama Power Company 4.15% 15-AUG-2044,0.04%
+467,Multiplan Inc 31-Mar-2014 Term Loan B 25-May-2023,0.04%
+468,NXP BV 5.35% 01-MAR-2026,0.04%
+469,Ply Gem Midco Llc 12-Apr-2018 Term Loan 12-Apr-2025,0.04%
+470,Bank of America Corporation 2.496% 13-FEB-2031,0.04%
+471,"Marsh & McLennan Companies, Inc. 4.75% 15-MAR-2039",0.04%
+472,Anheuser-Busch Cos. LLC 4.7% 01-FEB-2036,0.04%
+473,Benchmark 2018-B1 Mortgage Trust XA 0.655403% 15-JAN-2051,0.04%
+474,State Street Corporation 2.901% 30-MAR-2026,0.04%
+475,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-2 MV 3.5% 25-AUG-2058",0.04%
+476,Open Text Corporation 5.875% 01-JUN-2026,0.04%
+477,Ginnie Mae REMIC Trust 2018-044 P 3.0% 20-OCT-2047,0.04%
+478,Fhlmc Stacr 2017-Hrp1 2.62163% 25-DEC-2042,0.04%
+479,Comcast Corporation 3.2% 15-JUL-2036,0.04%
+480,Sprint Corp. 7.125% 15-JUN-2024,0.04%
+481,"IQVIA, Inc. 5.0% 15-MAY-2027",0.04%
+482,"Freddie Mac Seasoned Credit Risk Transfer Trust, Series 2019-3 MV 3.5% 25-OCT-2058",0.04%
+483,"QEP Resources, Inc. 5.25% 01-MAY-2023",0.04%
+484,Citigroup Inc. 3.98% 20-MAR-2030,0.04%
+485,"GS Mortgage Securities Corp II, Commercial Pass-Through Certificates, Series 2020-GC45 XA 0.789806% 13-FEB-2053",0.04%
+486,American Water Capital Corp. 4.15% 01-JUN-2049,0.04%
+487,Archer-Daniels-Midland Company 3.25% 27-MAR-2030,0.04%
+488,"Evergy, Inc. 2.45% 15-SEP-2024",0.04%
+489,Verisure Holding AB 3.5% 15-MAY-2023,0.04%
+490,Verizon Communications Inc. 4.672% 15-MAR-2055,0.04%
+491,Csc Holdings Llc 27-Sep-2019 Term Loan 15-Apr-2027,0.04%
+492,Fannie Mae Multifamily REMIC Trust 2019-M21 X1 1.565447% 25-MAY-2029,0.04%
+493,Centene Corporation 4.25% 15-DEC-2027,0.04%
+494,Unum Group 4.5% 15-DEC-2049,0.04%
+495,Citigroup Inc. 2.876% 24-JUL-2023,0.04%
+496,Sunshine Luxembourg Vii Sarl 17-Jul-2019 Term Loan B-1 16-Jul-2026,0.04%
+497,CIFC Funding 2015-III AR 1.14175% 19-APR-2029,0.04%
+498,Blackhawk Network Holdings Inc 15-Jan-2018 Term Loan 15-Jun-2025,0.04%
+499,"Freddie Mac Multiclass Certificates, Series 3764 PE 4.0% 15-NOV-2040",0.04%
+500,General Dynamics Corporation 4.25% 01-APR-2040,0.04%
+501,FHLMC 30yr Pool#Q06723 4.000% 01-Mar-2042 4.0% 01-MAR-2042,0.03%
+502,"Hilton Domestic Operating Co., Inc. 5.125% 01-MAY-2026",0.03%
+503,Ion Media Networks Inc 17-Jul-2019 Term Loan B-4 17-Dec-2024,0.03%
+504,Hyland Software Inc 24-Oct-2018 Term Loan 01-Jul-2024,0.03%
+505,"Freddie Mac Structured Pass-Through Certificates, Series K-104 X1 1.248266% 25-JAN-2030",0.03%
+506,"Altria Group, Inc. 2.625% 16-SEP-2026",0.03%
+507,Atlas Senior Loan Fund IX A 1.14175% 20-APR-2028,0.03%
+508,Charter Communications Operating Capital Corp. 6.834% 23-OCT-2055,0.03%
+509,Hess Corporation 7.3% 15-AUG-2031,0.03%
+510,Alimentation Couche-Tard Inc. 2.95% 25-JAN-2030,0.03%
+511,Province of Ontario 0.0% 08-SEP-2020,0.03%
+512,Bank 2017-BNK8 XA 0.873259% 15-NOV-2050,0.03%
+513,Transdigm Inc 06-Feb-2020 Term Loan E 30-May-2025,0.03%
+514,Export-Import Bank of Korea FRN 17-MAR-2021,0.03%
+515,NXP BV 5.55% 01-DEC-2028,0.03%
+516,Discovery Communications LLC 3.95% 15-JUN-2025,0.03%
+517,Valero Energy Corporation 4.0% 01-APR-2029,0.03%
+518,"Willis North America, Inc. 3.6% 15-MAY-2024",0.03%
+519,Amgen Inc. 3.15% 21-FEB-2040,0.03%
+520,"Goldman Sachs Group, Inc. 3.814% 23-APR-2029",0.03%
+521,Wells Fargo & Company 4.75% 07-DEC-2046,0.03%
+522,Ginnie Mae REMIC Trust 2015-063 PB 1.75% 20-SEP-2043,0.03%
+523,"Altria Group, Inc. 4.4% 14-FEB-2026",0.03%
+524,Chemours Co. 5.375% 15-MAY-2027,0.03%
+525,Centrais Eletricas Brasileiras SA 3.625% 04-FEB-2025,0.03%
+526,Takeda Pharmaceutical Company Limited 3.025% 09-JUL-2040,0.03%
+527,Messer Industries Gmbh 22-Oct-2018 Term Loan B-1 02-Mar-2026,0.03%
+528,Las Vegas Sands Corp. 3.5% 18-AUG-2026,0.03%
+529,Metro Bank PLC 5.5% 26-JUN-2028,0.03%
+530,Mtn Infrastructure Topco Inc 31-May-2017 Deposit Funded Facility 17-Nov-2024,0.03%
+531,Carrier Global Corp. 2.493% 15-FEB-2027,0.03%
+532,"Energy Transfer Operating, L.P. 3.75% 15-MAY-2030",0.03%
+533,NXP Semiconductors NV 4.625% 01-JUN-2023,0.03%
+534,Comcast Corporation 4.7% 15-OCT-2048,0.03%
+535,Usi Insurance Services Llc 27-Jul-2017 Term Loan B 16-May-2024,0.03%
+536,Asurion Llc 14-Jul-2017 Term Loan 04-Aug-2025,0.03%
+537,FNMA 10yr Pool#AN6110 3.000% 01-Jul-2027 3.0% 01-JUL-2027,0.03%
+538,Morgan Stanley Capital I Trust 2017-H1 XA 1.581196% 15-JUN-2050,0.03%
+539,Home Re 2018-1 Ltd. FRN 25-OCT-2028,0.03%
+540,Alimentation Couche-Tard Inc. 3.8% 25-JAN-2050,0.03%
+541,Illinois St 6.875% 01-JUL-2025,0.03%
+542,Ingersoll-Rand Global Holding Co. Ltd. 2.9% 21-FEB-2021,0.03%
+543,Bowman Park CLO AR 1.5395% 23-NOV-2025,0.03%
+544,TransCanada PipeLines Ltd. 4.625% 01-MAR-2034,0.03%
+545,Ginnie Mae REMIC Trust 2012-143 ND 2.0% 16-JUN-2042,0.03%
+546,Chicago Ill Brd Ed 6.038% 01-DEC-2029,0.03%
+547,Amgen Inc. 3.375% 21-FEB-2050,0.03%
+548,Wingstop Funding LLC 4.97% 05-DEC-2048,0.03%
+549,Saudi Arabian Oil Co. 2.875% 16-APR-2024,0.03%
+550,"PNC Bank, National Association 2.7% 22-OCT-2029",0.03%
+551,Berry Global Inc 19-Jan-2017 Term Loan 01-Oct-2022,0.03%
+552,Hanesbrands Inc. 4.875% 15-MAY-2026,0.03%
+553,AGENCY BOND,0.03%
+554,Bcp Renaissance Parent Llc 22-Sep-2017 Term Loan B 31-Oct-2024,0.03%
+555,Howard University 3.476% 01-OCT-2041,0.03%
+556,Bank 2019-BNK22 XA 0.718139% 15-NOV-2062,0.03%
+557,Tencent Holdings Ltd. 2.985% 19-JAN-2023,0.03%
+558,FedEx Corporation 3.3% 15-MAR-2027,0.03%
+559,"Altria Group, Inc. 2.35% 06-MAY-2025",0.03%
+560,Universal Health Services Sec Tl 26-Oct-2025,0.03%
+561,AASET 2020-1 Trust A 3.351% 15-JAN-2040,0.03%
+562,American Water Capital Corp. 2.8% 01-MAY-2030,0.03%
+563,American Builders & Contractors Supply Co Inc 29-Oct-2019 Term Loan B 15-Jan-2027,0.03%
+564,Bass Pro Group Llc 15-Nov-2016 Term Loan B 25-Sep-2024,0.03%
+565,Towd Point Mortgage Trust 2018-5 A1A 3.25% 25-JUL-2058,0.03%
+566,Southern California Edison Company 3.65% 01-FEB-2050,0.03%
+567,UMBS TBA 30yr 5% September Delivery 5.000% 01-JUN-2048,0.03%
+568,ViacomCBS Inc. 4.2% 19-MAY-2032,0.03%
+569,Wex Inc 17-May-2019 Term Loan B-3 17-May-2026,0.03%
+570,Aramark Services Inc 12-Jun-2018 Term Loan B-3 11-Mar-2025,0.03%
+571,Playtika Holding Corp 03-Dec-2019 Term Loan B 03-Dec-2024,0.03%
+572,Western Digital Corporation 4.75% 15-FEB-2026,0.03%
+573,Dewolf Park CLO A 1.485% 15-OCT-2030,0.03%
+574,GNMA II 30yr Pool#MA4720 4.000% 20-Sep-2047 4.0% 20-SEP-2047,0.03%
+575,CAESARS RESORT COLLECTION SEC TL,0.03%
+576,Pfizer Inc. 2.625% 01-APR-2030,0.03%
+577,"ONEOK, Inc. 4.45% 01-SEP-2049",0.03%
+578,Tempo Acquisition Llc 31-Jul-2020 Term Loan B 01-Oct-2026,0.03%
+579,Clear Channel Outdoor Holdings Inc 23-Aug-2019 Term Loan B 23-Aug-2026,0.03%
+580,Time Warner Cable Inc. 6.55% 01-MAY-2037,0.03%
+581,Jaguar Holding Company Ii 29-Mar-2018 Term Loan 18-Aug-2022,0.03%
+582,Sempra Energy 3.8% 01-FEB-2038,0.03%
+583,Bayer US Finance II LLC 4.875% 25-JUN-2048,0.03%
+584,Carrier Global Corp. 2.722% 15-FEB-2030,0.03%
+585,Credit Suisse AG (New York Branch) FRN 04-FEB-2022,0.03%
+586,"Willis North America, Inc. 2.95% 15-SEP-2029",0.03%
+587,Avery Point VI CLO A 1.699% 05-AUG-2027,0.03%
+588,Madison Park Funding XIII ARR 1.22175% 19-APR-2030,0.03%
+589,JPMorgan Chase & Co. 3.22% 01-MAR-2025,0.03%
+590,Ginnie Mae REMIC Trust 2013-086 IO 4.5% 16-JUN-2043,0.03%
+591,HSBC Holdings Plc FRN 25-MAY-2021,0.03%
+592,Benefit Street Partners CLO III A1R 1.52175% 20-JUL-2029,0.03%
+593,Carlyle U.S. CLO 2017-2 A1B 1.49175% 20-JUL-2031,0.03%
+594,Magnetite VII A1R2 1.075% 15-JAN-2028,0.03%
+595,Sound Point CLO II A1R 1.3145% 26-JAN-2031,0.03%
+596,OZLM VII A1R 1.28288% 17-JUL-2029,0.03%
+597,Flex Acquisition Co Inc 16-Dec-2016 Term Loan B 29-Dec-2023,0.03%
+598,FHLMC 30yr Pool#G61808 3.000% 01-Jul-2047 3.0% 01-JUL-2047,0.03%
+599,FNMA 30yr Pool#BK6096 3.500% 01-Jun-2048 3.5% 01-JUN-2048,0.03%
+600,Ccc Information Services Inc 03-Apr-2017 Term Loan 27-Apr-2024,0.03%
+601,DISH DBS Corporation 5.875% 15-JUL-2022,0.03%
+602,Quikrete Holdings Inc 03-Nov-2016 Term Loan B 15-Nov-2023,0.03%
+603,1011778 Bc Ulc 19-Nov-2019 Term Loan B-4 19-Nov-2026,0.03%
+604,McDonald's Corporation 3.625% 01-SEP-2049,0.03%
+605,Terrier Media Buyer Inc 12-Dec-2019 Term Loan B 17-Dec-2026,0.03%
+606,Government of the Philippines 2.457% 05-MAY-2030,0.03%
+607,UnitedHealth Group Incorporated 3.5% 15-AUG-2039,0.03%
+608,Penn National Gaming Inc 14-Aug-2018 Term Loan B 06-Aug-2025,0.03%
+609,Neuberger Berman CLO XIX A1R2 1.075% 15-JUL-2027,0.03%
+610,Ginnie Mae REMIC Trust 2012-094 GA 2.5% 20-MAY-2040,0.03%
+611,Bausch Health Companies Inc. 5.75% 15-AUG-2027,0.03%
+612,Endo Luxembourg Finance Company I Sarl 27-Apr-2017 Term Loan 27-Apr-2024,0.03%
+613,Trans Union Llc 15-Nov-2019 Term Loan B 15-Nov-2026,0.03%
+614,Gray Television Inc 22-Oct-2018 Term Loan B 22-Oct-2025,0.03%
+615,Web Com Group Inc 20-Jun-2018 Term Loan B 11-Oct-2025,0.03%
+616,Hess Corporation 7.125% 15-MAR-2033,0.03%
+617,Adient Us Unsec Tl,0.03%
+618,Boyd Gaming Corp 29-Mar-2017 Term Loan B 15-Sep-2023,0.03%
+619,Brand Energy & Infrastructure Services Inc 16-Jun-2017 Term Loan 21-Jun-2024,0.03%
+620,Brookfield Business Partners Lp 13-Nov-2018 Term Loan B 30-Apr-2026,0.03%
+621,"Altria Group, Inc. 4.8% 14-FEB-2029",0.03%
+622,Chicago Ill Brd Ed 6.138% 01-DEC-2039,0.03%
+623,Bank 2019-BNK18 XA 1.048447% 15-MAY-2062,0.02%
+624,Apple Inc. 3.45% 09-FEB-2045,0.02%
+625,Comcast Corporation 4.049% 01-NOV-2052,0.02%
+626,"Reynolds Group Issuer, Inc. 5.125% 15-JUL-2023",0.02%
+627,Lennar Corporation 5.25% 01-JUN-2026,0.02%
+628,FNMA 10yr Pool#AN4672 3.100% 01-Feb-2027 3.1% 01-FEB-2027,0.02%
+629,Change Healthcare Holdings Llc 01-Mar-2017 Term Loan B 01-Mar-2024,0.02%
+630,FHLMC 30yr Pool#ZS1286 5.000% 01-Sep-2035 5.0% 01-SEP-2035,0.02%
+631,Vici Properties 1 Llc 22-Dec-2017 Term Loan B 22-Dec-2024,0.02%
+632,"Anheuser-Busch Inbev Worldwide, Inc. 3.75% 15-JUL-2042",0.02%
+633,Ma Financeco Llc 28-Apr-2017 Term Loan 28-Apr-2024,0.02%
+634,Videotron Ltee 5.375% 15-JUN-2024,0.02%
+635,Go Daddy Operating Co Llc 22-Nov-2017 Term Loan B-1 15-Feb-2024,0.02%
+636,Lennar Corporation 4.75% 29-NOV-2027,0.02%
+637,Us Foods Inc 27-Jun-2016 Term Loan 27-Jun-2023,0.02%
+638,FNMA 30yr Pool#AL1449 4.000% 01-Jan-2042 4.0% 01-JAN-2042,0.02%
+639,Bausch Health Companies Inc. 7.0% 15-MAR-2024,0.02%
+640,"Altria Group, Inc. 5.95% 14-FEB-2049",0.02%
+641,Ww International Inc 21-Nov-2017 Term Loan B 08-Nov-2024,0.02%
+642,FHLMC 30yr Pool#ZS3507 5.000% 01-Nov-2036 5.0% 01-NOV-2036,0.02%
+643,Asp Unifrax Holdings Inc 05-Nov-2018 Term Loan B 12-Dec-2025,0.02%
+644,Nouryon Finance Bv 25-Oct-2018 Term Loan 01-Oct-2025,0.02%
+645,Global Payments Inc. 3.2% 15-AUG-2029,0.02%
+646,Commercial Metals Company 5.375% 15-JUL-2027,0.02%
+647,Government of Argentina 5.25% 15-JAN-2028,0.02%
+648,Enterprise Merger Sub Inc 10-Jun-2018 Term Loan B 10-Jun-2025,0.02%
+649,Government of Hungary 6.375% 29-MAR-2021,0.02%
+650,Unum Group 4.0% 15-JUN-2029,0.02%
+651,Ardagh Packaging Finance PLC 4.125% 15-AUG-2026,0.02%
+652,Government of Mexico 3.25% 16-APR-2030,0.02%
+653,Bank 2017-BNK9 XA 0.945658% 15-NOV-2054,0.02%
+654,UnitedHealth Group Incorporated 3.75% 15-OCT-2047,0.02%
+655,Government of Egypt 8.5% 31-JAN-2047,0.02%
+656,Sapphire Aviation Finance II 2020-1 A 3.228% 15-MAR-2045,0.02%
+657,Amgen Inc. 1.9% 21-FEB-2025,0.02%
+658,"Constellation Brands, Inc. 4.65% 15-NOV-2028",0.02%
+659,Cineworld Group Plc 05-Dec-2017 Term Loan B 28-Feb-2025,0.02%
+660,MPLX LP 4.7% 15-APR-2048,0.02%
+661,QUALCOMM Incorporated 4.65% 20-MAY-2035,0.02%
+662,Brookfield Wec Holdings Inc 14-Jan-2020 Term Loan 01-Aug-2025,0.02%
+663,Korea Development Bank FRN 12-MAR-2021,0.02%
+664,Industrial & Commercial Bank of China Ltd. (Singapore Branch) FRN 16-APR-2021,0.02%
+665,Dun & Bradstreet Corp 08-Feb-2019 Term Loan 08-Feb-2026,0.02%
+666,Southern California Edison Company 4.0% 01-APR-2047,0.02%
+667,FHLMC 30yr Pool#V85348 5.500% 01-Mar-2049 5.5% 01-MAR-2049,0.02%
+668,"Hill-Rom Holdings, Inc. 4.375% 15-SEP-2027",0.02%
+669,Ultimate Software Group Inc 25-Mar-2019 Term Loan 03-May-2026,0.02%
+670,Sherwin-Williams Company 3.3% 15-MAY-2050,0.02%
+671,Apx Group Sec Tl 31-Dec-2025,0.02%
+672,Wells Fargo & Company 5.013% 04-APR-2051,0.02%
+673,Iqvia Thailand Co Ltd 03-Mar-2017 Term Loan B-1 07-Mar-2024,0.02%
+674,Teleflex Incorporated 4.25% 01-JUN-2028,0.02%
+675,Sedgwick Claims Management Services Inc 08-Aug-2019 Term Loan B 03-Sep-2026,0.02%
+676,Staples Inc 09-Apr-2019 Term Loan 16-Apr-2026,0.02%
+677,Belron Finance Us Llc 07-Nov-2018 Term Loan B 13-Nov-2025,0.02%
+678,Parexel International Corp 29-Sep-2017 Term Loan 29-Sep-2024,0.02%
+679,Telecom Italia Capital SA 6.0% 30-SEP-2034,0.02%
+680,UnitedHealth Group Incorporated 2.375% 15-AUG-2024,0.02%
+681,Verizon Communications Inc. 4.0% 22-MAR-2050,0.02%
+682,MPLX LP 4.25% 01-DEC-2027,0.02%
+683,Oncor Electric Delivery Company LLC 5.75% 15-MAR-2029,0.02%
+684,Metinvest BV 7.75% 17-OCT-2029,0.02%
+685,Harbor Freight Tools Usa Inc 19-Jan-2018 Term Loan 19-Aug-2023,0.02%
+686,Dow Chemical Company 4.8% 15-MAY-2049,0.02%
+687,Digicert Inc 08-Aug-2019 Term Loan B 07-Aug-2026,0.02%
+688,COMM 2014-CCRE14 Mortgage Trust XA 0.72921% 10-FEB-2047,0.02%
+689,Citigroup Mortgage Loan Trust 2018-RP3 A1 3.25% 25-MAR-2061,0.02%
+690,"Fidelity National Information Services, Inc. 4.25% 15-MAY-2028",0.02%
+691,Keurig Dr Pepper Inc. 3.2% 01-MAY-2030,0.02%
+692,Drug Royalty III Series 2018-1 2018_1_A_1 1.925% 15-OCT-2031,0.02%
+693,Refinitiv Us Holdings Inc 18-Sep-2018 Term Loan B 01-Oct-2025,0.02%
+694,"Freddie Mac Multiclass Certificates, Series 4636 BI 5.5% 15-MAY-2040",0.02%
+695,Ginnie Mae REMIC Trust 2018-072 ID 4.5% 20-AUG-2045,0.02%
+696,"Altria Group, Inc. 3.875% 16-SEP-2046",0.02%
+697,Intel Corporation 4.1% 19-MAY-2046,0.02%
+698,Illinois St 5.563% 01-FEB-2021,0.02%
+699,Sherwin-Williams Company 4.5% 01-JUN-2047,0.02%
+700,DCP Midstream Operating LP 3.875% 15-MAR-2023,0.02%
+701,Xcel Energy Inc. 3.5% 01-DEC-2049,0.02%
+702,Bausch Health Cos Inc 27-Nov-2018 Term Loan B 27-Nov-2025,0.02%
+703,"T-Mobile USA, Inc. 6.0% 15-APR-2024",0.02%
+704,Government of Indonesia 2.625% 14-JUN-2023,0.02%
+705,MidAmerican Energy Company 3.15% 15-APR-2050,0.02%
+706,Texas Eastern Transmission LP 2.8% 15-OCT-2022,0.02%
+707,FHLMC 30yr Pool#G08838 5.000% 01-Sep-2048 5.0% 01-SEP-2048,0.02%
+708,Ginnie Mae REMIC Trust 2019-015 DI 4.5% 16-DEC-2046,0.02%
+709,Element Solutions Inc 26-Nov-2019 Term Loan B-1 31-Jan-2026,0.02%
+710,Freddie Mac Stacr Trust 2019-DNA2 2.62163% 25-MAR-2049,0.02%
+711,Microsoft Corporation 3.95% 08-AUG-2056,0.02%
+712,FHLMC 30yr Pool#ZS2192 5.000% 01-Dec-2036 5.0% 01-DEC-2036,0.02%
+713,Verizon Communications Inc. 5.012% 21-AUG-2054,0.02%
+714,FNMA Connecticut Avenue Securities Series 2018-C01 2.42163% 25-JUL-2030,0.02%
+715,"Baxalta, Inc. 3.6% 23-JUN-2022",0.02%
+716,Fannie Mae REMIC Trust 2020-26 IA 3.5% 25-NOV-2039,0.02%
+717,"Freddie Mac Multiclass Certificates, Series 4846 HI 5.5% 15-JUN-2046",0.02%
+718,Hostess Brands Llc 20-Nov-2017 Term Loan B 03-Aug-2025,0.02%
+719,SM Energy Company 6.125% 15-NOV-2022,0.02%
+720,"General Motors Financial Co., Inc. FRN 06-NOV-2020",0.02%
+721,FNMA 30yr Pool#AJ9303 4.000% 01-Jan-2042 4.0% 01-JAN-2042,0.02%
+722,Sunoco Logistics Partners Operations LP 4.0% 01-OCT-2027,0.02%
+723,FNMA 20yr Pool#BM4492 4.000% 01-Aug-2038 4.0% 01-AUG-2038,0.02%
+724,National Rural Utilities Cooperative Finance Corporation 3.4% 07-FEB-2028,0.02%
+725,Northriver Midstream Finance Lp 28-Sep-2018 Term Loan B 01-Oct-2025,0.02%
+726,"Lithia Motors, Inc. 4.625% 15-DEC-2027",0.02%
+727,"Goldman Sachs Group, Inc. 4.017% 31-OCT-2038",0.02%
+728,Fnma Connecticut Avenue Securities Series 2018-C05 2.52163% 25-JAN-2031,0.02%
+729,3M Company 3.05% 15-APR-2030,0.02%
+730,Cleco Corporate Holdings LLC 3.743% 01-MAY-2026,0.02%
+731,Cabot Microelectronics Corp 17-Dec-2019 Term Loan B-1 15-Nov-2025,0.02%
+732,Fannie Mae REMIC Trust 2017-34 JK 3.0% 25-MAY-2047,0.02%
+733,Univision Communications Inc 15-Jun-2020 Term Loan 15-Mar-2026,0.02%
+734,NXP BV 4.3% 18-JUN-2029,0.02%
+735,"Freddie Mac Structured Pass-Through Certificates, Series K-1510 X1 0.636501% 25-JAN-2034",0.02%
+736,"AmeriGas Partners, L.P. 5.875% 20-AUG-2026",0.02%
+737,"Freddie Mac Multiclass Certificates, Series 4619 IO 5.5% 15-OCT-2046",0.02%
+738,Public Service Electric and Gas Company 3.8% 01-MAR-2046,0.02%
+739,Nexstar Broadcasting Inc Sec Tl 19-Sep-2026,0.02%
+740,FNMA 30yr Pool#MA1065 4.000% 01-May-2042 4.0% 01-MAY-2042,0.02%
+741,Oracle Corporation 3.6% 01-APR-2040,0.02%
+742,FHLMC 30yr Pool#ZS3499 5.000% 01-Feb-2037 5.0% 01-FEB-2037,0.02%
+743,Thermo Fisher Scientific Inc. 3.0% 15-APR-2023,0.02%
+744,Wells Fargo & Company 3.0% 23-OCT-2026,0.02%
+745,Berry Global Inc 16-Dec-2019 Term Loan 01-Jul-2026,0.02%
+746,Union Electric Company 4.0% 01-APR-2048,0.02%
+747,"Energy Transfer Operating, L.P. 5.15% 15-MAR-2045",0.02%
+748,New Brunswick Municipal Finance Corp. 3.85% 19-NOV-2020,0.02%
+749,"Freddie Mac Structured Pass-Through Certificates, Series K-066 X1 0.888546% 25-JUN-2027",0.02%
+750,Nokia Oyj 4.375% 12-JUN-2027,0.02%
+751,Fhlmc Stacr 2017-Dna3 0.92163% 25-MAR-2030,0.02%
+752,Connecticut Light and Power Company 4.0% 01-APR-2048,0.02%
+753,Trane Technologies Luxembourg Finance SA 4.5% 21-MAR-2049,0.02%
+754,Fannie Mae REMIC Trust 2019-13 IA 5.5% 25-AUG-2038,0.02%
+755,"Dominion Energy South Carolina, Inc. 5.1% 01-JUN-2065",0.02%
+756,Williams Partners L.P. 6.3% 15-APR-2040,0.02%
+757,MidAmerican Energy Company 3.65% 01-AUG-2048,0.02%
+758,Eagle Re 2018-1 Ltd. FRN 27-NOV-2028,0.02%
+759,FHLMC 30yr Pool#ZS2744 5.000% 01-Feb-2039 5.0% 01-FEB-2039,0.02%
+760,Ew Scripps Co 18-Dec-2019 Term Loan B-2 01-May-2026,0.02%
+761,FHLMC 30yr Pool#G08854 5.000% 01-Dec-2048 5.0% 01-DEC-2048,0.02%
+762,Ziggo Financing Partnership 27-Jan-2020 Term Loan B 17-Apr-2028,0.02%
+763,Altice France Sa 09-Oct-2017 Term Loan B 31-Jan-2026,0.02%
+764,"Energy Transfer Operating, L.P. 6.25% 15-APR-2049",0.02%
+765,PacifiCorp 4.15% 15-FEB-2050,0.02%
+766,FNMA Connecticut Avenue Securities Series 2018-C01 2.37163% 25-AUG-2030,0.02%
+767,Targa Resources Partners LP 4.875% 01-FEB-2031,0.02%
+768,Momentive Performance Materials Inc 18-Apr-2019 Term Loan B 15-May-2024,0.02%
+769,AT&T Inc. 4.75% 15-MAY-2046,0.02%
+770,Discovery Communications LLC 5.3% 15-MAY-2049,0.02%
+771,MFA 2017-NPL1 A1 3.3515% 25-NOV-2047,0.02%
+772,Northern States Power Co. 2.9% 01-MAR-2050,0.02%
+773,Bank 2019-BNK24 XA 0.765943% 15-NOV-2062,0.02%
+774,"Connecticut Avenue Securities, Series 2014-C02 1M2 2.77163% 01-MAY-2024",0.02%
+775,"Freddie Mac Multiclass Certificates, Series 4735 KI 5.5% 15-JUL-2034",0.02%
+776,FHLMC 30yr Pool#V84778 5.000% 01-Oct-2048 5.0% 01-OCT-2048,0.01%
+777,Fannie Mae REMIC Trust 2016-38 NA 3.0% 25-JAN-2046,0.01%
+778,Fannie Mae REMIC Trust 2014-28 IC 5.5% 25-APR-2044,0.01%
+779,Fannie Mae REMIC Trust 2015-14 LI 6.5% 25-MAR-2045,0.01%
+780,AES Corporation 5.125% 01-SEP-2027,0.01%
+781,PacifiCorp 4.125% 15-JAN-2049,0.01%
+782,"Anheuser-Busch Inbev Worldwide, Inc. 4.354% 01-JUN-2040",0.01%
+783,Fannie Mae REMIC Trust 2018-77 PA 3.5% 25-FEB-2048,0.01%
+784,International Business Machines Corporation 4.25% 15-MAY-2049,0.01%
+785,Ginnie Mae REMIC Trust 2015-062 CI 4.5% 20-MAY-2045,0.01%
+786,Syneos Health Inc 04-May-2018 Term Loan B 01-Aug-2024,0.01%
+787,Oncor Electric Delivery Company LLC 3.1% 15-SEP-2049,0.01%
+788,"Freddie Mac Stripped Interest Certificates, Series 247 24 5.0% 15-SEP-2036",0.01%
+789,CDW LLC 4.25% 01-APR-2028,0.01%
+790,"Fannie Mae Guaranteed Stripped Mortgage-Backed Securities Trust Number 418, groups 31-8 C13 3.5% 25-AUG-2033",0.01%
+791,Illinois St 5.0% 01-JAN-2023,0.01%
+792,Microchip Technology Inc 24-May-2018 Term Loan B 03-May-2025,0.01%
+793,Government of Indonesia 2.15% 18-JUL-2024,0.01%
+794,Southern Company 2.95% 01-JUL-2023,0.01%
+795,Arbys Restaurant Group Inc 31-Jan-2020 Term Loan B 05-Feb-2025,0.01%
+796,Standardaero Aviation Holdings Inc 07-Feb-2020 Term Loan 04-Apr-2026,0.01%
+797,Kestrel Bidco Inc 07-Aug-2019 Term Loan B 06-Sep-2026,0.01%
+798,TransCanada PipeLines Ltd. 4.75% 15-MAY-2038,0.01%
+799,Equifax Inc. 3.1% 15-MAY-2030,0.01%
+800,Morgan Stanley 4.431% 23-JAN-2030,0.01%
+801,"Freddie Mac Stripped Interest Certificates Series 365 Groups 1-5,6-9,16-20,30,36-44,50,5 C45 3.5% 15-MAY-2034",0.01%
+802,Fannie Mae REMIC Trust 2018-36 IO 5.0% 25-JUN-2048,0.01%
+803,Epicor Software Corp 22-Jul-2020 Term Loan 31-Jul-2027,0.01%
+804,"WPX Energy, Inc. 5.25% 15-SEP-2024",0.01%
+805,Ginnie Mae REMIC Trust 2017-163 AI 5.0% 20-NOV-2047,0.01%
+806,Comcast Corporation 4.65% 15-JUL-2042,0.01%
+807,Comcast Corporation 3.4% 15-JUL-2046,0.01%
+808,Us Foods Holding Corp 28-Jul-2018 Term Loan B 13-Sep-2026,0.01%
+809,Kaiser Aluminum Corporation 4.625% 01-MAR-2028,0.01%
+810,Vertical Midco GmbH 4.375% 15-JUL-2027,0.01%
+811,Bank of America Corporation 3.366% 23-JAN-2026,0.01%
+812,Grifols Sa 05-Dec-2017 Term Loan 05-Dec-2027,0.01%
+813,Mileage Plus Holdings Llc 02-Jul-2020 Term Loan 20-Jun-2027,0.01%
+814,Fannie Mae REMIC Trust 2018-66 DI 4.5% 25-SEP-2048,0.01%
+815,Ginnie Mae REMIC Trust 2017-163 IB 5.5% 20-SEP-2045,0.01%
+816,Ginnie Mae REMIC Trust 2017-163 ID 5.0% 20-DEC-2043,0.01%
+817,Zayo Group Holdings Inc 19-Feb-2020 Term Loan 19-Feb-2027,0.01%
+818,FHLMC 30yr Pool#G08864 5.000% 01-Feb-2049 5.0% 01-FEB-2049,0.01%
+819,Reynolds Consumer Prods Sec Tl 21-Jan-2027,0.01%
+820,Florida Power & Light Company 3.99% 01-MAR-2049,0.01%
+821,Allied Universal Holdco Llc 27-Feb-2019 Term Loan 10-Jul-2026,0.01%
+822,Catholic Health Initiatives 3.347% 01-OCT-2029,0.01%
+823,JPMBB Commercial Mortgage Securities Trust 2014-C23 A5 3.9342% 10-SEP-2047,0.01%
+824,Howard University 2.901% 01-OCT-2031,0.01%
+825,Hilton Worldwide Finance Llc 21-Jun-2019 Term Loan B-2 21-Jun-2026,0.01%
+826,CSMC 2018-RPL8 Trust A1 4.125% 25-JUL-2058,0.01%
+827,Ginnie Mae REMIC Trust 2019-043 IA 4.5% 20-MAY-2048,0.01%
+828,JPMBB Commercial Mortgage Securities Trust 2014-C19 A4 3.9965% 15-APR-2047,0.01%
+829,Southern California Edison Company 4.125% 01-MAR-2048,0.01%
+830,Wells Fargo Commercial Mortgage Trust 2014-LC14 A5 4.045% 15-MAR-2047,0.01%
+831,GS Mortgage Securities Trust 2014-GC18 A4 4.074% 10-JAN-2047,0.01%
+832,Towd Point Mortgage Trust 2018-3 A1 3.75% 25-MAY-2058,0.01%
+833,WFRBS Commercial Mortgage Trust 2014-C20 A5 3.995% 15-MAY-2047,0.01%
+834,Rexnord Corp 18-Nov-2019 Term Loan B 21-Aug-2024,0.01%
+835,California St 7.625% 01-MAR-2040,0.01%
+836,"Freddie Mac Multiclass Certificates, Series 4978 MI 4.0% 25-MAY-2040",0.01%
+837,Altra Industrial Motion Corp 28-Mar-2018 Term Loan B 01-Oct-2025,0.01%
+838,Avsc Holding Corp 22-Feb-2018 Term Loan 01-Mar-2025,0.01%
+839,"Goldman Sachs Group, Inc. 2.905% 24-JUL-2023",0.01%
+840,"Energy Transfer Operating, L.P. 5.25% 15-APR-2029",0.01%
+841,Williams Partners L.P. 5.8% 15-NOV-2043,0.01%
+842,Comcast Corporation 4.95% 15-OCT-2058,0.01%
+843,Olin Corporation 5.125% 15-SEP-2027,0.01%
+844,Lcpr Loan Financing Llc 25-Oct-2019 Term Loan 15-Oct-2026,0.01%
+845,Ginnie Mae REMIC Trust 2016-149 CI 5.0% 16-NOV-2046,0.01%
+846,Bausch Health Cos Inc 01-Jun-2018 Term Loan B 01-Jun-2025,0.01%
+847,"Genworth Holdings, Inc. 4.9% 15-AUG-2023",0.01%
+848,Ryan Specialty Group Llc 23-Jul-2020 Term Loan B 29-Jun-2027,0.01%
+849,JetBlue Airways Corporation,0.01%
+850,Catalent Pharma Solutions Inc 14-Apr-2019 Term Loan B-2 17-May-2026,0.01%
+851,Victory Capital Holdings Inc 08-Jan-2020 Term Loan B-1 01-Jul-2026,0.01%
+852,Surf Holdings Sarl 14-Oct-2019 Term Loan 05-Mar-2027,0.01%
+853,Ufc Holdings Llc 29-Apr-2019 Term Loan B 29-Apr-2026,0.01%
+854,Cobham Ltd 23-Aug-2019 Term Loan B 21-Jan-2027,0.01%
+855,Lower Cadence Holdings Llc 10-May-2019 Term Loan B 05-Oct-2026,0.01%
+856,Banijay Group Us Holding Inc 05-Feb-2020 Term Loan 04-Mar-2025,0.01%
+857,Emerald Topco Inc 23-Jul-2019 Term Loan 24-Jul-2026,0.01%
+858,Hexion Inc 01-Jul-2019 Term Loan B 01-Jul-2026,0.01%
+859,Univar Solutions Usa Inc 22-Nov-2019 Term Loan B 01-Jul-2026,0.01%
+860,Ginnie Mae REMIC Trust 2018-079 IM 4.5% 20-JUN-2048,0.01%
+861,Express Scripts Holding Company FRN 30-NOV-2020,0.01%
+862,Ss&C Technologies Sec Tl 16-Apr-2025,0.01%
+863,Navistar Inc 06-Nov-2017 Term Loan 06-Nov-2024,0.01%
+864,Ginnie Mae REMIC Trust 2017-093 IO 5.0% 16-JUN-2047,0.01%
+865,Comcast Corporation 4.75% 01-MAR-2044,0.01%
+866,New York Life Insurance Company 3.75% 15-MAY-2050,0.01%
+867,Ginnie Mae REMIC Trust 2018-079 MI 5.5% 20-FEB-2044,0.01%
+868,"AmeriGas Partners, L.P. 5.625% 20-MAY-2024",0.01%
+869,Shire Acquisitions Investments Ireland DAC 2.4% 23-SEP-2021,0.01%
+870,Bristol-Myers Squibb Company 3.2% 15-JUN-2026,0.01%
+871,"Conagra Brands, Inc. 5.4% 01-NOV-2048",0.01%
+872,Pathway Vet Alliance Llc 31-Mar-2020 Term Loan 31-Mar-2027,0.01%
+873,MPLX LP 5.2% 01-DEC-2047,0.01%
+874,Lti Holdings Inc Sec Tl 31-Jul-2025,0.01%
+875,Bear Stearns ARM Trust 2005-6 IIIA1 3.116008% 25-AUG-2035,0.01%
+876,Avantor Sec Tl 05-Sep-2017 Senior Sec. 1st Lien Term Loan 19-Aug-1905,0.01%
+877,"ONEOK, Inc. 2.2% 15-SEP-2025",0.01%
+878,Fannie Mae REMIC Trust 2014-21 ID 3.5% 25-JUN-2033,0.01%
+879,Ginnie Mae REMIC Trust 2013-004 PI 4.0% 20-SEP-2042,0.01%
+880,Legacy Mortgage Asset Trust 2018-GS1 A1 4.0% 25-MAR-2058,0.01%
+881,"Lowe's Companies, Inc. 3.7% 15-APR-2046",0.01%
+882,Morgan Stanley 4.0% 23-JUL-2025,0.01%
+883,"United Rentals (North America), Inc. 4.875% 15-JAN-2028",0.01%
+884,Capital Vision Services Lp 01-Aug-2019 Term Loan 31-Aug-2026,0.01%
+885,GNMA II 30yr Pool#MA5137 4.000% 20-Apr-2048 4.0% 20-APR-2048,0.01%
+886,Sempra Energy 4.0% 01-FEB-2048,0.01%
+887,Ginnie Mae REMIC Trust 2014-099 IY 5.0% 16-JUL-2044,0.01%
+888,FHLMC 30yr Pool#ZS2608 5.000% 01-Feb-2038 5.0% 01-FEB-2038,0.01%
+889,"Owens-Brockway Glass Container, Inc. 5.375% 15-JAN-2025",0.01%
+890,Government of Italy 0.0% 27-NOV-2020,0.01%
+891,Wme Img Sec Tl 18-May-2025,0.01%
+892,FHLMC 30yr Pool#ZS1268 5.000% 01-Dec-2035 5.0% 01-DEC-2035,0.01%
+893,Nokia Oyj 6.625% 15-MAY-2039,0.01%
+894,"ONEOK, Inc. 3.1% 15-MAR-2030",0.01%
+895,"TEGNA, Inc. 5.5% 15-SEP-2024",0.01%
+896,Ontario Hydro Energy 0.0% 26-NOV-2020,0.01%
+897,Fannie Mae REMIC Trust 2016-30 IL 3.5% 25-APR-2034,0.01%
+898,Ginnie Mae REMIC Trust 2019-005 JI 5.0% 16-JUL-2044,0.01%
+899,Bayview Koitere Fund Trust 2017-RT4 A 3.5% 28-JUL-2057,0.01%
+900,Lamar Media Corp. 3.75% 15-FEB-2028,0.01%
+901,FNMA 30yr Pool#AH3977 4.000% 01-Feb-2041 4.0% 01-FEB-2041,0.01%
+902,Ginnie Mae REMIC Trust 2014-184 MI 4.0% 16-DEC-2044,0.01%
+903,Massachusetts Mutual Life Insurance Company 3.729% 15-OCT-2070,0.01%
+904,"VICI Properties, Inc. 4.25% 01-DEC-2026",0.01%
+905,"Western Midstream Operating, LP 4.05% 01-FEB-2030",0.01%
+906,MPLX LP FRN 09-SEP-2021,0.01%
+907,State Street Corporation 3.152% 30-MAR-2031,0.01%
+908,United Technologies Corporation 4.625% 16-NOV-2048,0.01%
+909,Ss&C Technologies Inc 16-Apr-2018 Term Loan B-3 16-Apr-2025,0.01%
+910,Telefonica Emisiones SA 7.045% 20-JUN-2036,0.01%
+911,Ajax Mortgage Loan Trust 2017-B A 3.163% 25-SEP-2056,0.01%
+912,CIM Trust 2017-7 A 3.0% 25-APR-2057,0.01%
+913,Mill City Mortgage Loan Trust 2017-3 A1 2.75% 25-JAN-2061,0.01%
+914,Fannie Mae Multifamily REMIC Trust 2020-M2 X 0.434573% 25-JAN-2030,0.01%
+915,DISH DBS Corporation 6.75% 01-JUN-2021,0.01%
+916,Pro Mach Group Inc 30-Jun-2020 Delayed Draw/Multi Draw Term Loan 30-Jun-2027,0.01%
+917,Pro Mach Group Inc 30-Jun-2020 Term Loan 18-Jun-2027,0.01%
+918,Bellemeade Re 2019-1 Ltd. FRN 25-MAR-2029,0.01%
+919,Kimberly-Clark Corporation 3.1% 26-MAR-2030,0.01%
+920,Connecticut St 3.0% 01-JUL-2021,0.01%
+921,Kraft Heinz Foods Co. 4.25% 01-MAR-2031,0.01%
+922,"Freddie Mac Structured Pass-Through Certificates, Series K-737 X1 0.751464% 25-OCT-2026",0.01%
+923,"Freddie Mac Multiclass Certificates, Series 4820 JI 5.0% 15-FEB-2048",0.01%
+924,Appalachian Power Company 6.375% 01-APR-2036,0.01%
+925,FHLMC Stacr 2018-DNA3 2.27163% 25-SEP-2048,0.01%
+926,Fannie Mae REMIC Trust 2017-96 PA 3.0% 25-DEC-2054,0.01%
+927,Domino's Pizza Master Issuer Series 2018-1 2018-A2I 4.116% 25-APR-2048,0.01%
+928,"Clean Harbors, Inc. 5.125% 15-JUL-2029",0.01%
+929,FNMA 30yr Pool#AL9701 4.000% 01-Oct-2043 4.0% 01-OCT-2043,0.01%
+930,FHLMC 30yr Pool#ZS0960 5.000% 01-Dec-2035 5.0% 01-DEC-2035,0.01%
+931,Ss&C Technologies Inc 16-Apr-2018 Term Loan B-4 16-Apr-2025,0.01%
+932,Centene Corporation 3.375% 15-FEB-2030,0.01%
+933,"Conagra Brands, Inc. 4.3% 01-MAY-2024",0.00%
+934,Commonwealth Edison Company 4.0% 01-MAR-2048,0.00%
+935,Fhlmc Stacr 2017-Dna2 1.37163% 25-OCT-2029,0.00%
+936,Centene Corporation 4.625% 15-DEC-2029,0.00%
+937,FHLMC 30yr Pool#ZS0971 5.000% 01-Dec-2035 5.0% 01-DEC-2035,0.00%
+938,FHLMC 30yr Pool#Q08949 4.000% 01-Jun-2042 4.0% 01-JUN-2042,0.00%
+939,FHLMC 30yr Pool#ZS3443 5.000% 01-Feb-2037 5.0% 01-FEB-2037,0.00%
+940,FNMA 30yr Pool#AK0819 4.000% 01-Jan-2042 4.0% 01-JAN-2042,0.00%
+941,ITC Holdings Corp. 3.25% 30-JUN-2026,0.00%
+942,Ma Financeco Llc 28-Apr-2017 Term Loan B-3 28-Apr-2024,0.00%
+943,Microsoft Corporation 2.675% 01-JUN-2060,0.00%
+944,Williams Partners L.P. 4.9% 15-JAN-2045,0.00%
+945,Kraft Heinz Foods Co. 3.75% 01-APR-2030,0.00%
+946,FHLMC 30yr Pool#ZS0954 5.000% 01-Oct-2035 5.0% 01-OCT-2035,0.00%
+947,FNMA 30yr Pool#745275 5.000% 01-Feb-2036 5.0% 01-FEB-2036,0.00%
+948,FHLMC 30yr Pool#A33785 5.500% 01-Mar-2035 5.5% 01-MAR-2035,0.00%
+949,FHLMC 30yr Pool#ZL2589 4.000% 01-Jan-2042 4.0% 01-JAN-2042,0.00%
+950,Southern Company 4.4% 01-JUL-2046,0.00%
+951,FHLMC 30yr Pool#ZS0991 5.000% 01-Nov-2035 5.0% 01-NOV-2035,0.00%
+952,Cleco Corporate Holdings LLC 4.973% 01-MAY-2046,0.00%
+953,FNMA 30yr Pool#AL3433 4.000% 01-Oct-2041 4.0% 01-OCT-2041,0.00%
+954,FHLMC 30yr Pool#A83731 5.500% 01-Dec-2038 5.5% 01-DEC-2038,0.00%
+955,Capital Vision Services Lp 01-Aug-2019 Delayed Draw/Multi Draw Term Loan 31-Aug-2026,0.00%
+956,FHLMC 20yr Pool#C91234 5.500% 01-Feb-2029 5.5% 01-FEB-2029,0.00%
+957,"Cheniere Energy Partners, L.P. 4.5% 01-OCT-2029",0.00%
+958,FHLMC 30yr Pool#ZI3937 5.000% 01-Dec-2035 5.0% 01-DEC-2035,0.00%
+959,CVS Health Corporation 5.125% 20-JUL-2045,0.00%
+960,Fannie Mae REMIC Trust 2015-48 QB 3.0% 25-FEB-2043,0.00%
+961,California St 7.55% 01-APR-2039,0.00%
+962,Fannie Mae REMIC Trust 2016-11 GA 2.5% 25-MAR-2046,0.00%
+963,FHLMC 30yr Pool#G08804 3.500% 01-Mar-2048 3.5% 01-MAR-2048,0.00%
+964,JPMorgan Chase & Co. 3.509% 23-JAN-2029,0.00%
+965,MSCI Inc. 3.625% 01-SEP-2030,0.00%
+966,Fannie Mae REMIC Trust 2018-38 PC 3.5% 25-MAR-2045,0.00%
+967,FHLMC 30yr Pool#ZS2419 5.000% 01-Feb-2038 5.0% 01-FEB-2038,0.00%
+968,Fannie Mae REMIC Trust 2012-18 GA 2.0% 25-DEC-2041,0.00%
+969,Fannie Mae REMIC Trust 2012-75 KC 2.5% 25-DEC-2041,0.00%
+970,"Voya Financial, Inc. 4.8% 15-JUN-2046",0.00%
+971,FHLMC 30yr Pool#ZL2912 4.000% 01-Apr-2042 4.0% 01-APR-2042,0.00%
+972,Union Pacific Corporation 3.839% 20-MAR-2060,0.00%
+973,FNMA 30yr Pool#AJ1405 4.000% 01-Sep-2041 4.0% 01-SEP-2041,0.00%
+974,Federal National Mortgage Association 1.12163% 25-OCT-2029,0.00%
+975,FHLMC 30yr Pool#ZS1503 5.000% 01-Jun-2036 5.0% 01-JUN-2036,0.00%
+976,Goodyear Tire & Rubber Company 5.0% 31-MAY-2026,0.00%
+977,FNMA 30yr Pool#745355 5.000% 01-Mar-2036 5.0% 01-MAR-2036,0.00%
+978,FHLMC 30yr Pool#ZI3993 5.000% 01-Dec-2035 5.0% 01-DEC-2035,0.00%
+979,Fannie Mae REMIC Trust 2012-52 PA 3.5% 25-MAY-2042,0.00%
+980,"Freddie Mac Multiclass Certificates, Series 3883 PB 3.0% 15-MAY-2041",0.00%
+981,EQUITY OTHER,0.00%
+982,Pathway Vet Alliance Llc 31-Mar-2020 Delayed Draw/Multi Draw Term Loan 31-Mar-2027,0.00%
+983,Fannie Mae REMIC Trust 2012-21 PQ 2.0% 25-SEP-2041,0.00%
+984,FNMA 30yr Pool#AE8395 4.000% 01-Nov-2040 4.0% 01-NOV-2040,0.00%
+985,FNMA 30yr Pool#AE0949 4.000% 01-Feb-2041 4.0% 01-FEB-2041,0.00%
+986,"Constellation Brands, Inc. 2.65% 07-NOV-2022",0.00%
+987,Humana Inc. 2.5% 15-DEC-2020,0.00%
+988,FNMA 30yr Pool#AP6347 4.000% 01-Sep-2042 4.0% 01-SEP-2042,0.00%
+989,FHLMC Stacr 2018-DNA3 0.92163% 25-SEP-2048,0.00%
+990,SHORT POSITIONS,-11.16%

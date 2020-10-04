@@ -1,0 +1,330 @@
+,Name,Allocation
+0,Apple Inc.,23.60%
+1,Microsoft Corporation,16.69%
+2,Visa Inc. Class A,3.78%
+3,NVIDIA Corporation,3.37%
+4,Mastercard Incorporated Class A,3.27%
+5,Adobe Inc.,2.47%
+6,PayPal Holdings Inc,2.38%
+7,Intel Corporation,2.28%
+8,"Cisco Systems, Inc.",1.94%
+9,"salesforce.com, inc.",1.90%
+10,Accenture Plc Class A,1.63%
+11,Broadcom Inc.,1.43%
+12,Texas Instruments Incorporated,1.42%
+13,QUALCOMM Incorporated,1.40%
+14,Oracle Corporation,1.34%
+15,International Business Machines Corporation,1.19%
+16,"Advanced Micro Devices, Inc.",1.06%
+17,"Fidelity National Information Services, Inc.",0.95%
+18,"ServiceNow, Inc.",0.92%
+19,Intuit Inc.,0.91%
+20,"Automatic Data Processing, Inc.",0.65%
+21,"Applied Materials, Inc.",0.62%
+22,"Fiserv, Inc.",0.60%
+23,"Square, Inc. Class A",0.60%
+24,"Autodesk, Inc.",0.59%
+25,Lam Research Corporation,0.56%
+26,Global Payments Inc.,0.55%
+27,"Micron Technology, Inc.",0.51%
+28,"Analog Devices, Inc.",0.46%
+29,Cognizant Technology Solutions Corporation Class A,0.39%
+30,"DocuSign, Inc.",0.39%
+31,NXP Semiconductors NV,0.37%
+32,Amphenol Corporation Class A,0.35%
+33,"Workday, Inc. Class A",0.35%
+34,"Synopsys, Inc.",0.35%
+35,KLA Corporation,0.35%
+36,Splunk Inc.,0.34%
+37,"Zoom Video Communications, Inc. Class A",0.34%
+38,TE Connectivity Ltd.,0.34%
+39,"Cadence Design Systems, Inc.",0.34%
+40,"Twilio, Inc. Class A",0.32%
+41,"ANSYS, Inc.",0.30%
+42,"Palo Alto Networks, Inc.",0.29%
+43,State Str Instl Invt Tr Treaplu Inv Cl G,0.28%
+44,HP Inc.,0.28%
+45,"Motorola Solutions, Inc.",0.28%
+46,Microchip Technology Incorporated,0.28%
+47,"Xilinx, Inc.",0.27%
+48,Corning Inc,0.27%
+49,"Skyworks Solutions, Inc.",0.26%
+50,"Paychex, Inc.",0.26%
+51,"Okta, Inc. Class A",0.26%
+52,Marvell Technology Group Ltd.,0.24%
+53,"VeriSign, Inc.",0.24%
+54,"RingCentral, Inc. Class A",0.23%
+55,"FLEETCOR Technologies, Inc.",0.22%
+56,"Coupa Software, Inc.",0.22%
+57,"Fortinet, Inc.",0.21%
+58,"Trade Desk, Inc. Class A",0.20%
+59,"Maxim Integrated Products, Inc.",0.20%
+60,Keysight Technologies Inc,0.20%
+61,"Akamai Technologies, Inc.",0.19%
+62,"EPAM Systems, Inc.",0.18%
+63,"Citrix Systems, Inc.",0.18%
+64,CDW Corp.,0.17%
+65,"Broadridge Financial Solutions, Inc.",0.17%
+66,"Qorvo, Inc.",0.16%
+67,Zebra Technologies Corporation Class A,0.16%
+68,"Teradyne, Inc.",0.16%
+69,Dell Technologies Inc Class C,0.16%
+70,"GoDaddy, Inc. Class A",0.16%
+71,"Paycom Software, Inc.",0.16%
+72,"SS&C Technologies Holdings, Inc.",0.16%
+73,"Tyler Technologies, Inc.",0.15%
+74,NortonLifeLock Inc.,0.14%
+75,"Arista Networks, Inc.",0.14%
+76,"Jack Henry & Associates, Inc.",0.14%
+77,Trimble Inc.,0.14%
+78,Fair Isaac Corporation,0.13%
+79,Booz Allen Hamilton Holding Corporation Class A,0.13%
+80,"Black Knight, Inc.",0.13%
+81,Hewlett Packard Enterprise Co.,0.13%
+82,"Leidos Holdings, Inc.",0.13%
+83,"HubSpot, Inc.",0.13%
+84,"CrowdStrike Holdings, Inc. Class A",0.13%
+85,"Monolithic Power Systems, Inc.",0.13%
+86,"VMware, Inc. Class A",0.12%
+87,"Gartner, Inc.",0.12%
+88,Cognex Corporation,0.12%
+89,Seagate Technology PLC,0.11%
+90,"SolarEdge Technologies, Inc.",0.11%
+91,Western Digital Corporation,0.11%
+92,"MongoDB, Inc. Class A",0.11%
+93,Avalara Inc,0.11%
+94,"Zendesk, Inc.",0.11%
+95,Western Union Company,0.11%
+96,PTC Inc.,0.10%
+97,"Zscaler, Inc.",0.10%
+98,"Entegris, Inc.",0.10%
+99,Ciena Corporation,0.10%
+100,"NetApp, Inc.",0.10%
+101,Datadog Inc Class A,0.10%
+102,"Guidewire Software, Inc.",0.10%
+103,"Slack Technologies, Inc. Class A",0.10%
+104,ON Semiconductor Corporation,0.09%
+105,"Ceridian HCM Holding, Inc.",0.09%
+106,"Aspen Technology, Inc.",0.09%
+107,"F5 Networks, Inc.",0.09%
+108,"Nuance Communications, Inc.",0.09%
+109,"Juniper Networks, Inc.",0.08%
+110,"Five9, Inc.",0.08%
+111,Universal Display Corporation,0.08%
+112,"Dynatrace, Inc.",0.08%
+113,"Enphase Energy, Inc.",0.07%
+114,"MKS Instruments, Inc.",0.07%
+115,WEX Inc.,0.07%
+116,"Cree, Inc.",0.07%
+117,"Lumentum Holdings, Inc.",0.07%
+118,"Proofpoint, Inc.",0.07%
+119,"Arrow Electronics, Inc.",0.07%
+120,"Fastly, Inc. Class A",0.07%
+121,"Manhattan Associates, Inc.",0.07%
+122,"Alteryx, Inc. Class A",0.06%
+123,"First Solar, Inc.",0.06%
+124,CACI International Inc Class A,0.06%
+125,Elastic NV,0.06%
+126,CDK Global Inc,0.06%
+127,IPG Photonics Corporation,0.06%
+128,SYNNEX Corporation,0.06%
+129,Flex Ltd.,0.06%
+130,"Anaplan, Inc.",0.06%
+131,"Euronet Worldwide, Inc.",0.06%
+132,Inphi Corporation,0.06%
+133,"RealPage, Inc.",0.06%
+134,"Smartsheet, Inc. Class A",0.06%
+135,"MAXIMUS, Inc.",0.05%
+136,"Dropbox, Inc. Class A",0.05%
+137,Pegasystems Inc.,0.05%
+138,DXC Technology Co.,0.05%
+139,"FLIR Systems, Inc.",0.05%
+140,"Everbridge, Inc.",0.05%
+141,Paylocity Holding Corp.,0.05%
+142,Jabil Inc.,0.05%
+143,Cabot Microelectronics Corporation,0.05%
+144,"Dolby Laboratories, Inc. Class A",0.05%
+145,"Littelfuse, Inc.",0.05%
+146,"Envestnet, Inc.",0.05%
+147,National Instruments Corporation,0.05%
+148,Silicon Laboratories Inc.,0.05%
+149,Science Applications International Corp.,0.05%
+150,II-VI Incorporated,0.05%
+151,"Q2 Holdings, Inc.",0.05%
+152,"LogMeIn, Inc.",0.05%
+153,Semtech Corporation,0.04%
+154,Lattice Semiconductor Corporation,0.04%
+155,"Pure Storage, Inc. Class A",0.04%
+156,"LivePerson, Inc.",0.04%
+157,Novanta Inc,0.04%
+158,"Brooks Automation, Inc.",0.04%
+159,"Nutanix, Inc. Class A",0.04%
+160,"Varonis Systems, Inc.",0.04%
+161,"BlackLine, Inc.",0.04%
+162,"Qualys, Inc.",0.04%
+163,"SailPoint Technologies Holdings, Inc.",0.04%
+164,"Cirrus Logic, Inc.",0.04%
+165,"KBR, Inc.",0.04%
+166,"LiveRamp Holdings, Inc.",0.04%
+167,"ACI Worldwide, Inc.",0.04%
+168,Xerox Holdings Corporation,0.04%
+169,"Power Integrations, Inc.",0.04%
+170,"FireEye, Inc.",0.04%
+171,"Blackbaud, Inc.",0.03%
+172,"J2 Global, Inc.",0.03%
+173,Viavi Solutions Inc,0.03%
+174,Verint Systems Inc.,0.03%
+175,Rapid7 Inc.,0.03%
+176,"Perspecta, Inc.",0.03%
+177,"New Relic, Inc.",0.03%
+178,"Advanced Energy Industries, Inc.",0.03%
+179,Synaptics Incorporated,0.03%
+180,Mimecast Limited,0.03%
+181,"2U, Inc.",0.03%
+182,Teradata Corporation,0.03%
+183,"SPS Commerce, Inc.",0.03%
+184,"Coherent, Inc.",0.03%
+185,"Box, Inc. Class A",0.03%
+186,"Avnet, Inc.",0.03%
+187,NCR Corporation,0.03%
+188,Fabrinet,0.03%
+189,"Alarm.com Holdings, Inc.",0.03%
+190,"Acacia Communications, Inc.",0.03%
+191,"SVMK, Inc.",0.03%
+192,AppFolio Inc Class A,0.03%
+193,"Medallia, Inc.",0.03%
+194,"Cloudera, Inc.",0.03%
+195,"Itron, Inc.",0.03%
+196,"ExlService Holdings, Inc.",0.02%
+197,Plexus Corp.,0.02%
+198,"EVERTEC, Inc.",0.02%
+199,Rogers Corporation,0.02%
+200,"Pluralsight, Inc. Class A",0.02%
+201,Diodes Incorporated,0.02%
+202,"Bottomline Technologies (de), Inc.",0.02%
+203,"FormFactor, Inc.",0.02%
+204,"Digital Turbine, Inc.",0.02%
+205,"Vishay Intertechnology, Inc.",0.02%
+206,ManTech International Corporation Class A,0.02%
+207,"CommScope Holding Co., Inc.",0.02%
+208,Cerence Inc,0.02%
+209,"Insight Enterprises, Inc.",0.02%
+210,Alliance Data Systems Corporation,0.02%
+211,"InterDigital, Inc.",0.02%
+212,Sanmina-SCI Corporation,0.02%
+213,"Workiva, Inc. Class A",0.02%
+214,"Badger Meter, Inc.",0.02%
+215,"Tenable Holdings, Inc.",0.02%
+216,Sabre Corp.,0.02%
+217,"Cornerstone Ondemand, Inc.",0.02%
+218,"CommVault Systems, Inc.",0.02%
+219,"ViaSat, Inc.",0.02%
+220,MaxLinear inc,0.02%
+221,"NetScout Systems, Inc.",0.02%
+222,"MACOM Technology Solutions Holdings, Inc.",0.02%
+223,"Onto Innovation, Inc.",0.02%
+224,"PROS Holdings, Inc.",0.02%
+225,Progress Software Corporation,0.02%
+226,Altair Engineering Inc. Class A,0.02%
+227,"8x8, Inc.",0.02%
+228,Belden Inc.,0.02%
+229,"Ambarella, Inc.",0.02%
+230,Avaya Holdings Corp.,0.02%
+231,"Kulicke & Soffa Industries, Inc.",0.02%
+232,Appian Corporation Class A,0.02%
+233,Rambus Inc.,0.02%
+234,"Fitbit, Inc. Class A",0.02%
+235,NIC Inc.,0.02%
+236,Xperi Holding Corporation,0.02%
+237,"CSG Systems International, Inc.",0.02%
+238,"Yext, Inc.",0.02%
+239,"Amkor Technology, Inc.",0.02%
+240,"Bill.com Holdings, Inc.",0.02%
+241,"Perficient, Inc.",0.02%
+242,EchoStar Corporation Class A,0.02%
+243,Knowles Corp.,0.01%
+244,Verra Mobility Corp. Class A,0.01%
+245,"Sykes Enterprises, Incorporated",0.01%
+246,"OSI Systems, Inc.",0.01%
+247,Infinera Corporation,0.01%
+248,SolarWinds Corp.,0.01%
+249,Ping Identity Holding Corp.,0.01%
+250,MicroStrategy Incorporated Class A,0.01%
+251,"EVO Payments, Inc. Class A",0.01%
+252,"Super Micro Computer, Inc.",0.01%
+253,"Zuora, Inc. Class A",0.01%
+254,Virtusa Corporation,0.01%
+255,ePlus inc.,0.01%
+256,"ACM Research, Inc. Class A",0.01%
+257,"TTM Technologies, Inc.",0.01%
+258,"Methode Electronics, Inc.",0.01%
+259,"TTEC Holdings, Inc.",0.01%
+260,SunPower Corporation,0.01%
+261,"Ultra Clean Holdings, Inc.",0.01%
+262,"NETGEAR, Inc.",0.01%
+263,"Switch, Inc. Class A",0.01%
+264,"Calix, Inc.",0.01%
+265,"FARO Technologies, Inc.",0.01%
+266,"Model N, Inc.",0.01%
+267,Repay Holdings Corp. Class A,0.01%
+268,"CEVA, Inc.",0.01%
+269,Cardtronics plc Class A,0.01%
+270,"Domo, Inc. Class B",0.01%
+271,"nLIGHT, Inc.",0.01%
+272,"Axcelis Technologies, Inc.",0.01%
+273,"Limelight Networks, Inc.",0.01%
+274,"Cohu, Inc.",0.01%
+275,"Benchmark Electronics, Inc.",0.01%
+276,Inseego Corp.,0.01%
+277,Unisys Corporation,0.01%
+278,"Upland Software, Inc.",0.01%
+279,OneSpan Inc.,0.01%
+280,"PagerDuty, Inc.",0.01%
+281,"ScanSource, Inc.",0.01%
+282,3D Systems Corporation,0.01%
+283,CTS Corporation,0.01%
+284,Rosetta Stone Inc.,0.01%
+285,"Conduent, Inc.",0.01%
+286,"Ebix, Inc.",0.01%
+287,Tucows Inc.,0.01%
+288,"PDF Solutions, Inc.",0.01%
+289,"Photronics, Inc.",0.01%
+290,"Ichor Holdings, Ltd.",0.01%
+291,Veeco Instruments Inc.,0.01%
+292,Diebold Nixdorf Incorporated,0.01%
+293,"Extreme Networks, Inc.",0.01%
+294,"Plantronics, Inc.",0.01%
+295,Harmonic Inc.,0.01%
+296,"ADTRAN, Inc.",0.01%
+297,Channeladvisor Corporation,0.01%
+298,QAD Inc. Class A,0.01%
+299,"American Software, Inc. Class A",0.01%
+300,"PC Connection, Inc.",0.01%
+301,"Agilysys, Inc.",0.01%
+302,MTS Systems Corporation,0.01%
+303,"Cass Information Systems, Inc.",0.01%
+304,"MobileIron, Inc.",0.00%
+305,"A10 Networks, Inc.",0.00%
+306,"International Money Express, Inc.",0.00%
+307,Sprout Social Inc Class A,0.00%
+308,"Impinj, Inc.",0.00%
+309,"Endurance International Group Holdings, Inc.",0.00%
+310,MagnaChip Semiconductor Corporation,0.00%
+311,Comtech Telecommunications Corp.,0.00%
+312,"Kimball Electronics, Inc.",0.00%
+313,NeoPhotonics Corporation,0.00%
+314,"DSP Group, Inc.",0.00%
+315,"Hackett Group, Inc.",0.00%
+316,"SMART Global Holdings, Inc.",0.00%
+317,VirnetX Holding Corporation,0.00%
+318,"NAPCO Security Technologies, Inc.",0.00%
+319,"Benefitfocus, Inc.",0.00%
+320,"Vishay Precision Group, Inc.",0.00%
+321,"ShotSpotter, Inc.",0.00%
+322,NVE Corporation,0.00%
+323,Ribbon Communications Inc.,0.00%
+324,"PaySign, Inc. Class B",0.00%
+325,"Casa Systems, Inc.",0.00%
+326,"GTT Communications, Inc.",0.00%
+327,SecureWorks Corp. Class A,0.00%
+328,U.S. Dollar,-0.00%

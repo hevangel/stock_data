@@ -1,0 +1,3544 @@
+,Name,Allocation
+0,Apple Inc.,6.05%
+1,Microsoft Corporation,4.82%
+2,"Amazon.com, Inc.",4.11%
+3,"Facebook, Inc. Class A",1.92%
+4,Alphabet Inc. Class A,1.41%
+5,Alphabet Inc. Class C,1.38%
+6,Berkshire Hathaway Inc. Class B,1.20%
+7,Johnson & Johnson,1.20%
+8,Visa Inc. Class A,1.03%
+9,Procter & Gamble Company,1.02%
+10,NVIDIA Corporation,0.93%
+11,"Home Depot, Inc.",0.91%
+12,Tesla Inc,0.90%
+13,UnitedHealth Group Incorporated,0.89%
+14,Mastercard Incorporated Class A,0.89%
+15,JPMorgan Chase & Co.,0.89%
+16,Verizon Communications Inc.,0.73%
+17,PayPal Holdings Inc,0.69%
+18,Walt Disney Company,0.69%
+19,Adobe Inc.,0.68%
+20,"Netflix, Inc.",0.65%
+21,Pfizer Inc.,0.64%
+22,"Merck & Co., Inc.",0.64%
+23,AT&T Inc.,0.63%
+24,Intel Corporation,0.62%
+25,Comcast Corporation Class A,0.59%
+26,Bank of America Corp,0.58%
+27,"PepsiCo, Inc.",0.56%
+28,"salesforce.com, inc.",0.56%
+29,Walmart Inc.,0.56%
+30,Coca-Cola Company,0.55%
+31,Abbott Laboratories,0.54%
+32,"Cisco Systems, Inc.",0.54%
+33,Exxon Mobil Corporation,0.52%
+34,Thermo Fisher Scientific Inc.,0.51%
+35,"AbbVie, Inc.",0.50%
+36,Chevron Corporation,0.47%
+37,McDonald's Corporation,0.47%
+38,Costco Wholesale Corporation,0.45%
+39,Accenture Plc Class A,0.45%
+40,Bristol-Myers Squibb Company,0.42%
+41,Amgen Inc.,0.42%
+42,"NextEra Energy, Inc.",0.41%
+43,"NIKE, Inc. Class B",0.41%
+44,Medtronic Plc,0.39%
+45,Broadcom Inc.,0.39%
+46,Danaher Corporation,0.39%
+47,Union Pacific Corporation,0.39%
+48,Texas Instruments Incorporated,0.38%
+49,Linde plc,0.38%
+50,QUALCOMM Incorporated,0.38%
+51,Eli Lilly and Company,0.37%
+52,"Lowe's Companies, Inc.",0.36%
+53,Philip Morris International Inc.,0.36%
+54,Oracle Corporation,0.34%
+55,"United Parcel Service, Inc. Class B",0.34%
+56,American Tower Corporation,0.33%
+57,Honeywell International Inc.,0.33%
+58,International Business Machines Corporation,0.33%
+59,Citigroup Inc.,0.31%
+60,"Advanced Micro Devices, Inc.",0.29%
+61,Lockheed Martin Corporation,0.29%
+62,3M Company,0.28%
+63,"Charter Communications, Inc. Class A",0.28%
+64,"BlackRock, Inc.",0.27%
+65,Starbucks Corporation,0.27%
+66,Boeing Company,0.27%
+67,Raytheon Technologies Corporation,0.26%
+68,Wells Fargo & Company,0.26%
+69,"Fidelity National Information Services, Inc.",0.26%
+70,"S&P Global, Inc.",0.26%
+71,"ServiceNow, Inc.",0.26%
+72,Intuit Inc.,0.25%
+73,CVS Health Corporation,0.25%
+74,"Gilead Sciences, Inc.",0.25%
+75,"Mondelez International, Inc. Class A",0.24%
+76,"Intuitive Surgical, Inc.",0.24%
+77,Altria Group Inc,0.24%
+78,Target Corporation,0.23%
+79,MUTUAL FUND (OTHER),0.23%
+80,"Prologis, Inc.",0.23%
+81,"Becton, Dickinson and Company",0.23%
+82,"Zoetis, Inc. Class A",0.22%
+83,Caterpillar Inc.,0.22%
+84,Booking Holdings Inc.,0.22%
+85,"Anthem, Inc.",0.21%
+86,Vertex Pharmaceuticals Incorporated,0.21%
+87,"Equinix, Inc.",0.21%
+88,Crown Castle International Corp,0.20%
+89,"T-Mobile US, Inc.",0.20%
+90,Colgate-Palmolive Company,0.20%
+91,Dominion Energy Inc,0.20%
+92,Cigna Corporation,0.20%
+93,"Activision Blizzard, Inc.",0.19%
+94,American Express Company,0.19%
+95,"Air Products and Chemicals, Inc.",0.19%
+96,"Goldman Sachs Group, Inc.",0.19%
+97,Deere & Company,0.19%
+98,CME Group Inc. Class A,0.19%
+99,TJX Companies Inc,0.18%
+100,Morgan Stanley,0.18%
+101,Stryker Corporation,0.18%
+102,"Regeneron Pharmaceuticals, Inc.",0.18%
+103,Duke Energy Corporation,0.18%
+104,"Automatic Data Processing, Inc.",0.18%
+105,"Marsh & McLennan Companies, Inc.",0.17%
+106,"Intercontinental Exchange, Inc.",0.17%
+107,"Applied Materials, Inc.",0.17%
+108,CSX Corporation,0.17%
+109,Illinois Tool Works Inc.,0.17%
+110,Southern Company,0.17%
+111,Humana Inc.,0.17%
+112,Chubb Limited,0.16%
+113,General Electric Company,0.16%
+114,Boston Scientific Corporation,0.16%
+115,Sherwin-Williams Company,0.16%
+116,"Autodesk, Inc.",0.16%
+117,Progressive Corporation,0.16%
+118,"Fiserv, Inc.",0.16%
+119,Kimberly-Clark Corporation,0.16%
+120,Norfolk Southern Corporation,0.16%
+121,"Square, Inc. Class A",0.16%
+122,Newmont Corporation,0.16%
+123,Northrop Grumman Corporation,0.16%
+124,"Illumina, Inc.",0.15%
+125,Lam Research Corporation,0.15%
+126,FedEx Corporation,0.15%
+127,Global Payments Inc.,0.15%
+128,Truist Financial Corporation,0.15%
+129,Dollar General Corporation,0.15%
+130,Edwards Lifesciences Corporation,0.15%
+131,Ecolab Inc.,0.15%
+132,U.S. Bancorp,0.14%
+133,"Micron Technology, Inc.",0.14%
+134,Estee Lauder Companies Inc. Class A,0.14%
+135,Moody's Corporation,0.14%
+136,"Roper Technologies, Inc.",0.14%
+137,Biogen Inc.,0.13%
+138,"PNC Financial Services Group, Inc.",0.13%
+139,Aon Plc Class A,0.13%
+140,"Waste Management, Inc.",0.13%
+141,"Analog Devices, Inc.",0.13%
+142,Baxter International Inc.,0.13%
+143,Lululemon Athletica Inc,0.13%
+144,"Digital Realty Trust, Inc.",0.12%
+145,ConocoPhillips,0.12%
+146,"DuPont de Nemours, Inc.",0.12%
+147,Electronic Arts Inc.,0.12%
+148,Emerson Electric Co.,0.12%
+149,Eaton Corp. Plc,0.12%
+150,"DexCom, Inc.",0.12%
+151,Charles Schwab Corporation,0.12%
+152,"American Electric Power Company, Inc.",0.12%
+153,"General Mills, Inc.",0.12%
+154,L3Harris Technologies Inc,0.12%
+155,eBay Inc.,0.11%
+156,Xcel Energy Inc.,0.11%
+157,Sempra Energy,0.11%
+158,General Motors Company,0.11%
+159,Centene Corporation,0.11%
+160,Veeva Systems Inc Class A,0.11%
+161,Exelon Corporation,0.11%
+162,Cognizant Technology Solutions Corporation Class A,0.11%
+163,Blackstone Group Inc. Class A,0.11%
+164,HCA Healthcare Inc,0.10%
+165,General Dynamics Corporation,0.10%
+166,"Twilio, Inc. Class A",0.10%
+167,SBA Communications Corp. Class A,0.10%
+168,"O'Reilly Automotive, Inc.",0.10%
+169,NXP Semiconductors NV,0.10%
+170,"CoStar Group, Inc.",0.10%
+171,"IDEXX Laboratories, Inc.",0.10%
+172,IHS Markit Ltd.,0.10%
+173,"Dow, Inc.",0.10%
+174,"Chipotle Mexican Grill, Inc.",0.10%
+175,"Synopsys, Inc.",0.10%
+176,Splunk Inc.,0.10%
+177,Amphenol Corporation Class A,0.10%
+178,KLA Corporation,0.09%
+179,"Workday, Inc. Class A",0.09%
+180,TE Connectivity Ltd.,0.09%
+181,"Twitter, Inc.",0.09%
+182,"Ross Stores, Inc.",0.09%
+183,Public Storage,0.09%
+184,MSCI Inc. Class A,0.09%
+185,Cummins Inc.,0.09%
+186,"Cadence Design Systems, Inc.",0.09%
+187,T. Rowe Price Group,0.09%
+188,Monster Beverage Corporation,0.09%
+189,"Agilent Technologies, Inc.",0.09%
+190,"Constellation Brands, Inc. Class A",0.09%
+191,Johnson Controls International plc,0.09%
+192,PACCAR Inc,0.09%
+193,Verisk Analytics Inc,0.09%
+194,Allstate Corporation,0.09%
+195,Sysco Corporation,0.09%
+196,Eversource Energy,0.09%
+197,Walgreens Boots Alliance Inc,0.09%
+198,Capital One Financial Corporation,0.09%
+199,WEC Energy Group Inc,0.09%
+200,Bank of New York Mellon Corporation,0.09%
+201,"MetLife, Inc.",0.09%
+202,"Yum! Brands, Inc.",0.09%
+203,Clorox Company,0.08%
+204,"Zimmer Biomet Holdings, Inc.",0.08%
+205,Kroger Co.,0.08%
+206,"Travelers Companies, Inc.",0.08%
+207,"AutoZone, Inc.",0.08%
+208,"ANSYS, Inc.",0.08%
+209,Trane Technologies plc,0.08%
+210,"PPG Industries, Inc.",0.08%
+211,IQVIA Holdings Inc,0.08%
+212,Fastenal Company,0.08%
+213,"DocuSign, Inc.",0.08%
+214,Cintas Corporation,0.08%
+215,Kinder Morgan Inc Class P,0.08%
+216,Public Service Enterprise Group Inc,0.08%
+217,"Prudential Financial, Inc.",0.08%
+218,Phillips 66,0.08%
+219,Microchip Technology Incorporated,0.08%
+220,Parker-Hannifin Corporation,0.08%
+221,"Rockwell Automation, Inc.",0.08%
+222,"Palo Alto Networks, Inc.",0.08%
+223,"Williams Companies, Inc.",0.08%
+224,"Best Buy Co., Inc.",0.08%
+225,ResMed Inc.,0.08%
+226,Schlumberger NV,0.08%
+227,HP Inc.,0.08%
+228,"Marriott International, Inc. Class A",0.08%
+229,Aflac Incorporated,0.08%
+230,Otis Worldwide Corporation,0.08%
+231,"American Water Works Company, Inc.",0.08%
+232,"Motorola Solutions, Inc.",0.08%
+233,Ford Motor Company,0.08%
+234,"D.R. Horton, Inc.",0.08%
+235,Willis Towers Watson Public Limited Company,0.08%
+236,"McCormick & Company, Incorporated",0.08%
+237,"EOG Resources, Inc.",0.08%
+238,"Match Group, Inc.",0.07%
+239,"Stanley Black & Decker, Inc.",0.07%
+240,Ball Corporation,0.07%
+241,"Xilinx, Inc.",0.07%
+242,Corning Inc,0.07%
+243,"American International Group, Inc.",0.07%
+244,McKesson Corporation,0.07%
+245,TransDigm Group Incorporated,0.07%
+246,Hilton Worldwide Holdings Inc,0.07%
+247,Archer-Daniels-Midland Company,0.07%
+248,"Okta, Inc. Class A",0.07%
+249,"Consolidated Edison, Inc.",0.07%
+250,Carrier Global Corp.,0.07%
+251,"Dollar Tree, Inc.",0.07%
+252,State Street Corporation,0.07%
+253,"Church & Dwight Co., Inc.",0.07%
+254,"Wayfair, Inc. Class A",0.07%
+255,"Paychex, Inc.",0.07%
+256,"Welltower, Inc.",0.07%
+257,"Skyworks Solutions, Inc.",0.07%
+258,Mettler-Toledo International Inc.,0.07%
+259,Marathon Petroleum Corporation,0.07%
+260,"AMETEK, Inc.",0.07%
+261,Aptiv PLC,0.07%
+262,"RingCentral, Inc. Class A",0.07%
+263,DTE Energy Company,0.07%
+264,"Alexion Pharmaceuticals, Inc.",0.07%
+265,Marvell Technology Group Ltd.,0.07%
+266,Cerner Corporation,0.07%
+267,Hershey Company,0.07%
+268,"AvalonBay Communities, Inc.",0.07%
+269,Lennar Corporation Class A,0.06%
+270,Fortive Corp.,0.06%
+271,"Alexandria Real Estate Equities, Inc.",0.06%
+272,PPL Corporation,0.06%
+273,Kraft Heinz Company,0.06%
+274,Liberty Broadband Corp. Class C,0.06%
+275,"VeriSign, Inc.",0.06%
+276,Weyerhaeuser Company,0.06%
+277,"Freeport-McMoRan, Inc.",0.06%
+278,Valero Energy Corporation,0.06%
+279,"Align Technology, Inc.",0.06%
+280,Corteva Inc,0.06%
+281,Realty Income Corporation,0.06%
+282,"Copart, Inc.",0.06%
+283,"Coupa Software, Inc.",0.06%
+284,Ameren Corporation,0.06%
+285,Arthur J. Gallagher & Co.,0.06%
+286,"FLEETCOR Technologies, Inc.",0.06%
+287,"West Pharmaceutical Services, Inc.",0.06%
+288,"Simon Property Group, Inc.",0.06%
+289,Equifax Inc.,0.06%
+290,KKR & Co. Inc.,0.06%
+291,"Moderna, Inc.",0.06%
+292,Entergy Corporation,0.06%
+293,"Take-Two Interactive Software, Inc.",0.06%
+294,V.F. Corporation,0.06%
+295,Edison International,0.06%
+296,First Republic Bank,0.06%
+297,MarketAxess Holdings Inc.,0.06%
+298,Equity Residential,0.06%
+299,"Trade Desk, Inc. Class A",0.06%
+300,"Ameriprise Financial, Inc.",0.06%
+301,"Old Dominion Freight Line, Inc.",0.06%
+302,Southwest Airlines Co.,0.06%
+303,"Republic Services, Inc.",0.06%
+304,"Tyson Foods, Inc. Class A",0.05%
+305,"Seattle Genetics, Inc.",0.05%
+306,"Akamai Technologies, Inc.",0.05%
+307,"Conagra Brands, Inc.",0.05%
+308,Keysight Technologies Inc,0.05%
+309,Tractor Supply Company,0.05%
+310,"Maxim Integrated Products, Inc.",0.05%
+311,"Snap, Inc. Class A",0.05%
+312,"Fortinet, Inc.",0.05%
+313,"EPAM Systems, Inc.",0.05%
+314,"Hologic, Inc.",0.05%
+315,Laboratory Corporation of America Holdings,0.05%
+316,Teleflex Incorporated,0.05%
+317,Kellogg Company,0.05%
+318,"CarMax, Inc.",0.05%
+319,CMS Energy Corporation,0.05%
+320,Kansas City Southern,0.05%
+321,Amcor PLC,0.05%
+322,Pioneer Natural Resources Company,0.05%
+323,Northern Trust Corporation,0.05%
+324,Incyte Corporation,0.05%
+325,"Teladoc Health, Inc.",0.05%
+326,LyondellBasell Industries NV,0.05%
+327,Vulcan Materials Company,0.05%
+328,"Citrix Systems, Inc.",0.05%
+329,Las Vegas Sands Corp.,0.05%
+330,"Domino's Pizza, Inc.",0.05%
+331,TransUnion,0.05%
+332,CDW Corp.,0.05%
+333,Quest Diagnostics Incorporated,0.05%
+334,Dover Corporation,0.05%
+335,"Invitation Homes, Inc.",0.05%
+336,"Alnylam Pharmaceuticals, Inc",0.05%
+337,"Etsy, Inc.",0.05%
+338,"Broadridge Financial Solutions, Inc.",0.05%
+339,"Ventas, Inc.",0.05%
+340,Horizon Therapeutics Public Limited Company,0.05%
+341,"Varian Medical Systems, Inc.",0.05%
+342,"Delta Air Lines, Inc.",0.05%
+343,Masco Corporation,0.05%
+344,"Qorvo, Inc.",0.05%
+345,Discover Financial Services,0.05%
+346,FirstEnergy Corp.,0.05%
+347,"CBRE Group, Inc. Class A",0.04%
+348,"Nasdaq, Inc.",0.04%
+349,"W.W. Grainger, Inc.",0.04%
+350,"Cooper Companies, Inc.",0.04%
+351,"NVR, Inc.",0.04%
+352,Zebra Technologies Corporation Class A,0.04%
+353,"Healthpeak Properties, Inc.",0.04%
+354,Garmin Ltd.,0.04%
+355,Hormel Foods Corporation,0.04%
+356,Markel Corporation,0.04%
+357,"Expeditors International of Washington, Inc.",0.04%
+358,"Sun Communities, Inc.",0.04%
+359,"Cardinal Health, Inc.",0.04%
+360,AmerisourceBergen Corporation,0.04%
+361,"Teradyne, Inc.",0.04%
+362,Halliburton Company,0.04%
+363,"Hartford Financial Services Group, Inc.",0.04%
+364,"SS&C Technologies Holdings, Inc.",0.04%
+365,Fifth Third Bancorp,0.04%
+366,FMC Corporation,0.04%
+367,Xylem Inc.,0.04%
+368,International Paper Company,0.04%
+369,ViacomCBS Inc. Class B,0.04%
+370,Tiffany & Co.,0.04%
+371,Extra Space Storage Inc.,0.04%
+372,Duke Realty Corporation,0.04%
+373,"Tyler Technologies, Inc.",0.04%
+374,"GoDaddy, Inc. Class A",0.04%
+375,Catalent Inc,0.04%
+376,"Paycom Software, Inc.",0.04%
+377,Insulet Corporation,0.04%
+378,"ABIOMED, Inc.",0.04%
+379,"Essex Property Trust, Inc.",0.04%
+380,IDEX Corporation,0.04%
+381,Pool Corporation,0.04%
+382,BioMarin Pharmaceutical Inc.,0.04%
+383,Nucor Corporation,0.04%
+384,Alliant Energy Corp,0.04%
+385,Keurig Dr Pepper Inc.,0.04%
+386,"Roku, Inc. Class A",0.04%
+387,Genuine Parts Company,0.04%
+388,FactSet Research Systems Inc.,0.04%
+389,Waters Corporation,0.04%
+390,M&T Bank Corporation,0.04%
+391,Brown-Forman Corporation Class B,0.04%
+392,"Mid-America Apartment Communities, Inc.",0.04%
+393,STERIS Plc,0.04%
+394,"PerkinElmer, Inc.",0.04%
+395,"Burlington Stores, Inc.",0.04%
+396,"Martin Marietta Materials, Inc.",0.04%
+397,Synchrony Financial,0.04%
+398,International Flavors & Fragrances Inc.,0.04%
+399,"Jack Henry & Associates, Inc.",0.04%
+400,"C.H. Robinson Worldwide, Inc.",0.04%
+401,J.M. Smucker Company,0.04%
+402,Hess Corporation,0.04%
+403,"United Rentals, Inc.",0.04%
+404,"Expedia Group, Inc.",0.04%
+405,Arch Capital Group Ltd.,0.04%
+406,Trimble Inc.,0.04%
+407,SVB Financial Group,0.04%
+408,Ingersoll Rand Inc.,0.04%
+409,W. P. Carey Inc.,0.04%
+410,"Black Knight, Inc.",0.04%
+411,Fair Isaac Corporation,0.04%
+412,Hewlett Packard Enterprise Co.,0.04%
+413,Atmos Energy Corporation,0.04%
+414,Occidental Petroleum Corporation,0.04%
+415,NortonLifeLock Inc.,0.04%
+416,"Boston Properties, Inc.",0.04%
+417,"Leidos Holdings, Inc.",0.04%
+418,"Cheniere Energy, Inc.",0.04%
+419,"Arista Networks, Inc.",0.04%
+420,AES Corporation,0.04%
+421,Ulta Beauty Inc,0.04%
+422,"Fortune Brands Home & Security, Inc.",0.04%
+423,Booz Allen Hamilton Holding Corporation Class A,0.04%
+424,E*TRADE Financial Corporation,0.04%
+425,"Equity LifeStyle Properties, Inc.",0.04%
+426,Westinghouse Air Brake Technologies Corporation,0.04%
+427,"HubSpot, Inc.",0.04%
+428,Cincinnati Financial Corporation,0.04%
+429,"ONEOK, Inc.",0.04%
+430,Celanese Corporation,0.04%
+431,KeyCorp,0.04%
+432,"J.B. Hunt Transport Services, Inc.",0.03%
+433,"PulteGroup, Inc.",0.03%
+434,"Zillow Group, Inc. Class C",0.03%
+435,Generac Holdings Inc.,0.03%
+436,Whirlpool Corporation,0.03%
+437,"Evergy, Inc.",0.03%
+438,Jacobs Engineering Group Inc.,0.03%
+439,"Gartner, Inc.",0.03%
+440,Teledyne Technologies Incorporated,0.03%
+441,Omnicom Group Inc,0.03%
+442,Exact Sciences Corporation,0.03%
+443,Carvana Co. Class A,0.03%
+444,"Monolithic Power Systems, Inc.",0.03%
+445,Cognex Corporation,0.03%
+446,"SolarEdge Technologies, Inc.",0.03%
+447,RPM International Inc.,0.03%
+448,"Advance Auto Parts, Inc.",0.03%
+449,"Bio-Rad Laboratories, Inc. Class A",0.03%
+450,"Molina Healthcare, Inc.",0.03%
+451,Masimo Corporation,0.03%
+452,"Principal Financial Group, Inc.",0.03%
+453,"VMware, Inc. Class A",0.03%
+454,"Darden Restaurants, Inc.",0.03%
+455,"Neurocrine Biosciences, Inc.",0.03%
+456,"CenterPoint Energy, Inc.",0.03%
+457,"CenturyLink, Inc.",0.03%
+458,"Charles River Laboratories International, Inc.",0.03%
+459,"Annaly Capital Management, Inc.",0.03%
+460,Royal Caribbean Group,0.03%
+461,"Brown & Brown, Inc.",0.03%
+462,Regions Financial Corporation,0.03%
+463,"Elanco Animal Health, Inc.",0.03%
+464,VICI Properties Inc,0.03%
+465,"Citizens Financial Group, Inc.",0.03%
+466,MGM Resorts International,0.03%
+467,"Sarepta Therapeutics, Inc.",0.03%
+468,Cboe Global Markets Inc,0.03%
+469,"UDR, Inc.",0.03%
+470,Bio-Techne Corporation,0.03%
+471,Seagate Technology PLC,0.03%
+472,Western Digital Corporation,0.03%
+473,Western Union Company,0.03%
+474,Baker Hughes Company Class A,0.03%
+475,Apollo Global Management Inc. Class A,0.03%
+476,Nordson Corporation,0.03%
+477,Lennox International Inc.,0.03%
+478,"Crown Holdings, Inc.",0.03%
+479,"CyrusOne, Inc.",0.03%
+480,TD Ameritrade Holding Corporation,0.03%
+481,"Essential Utilities, Inc.",0.03%
+482,Graco Inc.,0.03%
+483,Eastman Chemical Company,0.03%
+484,"Zendesk, Inc.",0.03%
+485,"Hasbro, Inc.",0.03%
+486,"Cable One, Inc.",0.03%
+487,"DENTSPLY SIRONA, Inc.",0.03%
+488,Concho Resources Inc.,0.03%
+489,"Medical Properties Trust, Inc.",0.03%
+490,Albemarle Corporation,0.03%
+491,"Fidelity National Financial, Inc. - FNF Group",0.03%
+492,IAC/InteractiveCorp.,0.03%
+493,Avery Dennison Corporation,0.03%
+494,Packaging Corporation of America,0.03%
+495,"Henry Schein, Inc.",0.03%
+496,PTC Inc.,0.03%
+497,LKQ Corporation,0.03%
+498,Ciena Corporation,0.03%
+499,"Entegris, Inc.",0.03%
+500,Quidel Corporation,0.03%
+501,Huntington Bancshares Incorporated,0.03%
+502,Avalara Inc,0.03%
+503,Zynga Inc. Class A,0.03%
+504,"Guidewire Software, Inc.",0.03%
+505,"NetApp, Inc.",0.03%
+506,"Chegg, Inc.",0.03%
+507,Dell Technologies Inc Class C,0.03%
+508,"Raymond James Financial, Inc.",0.03%
+509,Allegion PLC,0.03%
+510,NiSource Inc,0.03%
+511,"Royal Gold, Inc.",0.03%
+512,Campbell Soup Company,0.03%
+513,"Lamb Weston Holdings, Inc.",0.03%
+514,"Vail Resorts, Inc.",0.03%
+515,"Boston Beer Company, Inc. Class A",0.03%
+516,"Trex Company, Inc.",0.03%
+517,"Iron Mountain, Inc.",0.03%
+518,W. R. Berkley Corporation,0.03%
+519,Fox Corporation Class A,0.03%
+520,"Zscaler, Inc.",0.03%
+521,Vistra Corp.,0.03%
+522,DraftKings Inc Class A,0.03%
+523,"Novavax, Inc.",0.03%
+524,Loews Corporation,0.03%
+525,"Aspen Technology, Inc.",0.03%
+526,"Zoom Video Communications, Inc. Class A",0.03%
+527,DISH Network Corporation Class A,0.03%
+528,Camden Property Trust,0.03%
+529,"Equitable Holdings, Inc.",0.03%
+530,Textron Inc.,0.03%
+531,ON Semiconductor Corporation,0.03%
+532,Pinnacle West Capital Corporation,0.02%
+533,"Immunomedics, Inc.",0.02%
+534,"Nuance Communications, Inc.",0.02%
+535,RenaissanceRe Holdings Ltd.,0.02%
+536,Ally Financial Inc,0.02%
+537,BorgWarner Inc.,0.02%
+538,"Universal Health Services, Inc. Class B",0.02%
+539,"Everest Re Group, Ltd.",0.02%
+540,"United Airlines Holdings, Inc.",0.02%
+541,Liberty Global Plc Class C,0.02%
+542,"NRG Energy, Inc.",0.02%
+543,Service Corporation International,0.02%
+544,Hubbell Incorporated Class B,0.02%
+545,Snap-on Incorporated,0.02%
+546,Globe Life Inc.,0.02%
+547,"Sirius XM Holdings, Inc.",0.02%
+548,Mylan N.V.,0.02%
+549,"F5 Networks, Inc.",0.02%
+550,"Rollins, Inc.",0.02%
+551,Chemed Corporation,0.02%
+552,"Juniper Networks, Inc.",0.02%
+553,"Wynn Resorts, Limited",0.02%
+554,"Amedisys, Inc.",0.02%
+555,"GCI Liberty, Inc. Class A",0.02%
+556,"Aptargroup, Inc.",0.02%
+557,Alleghany Corporation,0.02%
+558,Toro Company,0.02%
+559,Americold Realty Trust,0.02%
+560,Pentair plc,0.02%
+561,"Williams-Sonoma, Inc.",0.02%
+562,"MongoDB, Inc. Class A",0.02%
+563,Universal Display Corporation,0.02%
+564,"Watsco, Inc.",0.02%
+565,"Five9, Inc.",0.02%
+566,"Penumbra, Inc.",0.02%
+567,AGNC Investment Corp.,0.02%
+568,American Homes 4 Rent Class A,0.02%
+569,DaVita Inc.,0.02%
+570,"Host Hotels & Resorts, Inc.",0.02%
+571,Liberty Media Corporation Series C Liberty Formula One,0.02%
+572,"Gaming and Leisure Properties, Inc.",0.02%
+573,"Bright Horizons Family Solutions, Inc.",0.02%
+574,"XPO Logistics, Inc.",0.02%
+575,Cabot Oil & Gas Corporation,0.02%
+576,"VEREIT, Inc. Class A",0.02%
+577,"Penn National Gaming, Inc.",0.02%
+578,"Assurant, Inc.",0.02%
+579,"Ceridian HCM Holding, Inc.",0.02%
+580,WestRock Company,0.02%
+581,"Dynatrace, Inc.",0.02%
+582,"Altice USA, Inc. Class A",0.02%
+583,"Live Nation Entertainment, Inc.",0.02%
+584,Owens Corning,0.02%
+585,"CF Industries Holdings, Inc.",0.02%
+586,Repligen Corporation,0.02%
+587,Scotts Miracle-Gro Company Class A,0.02%
+588,"Quanta Services, Inc.",0.02%
+589,Perrigo Co. Plc,0.02%
+590,UGI Corporation,0.02%
+591,Carlisle Companies Incorporated,0.02%
+592,"Omega Healthcare Investors, Inc.",0.02%
+593,"MKS Instruments, Inc.",0.02%
+594,"L Brands, Inc.",0.02%
+595,"Exelixis, Inc.",0.02%
+596,Lincoln National Corporation,0.02%
+597,Reliance Steel & Aluminum Co.,0.02%
+598,A. O. Smith Corporation,0.02%
+599,Berry Global Group Inc,0.02%
+600,"HD Supply Holdings, Inc.",0.02%
+601,Caesars Entertainment Inc,0.02%
+602,Carnival Corporation,0.02%
+603,Molson Coors Beverage Company Class B,0.02%
+604,"Grubhub, Inc.",0.02%
+605,"Cree, Inc.",0.02%
+606,"Interpublic Group of Companies, Inc.",0.02%
+607,"Ionis Pharmaceuticals, Inc.",0.02%
+608,"Casey's General Stores, Inc.",0.02%
+609,Jazz Pharmaceuticals Plc,0.02%
+610,Regency Centers Corporation,0.02%
+611,"Huntington Ingalls Industries, Inc.",0.02%
+612,"LHC Group, Inc.",0.02%
+613,Bunge Limited,0.02%
+614,Gentex Corporation,0.02%
+615,"Lumentum Holdings, Inc.",0.02%
+616,"Hill-Rom Holdings, Inc.",0.02%
+617,Howmet Aerospace Inc.,0.02%
+618,"PRA Health Sciences, Inc.",0.02%
+619,"IAA, Inc.",0.02%
+620,Sensata Technologies Holding PLC,0.02%
+621,New York Times Company Class A,0.02%
+622,"Five Below, Inc.",0.02%
+623,WEX Inc.,0.02%
+624,Robert Half International Inc.,0.02%
+625,"Proofpoint, Inc.",0.02%
+626,Sealed Air Corporation,0.02%
+627,Ollie's Bargain Outlet Holdings Inc,0.02%
+628,SEI Investments Company,0.02%
+629,"Steel Dynamics, Inc.",0.02%
+630,"Tandem Diabetes Care, Inc.",0.02%
+631,OGE Energy Corp.,0.02%
+632,AECOM,0.02%
+633,"Voya Financial, Inc.",0.02%
+634,"Donaldson Company, Inc.",0.02%
+635,Lyft Inc Class A,0.02%
+636,"Uber Technologies, Inc.",0.02%
+637,"Discovery, Inc. Class C",0.02%
+638,"Diamondback Energy, Inc.",0.02%
+639,"Arrow Electronics, Inc.",0.02%
+640,Churchill Downs Incorporated,0.02%
+641,Newell Brands Inc,0.02%
+642,"American Airlines Group, Inc.",0.02%
+643,Genpact Limited,0.02%
+644,STORE Capital Corporation,0.02%
+645,LPL Financial Holdings Inc.,0.02%
+646,Knight-Swift Transportation Holdings Inc. Class A,0.02%
+647,Mosaic Company,0.02%
+648,News Corporation Class A,0.02%
+649,HEICO Corporation Class A,0.02%
+650,"Stericycle, Inc.",0.02%
+651,Encompass Health Corporation,0.02%
+652,"Reinsurance Group of America, Incorporated",0.02%
+653,Credit Acceptance Corporation,0.02%
+654,"Avantor, Inc.",0.02%
+655,Lear Corporation,0.02%
+656,Kilroy Realty Corporation,0.02%
+657,"Lithia Motors, Inc. Class A",0.02%
+658,"National Retail Properties, Inc.",0.02%
+659,"Manhattan Associates, Inc.",0.02%
+660,Liberty Media Corp. Series C Liberty SiriusXM,0.02%
+661,"BJ's Wholesale Club Holdings, Inc.",0.02%
+662,Aramark,0.02%
+663,CACI International Inc Class A,0.02%
+664,"Momenta Pharmaceuticals, Inc.",0.02%
+665,"Thor Industries, Inc.",0.02%
+666,"Lincoln Electric Holdings, Inc.",0.02%
+667,"Commerce Bancshares, Inc.",0.02%
+668,"Alteryx, Inc. Class A",0.02%
+669,CubeSmart,0.02%
+670,"First Solar, Inc.",0.02%
+671,Deckers Outdoor Corporation,0.02%
+672,Mirati Therapeutics Inc.,0.02%
+673,"Dunkin' Brands Group, Inc.",0.02%
+674,Inphi Corporation,0.02%
+675,Lamar Advertising Company Class A,0.02%
+676,"Healthcare Trust of America, Inc. Class A",0.02%
+677,"Franklin Resources, Inc.",0.02%
+678,"CoreLogic, Inc.",0.02%
+679,Polaris Inc.,0.02%
+680,"Enphase Energy, Inc.",0.02%
+681,Vornado Realty Trust,0.02%
+682,CDK Global Inc,0.02%
+683,"Rexford Industrial Realty, Inc.",0.02%
+684,Federal Realty Investment Trust,0.02%
+685,Autoliv Inc.,0.02%
+686,Hanesbrands Inc.,0.02%
+687,"BWX Technologies, Inc.",0.02%
+688,Oshkosh Corp,0.02%
+689,"SiteOne Landscape Supply, Inc.",0.02%
+690,"First Industrial Realty Trust, Inc.",0.02%
+691,Ingredion Incorporated,0.02%
+692,"Wingstop, Inc.",0.02%
+693,"Euronet Worldwide, Inc.",0.02%
+694,Helen of Troy Limited,0.02%
+695,"EastGroup Properties, Inc.",0.02%
+696,"Mohawk Industries, Inc.",0.02%
+697,"Floor & Decor Holdings, Inc. Class A",0.02%
+698,Emergent BioSolutions Inc.,0.02%
+699,Signature Bank,0.02%
+700,RH,0.02%
+701,First American Financial Corporation,0.02%
+702,IPG Photonics Corporation,0.02%
+703,"Ultragenyx Pharmaceutical, Inc.",0.02%
+704,"Primerica, Inc.",0.02%
+705,"iRhythm Technologies, Inc.",0.02%
+706,"ITT, Inc.",0.02%
+707,"Zions Bancorporation, N.A.",0.02%
+708,"Leggett & Platt, Incorporated",0.02%
+709,"MyoKardia, Inc.",0.02%
+710,"ServiceMaster Global Holdings, Inc.",0.02%
+711,Apartment Investment & Management Co Class A,0.02%
+712,Apache Corporation,0.02%
+713,Nielsen Holdings Plc,0.02%
+714,Paylocity Holding Corp.,0.02%
+715,Sonoco Products Company,0.02%
+716,Comerica Incorporated,0.02%
+717,"Post Holdings, Inc.",0.02%
+718,Kimco Realty Corporation,0.02%
+719,"RealPage, Inc.",0.02%
+720,CoreSite Realty Corporation,0.02%
+721,Darling Ingredients Inc.,0.02%
+722,"Toll Brothers, Inc.",0.02%
+723,Middleby Corporation,0.02%
+724,SYNNEX Corporation,0.02%
+725,Acceleron Pharma Inc,0.02%
+726,"East West Bancorp, Inc.",0.02%
+727,"Tetra Tech, Inc.",0.01%
+728,"Prosperity Bancshares, Inc.(R)",0.01%
+729,Axalta Coating Systems Ltd.,0.01%
+730,Pegasystems Inc.,0.01%
+731,Jones Lang LaSalle Incorporated,0.01%
+732,DXC Technology Co.,0.01%
+733,"NeoGenomics, Inc.",0.01%
+734,Old Republic International Corporation,0.01%
+735,"Flowers Foods, Inc.",0.01%
+736,TopBuild Corp.,0.01%
+737,"Q2 Holdings, Inc.",0.01%
+738,"Ashland Global Holdings, Inc.",0.01%
+739,First Horizon National Corporation,0.01%
+740,"Landstar System, Inc.",0.01%
+741,"Guardant Health, Inc.",0.01%
+742,Axon Enterprise Inc,0.01%
+743,"STAG Industrial, Inc.",0.01%
+744,"American Financial Group, Inc.",0.01%
+745,Jabil Inc.,0.01%
+746,"Everbridge, Inc.",0.01%
+747,Kemper Corporation,0.01%
+748,"Smartsheet, Inc. Class A",0.01%
+749,"MAXIMUS, Inc.",0.01%
+750,"Natera, Inc.",0.01%
+751,Performance Food Group Company,0.01%
+752,US Foods Holding Corp.,0.01%
+753,Brunswick Corporation,0.01%
+754,"Noble Energy, Inc.",0.01%
+755,Stamps.com Inc.,0.01%
+756,MDU Resources Group Inc,0.01%
+757,Plug Power Inc.,0.01%
+758,"FLIR Systems, Inc.",0.01%
+759,"Life Storage, Inc.",0.01%
+760,"Dropbox, Inc. Class A",0.01%
+761,United Therapeutics Corporation,0.01%
+762,"Planet Fitness, Inc. Class A",0.01%
+763,First Financial Bankshares Inc,0.01%
+764,"People's United Financial, Inc.",0.01%
+765,Nevro Corp.,0.01%
+766,"Douglas Emmett, Inc",0.01%
+767,Cabot Microelectronics Corporation,0.01%
+768,"Wyndham Hotels & Resorts, Inc.",0.01%
+769,AGCO Corporation,0.01%
+770,"Grand Canyon Education, Inc.",0.01%
+771,"LogMeIn, Inc.",0.01%
+772,Bruker Corporation,0.01%
+773,"IDACORP, Inc.",0.01%
+774,ACADIA Pharmaceuticals Inc.,0.01%
+775,ManpowerGroup Inc.,0.01%
+776,"Woodward, Inc.",0.01%
+777,"National Oilwell Varco, Inc.",0.01%
+778,Redfin Corporation,0.01%
+779,Huntsman Corporation,0.01%
+780,Haemonetics Corporation,0.01%
+781,"Littelfuse, Inc.",0.01%
+782,"Dolby Laboratories, Inc. Class A",0.01%
+783,Curtiss-Wright Corporation,0.01%
+784,Herbalife Nutrition Ltd.,0.01%
+785,Freshpet Inc,0.01%
+786,"Envestnet, Inc.",0.01%
+787,Athene Holding Ltd. Class A,0.01%
+788,Cousins Properties Incorporated,0.01%
+789,"Alaska Air Group, Inc.",0.01%
+790,Science Applications International Corp.,0.01%
+791,"New York Community Bancorp, Inc.",0.01%
+792,"American Campus Communities, Inc.",0.01%
+793,Equitrans Midstream Corp.,0.01%
+794,"Exponent, Inc.",0.01%
+795,"Arrowhead Pharmaceuticals, Inc.",0.01%
+796,"Overstock.com, Inc.",0.01%
+797,"MSA Safety, Inc.",0.01%
+798,"Qurate Retail, Inc. Class A",0.01%
+799,HEICO Corporation,0.01%
+800,Silicon Laboratories Inc.,0.01%
+801,"Cullen/Frost Bankers, Inc.",0.01%
+802,Regal Beloit Corp,0.01%
+803,Marathon Oil Corporation,0.01%
+804,"Kinsale Capital Group, Inc.",0.01%
+805,Erie Indemnity Company Class A,0.01%
+806,"FTI Consulting, Inc.",0.01%
+807,"Acuity Brands, Inc.",0.01%
+808,Devon Energy Corporation,0.01%
+809,Invitae Corp.,0.01%
+810,"LivePerson, Inc.",0.01%
+811,"Starwood Property Trust, Inc.",0.01%
+812,Eaton Vance Corp.,0.01%
+813,"Varonis Systems, Inc.",0.01%
+814,Wright Medical Group NV,0.01%
+815,Norwegian Cruise Line Holdings Ltd.,0.01%
+816,Rayonier Inc.,0.01%
+817,TCF Financial Corporation,0.01%
+818,"Tapestry, Inc.",0.01%
+819,"Harley-Davidson, Inc.",0.01%
+820,Targa Resources Corp.,0.01%
+821,"Anaplan, Inc.",0.01%
+822,Fox Corporation Class B,0.01%
+823,Neogen Corporation,0.01%
+824,Blueprint Medicines Corp.,0.01%
+825,"Mercury Systems, Inc.",0.01%
+826,"EMCOR Group, Inc.",0.01%
+827,Wendy's Company,0.01%
+828,RLI Corp.,0.01%
+829,Fox Factory Holding Corp.,0.01%
+830,"Nexstar Media Group, Inc. Class A",0.01%
+831,"Tradeweb Markets, Inc. Class A",0.01%
+832,EQT Corporation,0.01%
+833,"Interactive Brokers Group, Inc. Class A",0.01%
+834,Axis Capital Holdings Limited,0.01%
+835,"Pure Storage, Inc. Class A",0.01%
+836,Graphic Packaging Holding Company,0.01%
+837,South State Corporation,0.01%
+838,Iovance Biotherapeutics Inc,0.01%
+839,Valvoline Inc.,0.01%
+840,National Instruments Corporation,0.01%
+841,Invesco Ltd.,0.01%
+842,"QTS Realty Trust, Inc. Class A",0.01%
+843,Healthcare Realty Trust Incorporated,0.01%
+844,Physicians Realty Trust,0.01%
+845,HealthEquity Inc,0.01%
+846,"UFP Industries, Inc.",0.01%
+847,Flowserve Corporation,0.01%
+848,"Highwoods Properties, Inc.",0.01%
+849,"Amicus Therapeutics, Inc.",0.01%
+850,Terreno Realty Corporation,0.01%
+851,"ONE Gas, Inc.",0.01%
+852,"Texas Roadhouse, Inc.",0.01%
+853,"Allison Transmission Holdings, Inc.",0.01%
+854,"Skechers U.S.A., Inc. Class A",0.01%
+855,SL Green Realty Corp.,0.01%
+856,"Pinterest, Inc. Class A",0.01%
+857,National Fuel Gas Company,0.01%
+858,"Armstrong World Industries, Inc.",0.01%
+859,Global Blood Therapeutics Inc,0.01%
+860,"Mattel, Inc.",0.01%
+861,"Aaron's, Inc.",0.01%
+862,Globus Medical Inc Class A,0.01%
+863,Unum Group,0.01%
+864,Semtech Corporation,0.01%
+865,"Murphy USA, Inc.",0.01%
+866,"bluebird bio, Inc.",0.01%
+867,ASGN Inc,0.01%
+868,"Arena Pharmaceuticals, Inc.",0.01%
+869,II-VI Incorporated,0.01%
+870,KB Home,0.01%
+871,"Qualys, Inc.",0.01%
+872,"Simpson Manufacturing Co., Inc.",0.01%
+873,Jefferies Financial Group Inc.,0.01%
+874,Novanta Inc,0.01%
+875,"FibroGen, Inc.",0.01%
+876,Lattice Semiconductor Corporation,0.01%
+877,Agree Realty Corporation,0.01%
+878,Meritage Homes Corporation,0.01%
+879,HollyFrontier Corporation,0.01%
+880,PVH Corp.,0.01%
+881,Sunrun Inc.,0.01%
+882,"YETI Holdings, Inc.",0.01%
+883,Eagle Materials Inc.,0.01%
+884,"Syneos Health, Inc. Class A",0.01%
+885,Tempur Sealy International Inc,0.01%
+886,Louisiana-Pacific Corporation,0.01%
+887,"LiveRamp Holdings, Inc.",0.01%
+888,Portland General Electric Company,0.01%
+889,"Cirrus Logic, Inc.",0.01%
+890,"Hawaiian Electric Industries, Inc.",0.01%
+891,"ICU Medical, Inc.",0.01%
+892,Envista Holdings Corp.,0.01%
+893,Essent Group Ltd.,0.01%
+894,"Carter's, Inc.",0.01%
+895,"Brooks Automation, Inc.",0.01%
+896,Xerox Holdings Corporation,0.01%
+897,Brown-Forman Corporation Class A,0.01%
+898,Rexnord Corporation,0.01%
+899,"Hanover Insurance Group, Inc.",0.01%
+900,"Spirit Realty Capital, Inc.",0.01%
+901,"SailPoint Technologies Holdings, Inc.",0.01%
+902,"Southwest Gas Holdings, Inc.",0.01%
+903,Stifel Financial Corp.,0.01%
+904,"FireEye, Inc.",0.01%
+905,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",0.01%
+906,"AutoNation, Inc.",0.01%
+907,Hexcel Corporation,0.01%
+908,Lazard Ltd Class A,0.01%
+909,Equity Commonwealth,0.01%
+910,Black Hills Corporation,0.01%
+911,"Discovery, Inc. Class A",0.01%
+912,"Saia, Inc.",0.01%
+913,"Morningstar, Inc.",0.01%
+914,"PNM Resources, Inc.",0.01%
+915,Balchem Corporation,0.01%
+916,"Medpace Holdings, Inc.",0.01%
+917,"frontdoor, Inc.",0.01%
+918,"BlackLine, Inc.",0.01%
+919,Lancaster Colony Corporation,0.01%
+920,Liberty Global Plc Class A,0.01%
+921,"Brixmor Property Group, Inc.",0.01%
+922,"Hudson Pacific Properties, Inc.",0.01%
+923,"ACI Worldwide, Inc.",0.01%
+924,Western Alliance Bancorp,0.01%
+925,"Selective Insurance Group, Inc.",0.01%
+926,"Parsley Energy, Inc. Class A",0.01%
+927,Elastic NV,0.01%
+928,"Builders FirstSource, Inc.",0.01%
+929,"Proto Labs, Inc.",0.01%
+930,Timken Company,0.01%
+931,Nektar Therapeutics,0.01%
+932,Hecla Mining Company,0.01%
+933,Liberty Broadband Corp. Class A,0.01%
+934,WillScot Mobile Mini Holdings Corp. Class A,0.01%
+935,"Choice Hotels International, Inc.",0.01%
+936,Integra LifeSciences Holdings Corporation,0.01%
+937,Marriott Vacations Worldwide Corporation,0.01%
+938,"Popular, Inc.",0.01%
+939,"Affiliated Managers Group, Inc.",0.01%
+940,"Power Integrations, Inc.",0.01%
+941,RBC Bearings Incorporated,0.01%
+942,Taylor Morrison Home Corporation,0.01%
+943,"Advanced Energy Industries, Inc.",0.01%
+944,Royalty Pharma Plc Class A,0.01%
+945,nVent Electric plc,0.01%
+946,"Halozyme Therapeutics, Inc.",0.01%
+947,"Dick's Sporting Goods, Inc.",0.01%
+948,UniFirst Corporation,0.01%
+949,"KBR, Inc.",0.01%
+950,John Bean Technologies Corporation,0.01%
+951,Chemours Co.,0.01%
+952,"New Relic, Inc.",0.01%
+953,"Clean Harbors, Inc.",0.01%
+954,LCI Industries,0.01%
+955,"J2 Global, Inc.",0.01%
+956,"Pinnacle Financial Partners, Inc.",0.01%
+957,JBG SMITH Properties,0.01%
+958,Valley National Bancorp,0.01%
+959,"Ormat Technologies, Inc.",0.01%
+960,Synovus Financial Corp.,0.01%
+961,TechnipFMC Plc,0.01%
+962,"Nutanix, Inc. Class A",0.01%
+963,"Community Bank System, Inc.",0.01%
+964,"Foot Locker, Inc.",0.01%
+965,Biohaven Pharmaceutical Holding Company Ltd.,0.01%
+966,EnerSys,0.01%
+967,"United Bankshares, Inc.",0.01%
+968,New Residential Investment Corp.,0.01%
+969,"Gap, Inc.",0.01%
+970,Carlyle Group Inc,0.01%
+971,Air Lease Corporation Class A,0.01%
+972,Ralph Lauren Corporation Class A,0.01%
+973,"Chewy, Inc. Class A",0.01%
+974,Janus Henderson Group PLC,0.01%
+975,MGIC Investment Corporation,0.01%
+976,"Advanced Drainage Systems, Inc.",0.01%
+977,"Blackbaud, Inc.",0.01%
+978,"2U, Inc.",0.01%
+979,"Hain Celestial Group, Inc.",0.01%
+980,"Glacier Bancorp, Inc.",0.01%
+981,Energizer Holdings Inc,0.01%
+982,"Houlihan Lokey, Inc. Class A",0.01%
+983,"Cracker Barrel Old Country Store, Inc.",0.01%
+984,"PTC Therapeutics, Inc.",0.01%
+985,Lexington Realty Trust,0.01%
+986,Radian Group Inc.,0.01%
+987,NorthWestern Corporation,0.01%
+988,Spire Inc.,0.01%
+989,"H&R Block, Inc.",0.01%
+990,"Aerojet Rocketdyne Holdings, Inc.",0.01%
+991,PotlatchDeltic Corporation,0.01%
+992,Kohl's Corporation,0.01%
+993,"Blackstone Mortgage Trust, Inc. Class A",0.01%
+994,Crane Co.,0.01%
+995,"Cannae Holdings, Inc.",0.01%
+996,"TriNet Group, Inc.",0.01%
+997,"Cloudera, Inc.",0.01%
+998,Liberty Media Corp. Series A Liberty SiriusXM,0.01%
+999,Tenet Healthcare Corporation,0.01%
+1000,Viavi Solutions Inc,0.01%
+1001,"LGI Homes, Inc.",0.01%
+1002,Denali Therapeutics Inc.,0.01%
+1003,Synaptics Incorporated,0.01%
+1004,"National Vision Holdings, Inc.",0.01%
+1005,"MSC Industrial Direct Co., Inc. Class A",0.01%
+1006,Ovintiv Inc,0.01%
+1007,Commercial Metals Company,0.01%
+1008,H.B. Fuller Company,0.01%
+1009,Verint Systems Inc.,0.01%
+1010,NewMarket Corporation,0.01%
+1011,"Change Healthcare, Inc.",0.01%
+1012,National General Holdings Corp.,0.01%
+1013,Teradata Corporation,0.01%
+1014,"Coherent, Inc.",0.01%
+1015,AMERCO,0.01%
+1016,"Sabra Health Care REIT, Inc.",0.01%
+1017,Colfax Corporation,0.01%
+1018,"Perspecta, Inc.",0.01%
+1019,"Omnicell, Inc.",0.01%
+1020,"Nu Skin Enterprises, Inc. Class A",0.01%
+1021,"MasTec, Inc.",0.01%
+1022,"Avangrid, Inc.",0.01%
+1023,Wintrust Financial Corporation,0.01%
+1024,"First Citizens BancShares, Inc. Class A",0.01%
+1025,"Zillow Group, Inc. Class A",0.01%
+1026,"Avnet, Inc.",0.01%
+1027,New Jersey Resources Corporation,0.01%
+1028,"Casella Waste Systems, Inc. Class A",0.01%
+1029,Enstar Group Limited,0.01%
+1030,"SPS Commerce, Inc.",0.01%
+1031,"Ensign Group, Inc.",0.01%
+1032,"Pacira Biosciences, Inc.",0.01%
+1033,Alcoa Corp.,0.01%
+1034,American States Water Company,0.01%
+1035,Madison Square Garden Sports Corp. Class A,0.01%
+1036,"Sprouts Farmers Markets, Inc.",0.01%
+1037,Ares Management Corporation,0.01%
+1038,Silgan Holdings Inc.,0.01%
+1039,"ALLETE, Inc.",0.01%
+1040,"National Health Investors, Inc.",0.01%
+1041,"Box, Inc. Class A",0.01%
+1042,Cogent Communications Holdings Inc,0.01%
+1043,"Crocs, Inc.",0.01%
+1044,"Werner Enterprises, Inc.",0.01%
+1045,"Gibraltar Industries, Inc.",0.01%
+1046,"NuVasive, Inc.",0.01%
+1047,"Reata Pharmaceuticals, Inc. Class A",0.01%
+1048,"Alarm.com Holdings, Inc.",0.01%
+1049,"PS Business Parks, Inc.",0.01%
+1050,F.N.B. Corporation,0.01%
+1051,"Spectrum Brands Holdings, Inc.",0.01%
+1052,Iridium Communications Inc.,0.01%
+1053,U.S. Dollar,0.01%
+1054,Evercore Inc Class A,0.01%
+1055,Cimarex Energy Co.,0.01%
+1056,"Valmont Industries, Inc.",0.01%
+1057,Corporate Office Properties Trust,0.01%
+1058,"Insperity, Inc.",0.01%
+1059,"Editas Medicine, Inc.",0.01%
+1060,Rapid7 Inc.,0.01%
+1061,Bank OZK,0.01%
+1062,Insmed Incorporated,0.01%
+1063,JetBlue Airways Corporation,0.01%
+1064,NCR Corporation,0.01%
+1065,"Acacia Communications, Inc.",0.01%
+1066,"TEGNA, Inc.",0.01%
+1067,Alkermes Plc,0.01%
+1068,"FirstCash, Inc.",0.01%
+1069,Rocket Companies Inc Class A,0.01%
+1070,Kirby Corporation,0.01%
+1071,Grocery Outlet Holding Corp.,0.01%
+1072,"CNO Financial Group, Inc.",0.01%
+1073,"Acadia Healthcare Company, Inc.",0.01%
+1074,"SAGE Therapeutics, Inc.",0.01%
+1075,TRI Pointe Group Inc,0.01%
+1076,"Itron, Inc.",0.01%
+1077,"Brighthouse Financial, Inc.",0.01%
+1078,"Chart Industries, Inc.",0.01%
+1079,WD-40 Company,0.01%
+1080,ABM Industries Incorporated,0.01%
+1081,"Merit Medical Systems, Inc.",0.01%
+1082,Bandwidth Inc. Class A,0.01%
+1083,Avista Corporation,0.01%
+1084,Ingevity Corporation,0.01%
+1085,"Fate Therapeutics, Inc.",0.01%
+1086,"Watts Water Technologies, Inc. Class A",0.01%
+1087,White Mountains Insurance Group Ltd,0.01%
+1088,"Wyndham Destinations, Inc.",0.01%
+1089,"Univar Solutions, Inc.",0.01%
+1090,"WPX Energy, Inc.",0.01%
+1091,SLM Corp,0.01%
+1092,Masonite International Corp.,0.01%
+1093,"Clearway Energy, Inc. Class C",0.01%
+1094,Fabrinet,0.01%
+1095,Green Dot Corporation Class A,0.01%
+1096,"Home BancShares, Inc.",0.01%
+1097,Cimpress Plc,0.01%
+1098,Cleveland-Cliffs Inc,0.01%
+1099,Integer Holdings Corporation,0.01%
+1100,National Storage Affiliates Trust,0.01%
+1101,Webster Financial Corporation,0.01%
+1102,"Strategic Education, Inc.",0.01%
+1103,AppFolio Inc Class A,0.01%
+1104,"Extended Stay America, Inc.",0.01%
+1105,Bank of Hawaii Corporation,0.01%
+1106,W R Grace & Co,0.01%
+1107,"Telephone and Data Systems, Inc.",0.01%
+1108,HMS Holdings Corp.,0.01%
+1109,Datadog Inc Class A,0.01%
+1110,Sensient Technologies Corporation,0.01%
+1111,Diodes Incorporated,0.01%
+1112,Avient Corporation,0.01%
+1113,Vonage Holdings Corp.,0.01%
+1114,Howard Hughes Corporation,0.01%
+1115,"MGE Energy, Inc.",0.01%
+1116,"Advanced Disposal Services, Inc.",0.01%
+1117,Cabot Corporation,0.01%
+1118,"TG Therapeutics, Inc.",0.01%
+1119,California Water Service Group,0.01%
+1120,Umpqua Holdings Corporation,0.01%
+1121,EPR Properties,0.01%
+1122,PacWest Bancorp,0.01%
+1123,"ViaSat, Inc.",0.01%
+1124,"WESCO International, Inc.",0.01%
+1125,Quaker Chemical Corporation,0.01%
+1126,Weingarten Realty Investors,0.01%
+1127,Sterling Bancorp,0.01%
+1128,Shenandoah Telecommunications Company,0.01%
+1129,Brink's Company,0.01%
+1130,Warner Music Group Corp. Class A,0.01%
+1131,ESCO Technologies Inc.,0.01%
+1132,CVB Financial Corp.,0.01%
+1133,LivaNova Plc,0.01%
+1134,"CarGurus, Inc. Class A",0.01%
+1135,Altra Industrial Motion Corp.,0.01%
+1136,"Patterson Companies, Inc.",0.01%
+1137,"Taubman Centers, Inc.",0.01%
+1138,"CrowdStrike Holdings, Inc. Class A",0.01%
+1139,"M.D.C. Holdings, Inc.",0.01%
+1140,GATX Corporation,0.01%
+1141,"AMN Healthcare Services, Inc.",0.01%
+1142,"TreeHouse Foods, Inc.",0.01%
+1143,UMB Financial Corporation,0.01%
+1144,"TripAdvisor, Inc.",0.01%
+1145,"KAR Auction Services, Inc.",0.01%
+1146,"Inovio Pharmaceuticals, Inc.",0.01%
+1147,Ubiquiti Inc.,0.01%
+1148,"Hillenbrand, Inc.",0.01%
+1149,Goodyear Tire & Rubber Company,0.01%
+1150,Kennametal Inc.,0.01%
+1151,"OneMain Holdings, Inc.",0.01%
+1152,"Agios Pharmaceuticals, Inc.",0.01%
+1153,"ExlService Holdings, Inc.",0.01%
+1154,Antero Midstream Corp.,0.01%
+1155,"Virtu Financial, Inc. Class A",0.01%
+1156,Capri Holdings Limited,0.01%
+1157,CNX Resources Corporation,0.01%
+1158,"LendingTree, Inc.",0.01%
+1159,"Federated Hermes, Inc. Class B",0.01%
+1160,"Winnebago Industries, Inc.",0.01%
+1161,Columbia Sportswear Company,0.01%
+1162,"Beacon Roofing Supply, Inc.",0.01%
+1163,"AAON, Inc.",0.01%
+1164,Old National Bancorp,0.01%
+1165,"CommVault Systems, Inc.",0.01%
+1166,SPX Corporation,0.01%
+1167,"Dorman Products, Inc.",0.01%
+1168,BancorpSouth Bank,0.01%
+1169,"Piedmont Office Realty Trust, Inc. Class A",0.01%
+1170,Washington Real Estate Investment Trust,0.01%
+1171,Apple Hospitality REIT Inc,0.01%
+1172,"InterDigital, Inc.",0.01%
+1173,"EVERTEC, Inc.",0.01%
+1174,Macquarie Infrastructure Corporation,0.01%
+1175,Sanmina-SCI Corporation,0.01%
+1176,"Allogene Therapeutics, Inc.",0.01%
+1177,"Allakos, Inc.",0.01%
+1178,Arconic Corp.,0.01%
+1179,"Brinker International, Inc.",0.01%
+1180,"Element Solutions, Inc.",0.01%
+1181,"Trinity Industries, Inc.",0.01%
+1182,Murphy Oil Corporation,0.01%
+1183,"Installed Building Products, Inc.",0.01%
+1184,CONMED Corporation,0.01%
+1185,"Workiva, Inc. Class A",0.01%
+1186,"Chemocentryx, Inc.",0.01%
+1187,J & J Snack Foods Corp.,0.01%
+1188,Premier Inc. Class A,0.01%
+1189,"Sanderson Farms, Inc.",0.01%
+1190,"First Hawaiian, Inc.",0.01%
+1191,Associated Banc-Corp,0.01%
+1192,"Applied Industrial Technologies, Inc.",0.01%
+1193,"Franklin Electric Co., Inc.",0.01%
+1194,Arcosa Inc,0.01%
+1195,"Yext, Inc.",0.01%
+1196,"MACOM Technology Solutions Holdings, Inc.",0.01%
+1197,Jack in the Box Inc.,0.01%
+1198,"SVMK, Inc.",0.01%
+1199,OUTFRONT Media Inc.,0.01%
+1200,"Park Hotels & Resorts, Inc.",0.01%
+1201,Appian Corporation Class A,0.01%
+1202,Rogers Corporation,0.01%
+1203,"Axsome Therapeutics, Inc.",0.01%
+1204,Triton International Ltd. Class A,0.01%
+1205,"Covetrus, Inc.",0.01%
+1206,"Bill.com Holdings, Inc.",0.01%
+1207,"PennyMac Financial Services, Inc.",0.01%
+1208,"Pacific Premier Bancorp, Inc.",0.01%
+1209,Westlake Chemical Corporation,0.01%
+1210,Ligand Pharmaceuticals Incorporated,0.01%
+1211,"Ryder System, Inc.",0.01%
+1212,"Spirit AeroSystems Holdings, Inc. Class A",0.01%
+1213,Simply Good Foods Co,0.01%
+1214,"South Jersey Industries, Inc.",0.01%
+1215,"Insight Enterprises, Inc.",0.01%
+1216,Brady Corporation Class A,0.01%
+1217,Stepan Company,0.01%
+1218,iRobot Corporation,0.01%
+1219,Boyd Gaming Corporation,0.01%
+1220,Innovative Industrial Properties Inc,0.01%
+1221,Moog Inc. Class A,0.01%
+1222,"Sorrento Therapeutics, Inc.",0.01%
+1223,"Inspire Medical Systems, Inc.",0.01%
+1224,PRA Group Inc,0.01%
+1225,Dana Incorporated,0.01%
+1226,Cerence Inc,0.01%
+1227,"Compass Minerals International, Inc.",0.01%
+1228,"PPD, Inc.",0.01%
+1229,"Vishay Intertechnology, Inc.",0.01%
+1230,Navistar International Corporation,0.01%
+1231,"CommScope Holding Co., Inc.",0.01%
+1232,Federal Signal Corporation,0.01%
+1233,Prestige Consumer Healthcare Inc,0.01%
+1234,Macy's Inc,0.01%
+1235,"Bottomline Technologies (de), Inc.",0.01%
+1236,"BMC Stock Holdings, Inc.",0.01%
+1237,"Wolverine World Wide, Inc.",0.01%
+1238,"FormFactor, Inc.",0.01%
+1239,"Big Lots, Inc.",0.01%
+1240,"World Wrestling Entertainment, Inc. Class A",0.01%
+1241,"Xencor, Inc.",0.01%
+1242,"Cytokinetics, Incorporated",0.01%
+1243,Select Medical Holdings Corporation,0.01%
+1244,"Papa John's International, Inc.",0.01%
+1245,Innospec Inc.,0.01%
+1246,Plexus Corp.,0.01%
+1247,"SPX Flow, Inc.",0.01%
+1248,Independent Bank Corp.,0.01%
+1249,Visteon Corporation,0.01%
+1250,"American Eagle Outfitters, Inc.",0.01%
+1251,"Artisan Partners Asset Management, Inc. Class A",0.01%
+1252,"Magellan Health, Inc.",0.01%
+1253,ManTech International Corporation Class A,0.01%
+1254,Moelis & Co. Class A,0.01%
+1255,Sabre Corp.,0.01%
+1256,World Fuel Services Corporation,0.01%
+1257,"CryoPort, Inc.",0.01%
+1258,"Hostess Brands, Inc. Class A",0.01%
+1259,"Cornerstone Ondemand, Inc.",0.01%
+1260,"Livongo Health, Inc.",0.01%
+1261,"Pluralsight, Inc. Class A",0.01%
+1262,"Kennedy-Wilson Holdings, Inc.",0.01%
+1263,Atlantic Union Bankshares Corporation,0.01%
+1264,"AtriCure, Inc.",0.01%
+1265,K12 Inc.,0.01%
+1266,"Shake Shack, Inc. Class A",0.01%
+1267,"Washington Federal, Inc.",0.01%
+1268,"Hub Group, Inc. Class A",0.01%
+1269,"OPKO Health, Inc.",0.01%
+1270,"Medifast, Inc.",0.01%
+1271,Uniti Group Inc,0.01%
+1272,"Asbury Automotive Group, Inc.",0.01%
+1273,"Ryman Hospitality Properties, Inc.",0.01%
+1274,Hamilton Lane Incorporated Class A,0.01%
+1275,McGrath RentCorp,0.01%
+1276,CIT Group Inc.,0.01%
+1277,Veracyte Inc,0.01%
+1278,Alliance Data Systems Corporation,0.01%
+1279,"Worthington Industries, Inc.",0.01%
+1280,"Palomar Holdings, Inc.",0.01%
+1281,"Hilton Grand Vacations, Inc.",0.01%
+1282,Hancock Whitney Corporation,0.01%
+1283,Cooper Tire & Rubber Company,0.01%
+1284,"Comfort Systems USA, Inc.",0.01%
+1285,Brandywine Realty Trust,0.01%
+1286,"B&G Foods, Inc.",0.01%
+1287,Twist Bioscience Corp.,0.01%
+1288,"Summit Materials, Inc. Class A",0.01%
+1289,"Under Armour, Inc. Class A",0.01%
+1290,"Santander Consumer USA Holdings, Inc.",0.01%
+1291,"Helmerich & Payne, Inc.",0.01%
+1292,Otter Tail Corporation,0.01%
+1293,CareTrust REIT Inc,0.01%
+1294,O-I Glass Inc,0.01%
+1295,Minerals Technologies Inc.,0.01%
+1296,Adtalem Global Education Inc.,0.01%
+1297,Cantel Medical Corp.,0.01%
+1298,American Equity Investment Life Holding Company,0.01%
+1299,"Maxar Technologies, Inc.",0.01%
+1300,"Cavco Industries, Inc.",0.01%
+1301,MaxLinear inc,0.01%
+1302,Virgin Galactic Holdings Inc,0.01%
+1303,Domtar Corporation,0.01%
+1304,Cathay General Bancorp,0.01%
+1305,Simmons First National Corporation Class A,0.01%
+1306,"Coeur Mining, Inc.",0.01%
+1307,"Penske Automotive Group, Inc.",0.01%
+1308,Assured Guaranty Ltd.,0.01%
+1309,Hyatt Hotels Corporation Class A,0.01%
+1310,Verra Mobility Corp. Class A,0.01%
+1311,"Peloton Interactive, Inc. Class A",0.01%
+1312,"Badger Meter, Inc.",0.01%
+1313,"BankUnited, Inc.",0.01%
+1314,"Encore Capital Group, Inc.",0.01%
+1315,"eHealth, Inc.",0.01%
+1316,"Mueller Water Products, Inc. Class A",0.01%
+1317,"Slack Technologies, Inc. Class A",0.01%
+1318,SJW Group,0.01%
+1319,Barnes Group Inc.,0.01%
+1320,Boise Cascade Co.,0.01%
+1321,"Columbia Banking System, Inc.",0.01%
+1322,"Group 1 Automotive, Inc.",0.01%
+1323,Albany International Corp. Class A,0.01%
+1324,Glaukos Corp,0.00%
+1325,Northwest Natural Holding Co.,0.00%
+1326,International Bancshares Corporation,0.00%
+1327,Monmouth Real Estate Investment Corporation Class A,0.00%
+1328,"CSG Systems International, Inc.",0.00%
+1329,"Under Armour, Inc. Class C",0.00%
+1330,"Easterly Government Properties, Inc.",0.00%
+1331,"Akebia Therapeutics, Inc.",0.00%
+1332,"Inovalon Holdings, Inc. Class A",0.00%
+1333,"Kulicke & Soffa Industries, Inc.",0.00%
+1334,"Independent Bank Group, Inc.",0.00%
+1335,News Corporation Class B,0.00%
+1336,Callaway Golf Company,0.00%
+1337,Progress Software Corporation,0.00%
+1338,"Resideo Technologies, Inc.",0.00%
+1339,Reynolds Consumer Products Inc,0.00%
+1340,"Cardlytics, Inc.",0.00%
+1341,"MEDNAX, Inc.",0.00%
+1342,"Sunstone Hotel Investors, Inc.",0.00%
+1343,Rent-A-Center Inc,0.00%
+1344,Chimera Investment Corporation,0.00%
+1345,Korn Ferry,0.00%
+1346,Range Resources Corporation,0.00%
+1347,"Allscripts Healthcare Solutions, Inc.",0.00%
+1348,BOK Financial Corporation,0.00%
+1349,"Kratos Defense & Security Solutions, Inc.",0.00%
+1350,Graham Holdings Co.,0.00%
+1351,Central Garden & Pet Company Class A,0.00%
+1352,"Fastly, Inc. Class A",0.00%
+1353,"SkyWest, Inc",0.00%
+1354,Evoqua Water Technologies Corp,0.00%
+1355,"NetScout Systems, Inc.",0.00%
+1356,APi Group Corporation,0.00%
+1357,"Steven Madden, Ltd.",0.00%
+1358,"Astec Industries, Inc.",0.00%
+1359,Monro Inc,0.00%
+1360,Yelp Inc,0.00%
+1361,"Nelnet, Inc. Class A",0.00%
+1362,WSFS Financial Corporation,0.00%
+1363,Avaya Holdings Corp.,0.00%
+1364,"Tenable Holdings, Inc.",0.00%
+1365,"Principia Biopharma, Inc.",0.00%
+1366,"Ironwood Pharmaceuticals, Inc. Class A",0.00%
+1367,"Mueller Industries, Inc.",0.00%
+1368,American Woodmark Corporation,0.00%
+1369,"Healthcare Services Group, Inc.",0.00%
+1370,Forward Air Corporation,0.00%
+1371,"Sally Beauty Holdings, Inc.",0.00%
+1372,"Patrick Industries, Inc.",0.00%
+1373,"JELD-WEN Holding, Inc.",0.00%
+1374,Pebblebrook Hotel Trust,0.00%
+1375,ServisFirst Bancshares Inc,0.00%
+1376,Olin Corporation,0.00%
+1377,Atkore International Group Inc.,0.00%
+1378,"Renewable Energy Group, Inc.",0.00%
+1379,Fulton Financial Corporation,0.00%
+1380,"Onto Innovation, Inc.",0.00%
+1381,"Apellis Pharmaceuticals, Inc.",0.00%
+1382,"Perficient, Inc.",0.00%
+1383,"Avanos Medical, Inc.",0.00%
+1384,Southwestern Energy Company,0.00%
+1385,"AeroVironment, Inc.",0.00%
+1386,"GCP Applied Technologies, Inc.",0.00%
+1387,Trustmark Corporation,0.00%
+1388,Skyline Champion Corp.,0.00%
+1389,Edgewell Personal Care Co.,0.00%
+1390,Altair Engineering Inc. Class A,0.00%
+1391,"PDC Energy, Inc.",0.00%
+1392,PennyMac Mortgage Investment Trust,0.00%
+1393,"Four Corners Property Trust, Inc.",0.00%
+1394,Delphi Technologies Plc,0.00%
+1395,"Nordstrom, Inc.",0.00%
+1396,Bed Bath & Beyond Inc.,0.00%
+1397,"Urban Outfitters, Inc.",0.00%
+1398,"Atlas Air Worldwide Holdings, Inc.",0.00%
+1399,"Trupanion, Inc.",0.00%
+1400,Sleep Number Corporation,0.00%
+1401,Addus HomeCare Corporation,0.00%
+1402,Luminex Corp,0.00%
+1403,Rambus Inc.,0.00%
+1404,Cerus Corporation,0.00%
+1405,"8x8, Inc.",0.00%
+1406,"Zogenix, Inc.",0.00%
+1407,"Spirit Airlines, Inc.",0.00%
+1408,"Capitol Federal Financial, Inc.",0.00%
+1409,Adient plc,0.00%
+1410,RLJ Lodging Trust,0.00%
+1411,"MFA Financial, Inc.",0.00%
+1412,"Century Communities, Inc.",0.00%
+1413,"Columbia Property Trust, Inc.",0.00%
+1414,LaZBoy Incorporated,0.00%
+1415,"Digital Turbine, Inc.",0.00%
+1416,Belden Inc.,0.00%
+1417,Acushnet Holdings Corp.,0.00%
+1418,Cloudflare Inc Class A,0.00%
+1419,"Ambarella, Inc.",0.00%
+1420,"Cal-Maine Foods, Inc.",0.00%
+1421,"TPI Composites, Inc.",0.00%
+1422,"Core-Mark Holding Company, Inc.",0.00%
+1423,ChampionX Corporation,0.00%
+1424,"Matson, Inc.",0.00%
+1425,"Texas Capital Bancshares, Inc.",0.00%
+1426,GEO Group Inc,0.00%
+1427,"Retail Properties of America, Inc. Class A",0.00%
+1428,Vista Outdoor Inc,0.00%
+1429,"Coca-Cola Consolidated, Inc.",0.00%
+1430,Hilltop Holdings Inc.,0.00%
+1431,"John Wiley & Sons, Inc. Class A",0.00%
+1432,Chesapeake Utilities Corporation,0.00%
+1433,"Meritor, Inc.",0.00%
+1434,"Air Transport Services Group, Inc.",0.00%
+1435,Two Harbors Investment Corp.,0.00%
+1436,ePlus inc.,0.00%
+1437,"Avis Budget Group, Inc.",0.00%
+1438,"BioTelemetry, Inc.",0.00%
+1439,"Walker & Dunlop, Inc.",0.00%
+1440,Six Flags Entertainment Corporation,0.00%
+1441,"Turning Point Therapeutics, Inc.",0.00%
+1442,Global Net Lease Inc,0.00%
+1443,"PROS Holdings, Inc.",0.00%
+1444,HNI Corporation,0.00%
+1445,"Celsius Holdings, Inc.",0.00%
+1446,"Colony Capital, Inc. Class A",0.00%
+1447,"Kura Oncology, Inc.",0.00%
+1448,James River Group Holdings Ltd,0.00%
+1449,"PGT Innovations, Inc.",0.00%
+1450,"Laureate Education, Inc. Class A",0.00%
+1451,"Sandy Spring Bancorp, Inc.",0.00%
+1452,Corcept Therapeutics Incorporated.,0.00%
+1453,Vicor Corporation,0.00%
+1454,"Paramount Group, Inc.",0.00%
+1455,Xperi Holding Corporation,0.00%
+1456,"Continental Resources, Inc.",0.00%
+1457,Retail Opportunity Investments Corp.,0.00%
+1458,United States Steel Corporation,0.00%
+1459,Westamerica Bancorporation,0.00%
+1460,"Fitbit, Inc. Class A",0.00%
+1461,Investors Bancorp Inc,0.00%
+1462,Getty Realty Corp.,0.00%
+1463,"Rush Enterprises, Inc. Class A",0.00%
+1464,Allegiant Travel Company,0.00%
+1465,"Dycom Industries, Inc.",0.00%
+1466,Seres Therapeutics Inc,0.00%
+1467,Ameris Bancorp,0.00%
+1468,"OSI Systems, Inc.",0.00%
+1469,Tennant Company,0.00%
+1470,Renasant Corporation,0.00%
+1471,"Sinclair Broadcast Group, Inc. Class A",0.00%
+1472,"Tabula Rasa Healthcare, Inc.",0.00%
+1473,"Camping World Holdings, Inc. Class A",0.00%
+1474,"Cinemark Holdings, Inc.",0.00%
+1475,R1 RCM Inc,0.00%
+1476,"Argo Group International Holdings, Ltd.",0.00%
+1477,"Mr. Cooper Group, Inc.",0.00%
+1478,Fluor Corporation,0.00%
+1479,NIC Inc.,0.00%
+1480,Mercury General Corporation,0.00%
+1481,"Amkor Technology, Inc.",0.00%
+1482,"LTC Properties, Inc.",0.00%
+1483,"Switch, Inc. Class A",0.00%
+1484,SolarWinds Corp.,0.00%
+1485,"Herman Miller, Inc.",0.00%
+1486,MicroStrategy Incorporated Class A,0.00%
+1487,Deluxe Corporation,0.00%
+1488,"New York Mortgage Trust, Inc.",0.00%
+1489,"Mesa Laboratories, Inc.",0.00%
+1490,First Merchants Corporation,0.00%
+1491,"Schrodinger, Inc.",0.00%
+1492,"WesBanco, Inc.",0.00%
+1493,STAAR Surgical Company,0.00%
+1494,EchoStar Corporation Class A,0.00%
+1495,"Flagstar Bancorp, Inc.",0.00%
+1496,Gentherm Incorporated,0.00%
+1497,"Essential Properties Realty Trust, Inc.",0.00%
+1498,Piper Sandler Companies,0.00%
+1499,Cubic Corporation,0.00%
+1500,Adaptive Biotechnologies Corp.,0.00%
+1501,"Waddell & Reed Financial, Inc. Class A",0.00%
+1502,"Genworth Financial, Inc. Class A",0.00%
+1503,"Apollo Commercial Real Estate Finance, Inc.",0.00%
+1504,"Beyond Meat, Inc.",0.00%
+1505,"PriceSmart, Inc.",0.00%
+1506,10x Genomics Inc Class A,0.00%
+1507,Liberty Media Corporation Series A Liberty Formula One,0.00%
+1508,Realogy Holdings Corp.,0.00%
+1509,"CareDx, Inc.",0.00%
+1510,"NMI Holdings, Inc. Class A",0.00%
+1511,"First Midwest Bancorp, Inc.",0.00%
+1512,Service Properties Trust,0.00%
+1513,"Axos Financial, Inc.",0.00%
+1514,Infinera Corporation,0.00%
+1515,"CoreCivic, Inc.",0.00%
+1516,Terex Corporation,0.00%
+1517,"Sangamo Therapeutics, Inc.",0.00%
+1518,Vector Group Ltd.,0.00%
+1519,"CSW Industrials, Inc.",0.00%
+1520,"Gray Television, Inc.",0.00%
+1521,"NanoString Technologies, Inc.",0.00%
+1522,Delek US Holdings Inc,0.00%
+1523,Lakeland Financial Corporation,0.00%
+1524,Broadmark Realty Capital Inc,0.00%
+1525,"Schneider National, Inc. Class B",0.00%
+1526,"Axonics Modulation Technologies, Inc.",0.00%
+1527,"EVO Payments, Inc. Class A",0.00%
+1528,"Kodiak Sciences, Inc.",0.00%
+1529,"ICF International, Inc.",0.00%
+1530,Kaman Corporation Class A,0.00%
+1531,"ADT, Inc.",0.00%
+1532,Navient Corp,0.00%
+1533,"Calavo Growers, Inc.",0.00%
+1534,Knowles Corp.,0.00%
+1535,"Independence Realty Trust, Inc.",0.00%
+1536,"M/I Homes, Inc.",0.00%
+1537,"Sykes Enterprises, Incorporated",0.00%
+1538,"WW International, Inc.",0.00%
+1539,Kaiser Aluminum Corporation,0.00%
+1540,Urban Edge Properties,0.00%
+1541,Heron Therapeutics Inc,0.00%
+1542,Adverum Biotechnologies Inc,0.00%
+1543,"Cohen & Steers, Inc.",0.00%
+1544,"Smith & Wesson Brands, Inc.",0.00%
+1545,"US Ecology, Inc.",0.00%
+1546,"Super Micro Computer, Inc.",0.00%
+1547,"Intercept Pharmaceuticals, Inc.",0.00%
+1548,"Sonic Automotive, Inc. Class A",0.00%
+1549,First Financial Bancorp.,0.00%
+1550,"NETGEAR, Inc.",0.00%
+1551,"Herc Holdings, Inc.",0.00%
+1552,Harsco Corporation,0.00%
+1553,Cheesecake Factory Incorporated,0.00%
+1554,Covanta Holding Corporation,0.00%
+1555,"Supernus Pharmaceuticals, Inc.",0.00%
+1556,GMS Inc.,0.00%
+1557,"Deciphera Pharmaceuticals, Inc.",0.00%
+1558,Middlesex Water Company,0.00%
+1559,Coty Inc. Class A,0.00%
+1560,"Arcus Biosciences, Inc.",0.00%
+1561,"Dril-Quip, Inc.",0.00%
+1562,Enterprise Financial Services Corp,0.00%
+1563,Cadence Bancorporation Class A,0.00%
+1564,"Northwest Bancshares, Inc.",0.00%
+1565,"Virtus Investment Partners, Inc.",0.00%
+1566,Materion Corporation,0.00%
+1567,"CBIZ, Inc.",0.00%
+1568,Repay Holdings Corp. Class A,0.00%
+1569,Mack-Cali Realty Corporation,0.00%
+1570,Scientific Games Corporation,0.00%
+1571,Universal Corp,0.00%
+1572,"Intellia Therapeutics, Inc.",0.00%
+1573,"Empire State Realty Trust, Inc. Class A",0.00%
+1574,Evolent Health Inc Class A,0.00%
+1575,"MacroGenics, Inc.",0.00%
+1576,TriMas Corporation,0.00%
+1577,TowneBank,0.00%
+1578,"Domo, Inc. Class B",0.00%
+1579,Madison Square Garden Entertainment Corp Class A,0.00%
+1580,"Helios Technologies, Inc.",0.00%
+1581,Inseego Corp.,0.00%
+1582,Industrial Logistics Properties Trust,0.00%
+1583,Third Point Reinsurance Ltd.,0.00%
+1584,"TTM Technologies, Inc.",0.00%
+1585,Enerpac Tool Group Corp Class A,0.00%
+1586,"Revance Therapeutics, Inc.",0.00%
+1587,DiamondRock Hospitality Company,0.00%
+1588,"EnPro Industries, Inc.",0.00%
+1589,"Red Rock Resorts, Inc. Class A",0.00%
+1590,Kadant Inc.,0.00%
+1591,"Intra-Cellular Therapies, Inc.",0.00%
+1592,"Standard Motor Products, Inc.",0.00%
+1593,Trinseo SA,0.00%
+1594,ODP Corporation,0.00%
+1595,"VBI Vaccines, Inc.",0.00%
+1596,Kite Realty Group Trust,0.00%
+1597,National Beverage Corp.,0.00%
+1598,AMC Networks Inc. Class A,0.00%
+1599,"Bloomin' Brands, Inc.",0.00%
+1600,"Dicerna Pharmaceuticals, Inc.",0.00%
+1601,"Sturm, Ruger & Company, Inc.",0.00%
+1602,"Myriad Genetics, Inc.",0.00%
+1603,"First Interstate BancSystem, Inc. Class A",0.00%
+1604,"Safety Insurance Group, Inc.",0.00%
+1605,"CryoLife, Inc.",0.00%
+1606,"American Assets Trust, Inc.",0.00%
+1607,SITE Centers Corp.,0.00%
+1608,"Veoneer, Inc.",0.00%
+1609,"PJT Partners, Inc. Class A",0.00%
+1610,"Marten Transport, Ltd.",0.00%
+1611,Virtusa Corporation,0.00%
+1612,Carpenter Technology Corporation,0.00%
+1613,"Karyopharm Therapeutics, Inc.",0.00%
+1614,"Innoviva, Inc.",0.00%
+1615,"Methode Electronics, Inc.",0.00%
+1616,SpartanNash Company,0.00%
+1617,Office Properties Income Trust,0.00%
+1618,"Coherus BioSciences, Inc.",0.00%
+1619,"Cactus, Inc. Class A",0.00%
+1620,"FARO Technologies, Inc.",0.00%
+1621,Ping Identity Holding Corp.,0.00%
+1622,Ferro Corporation,0.00%
+1623,Dynavax Technologies Corporation,0.00%
+1624,Greif Class A,0.00%
+1625,"TTEC Holdings, Inc.",0.00%
+1626,First Bancorp,0.00%
+1627,Core Laboratories NV,0.00%
+1628,"Cardiovascular Systems, Inc.",0.00%
+1629,Welbilt Inc,0.00%
+1630,StoneX Group Inc.,0.00%
+1631,Allegheny Technologies Incorporated,0.00%
+1632,"REGENXBIO, Inc.",0.00%
+1633,Malibu Boats Inc Class A,0.00%
+1634,"Tivity Health, Inc.",0.00%
+1635,Griffon Corporation,0.00%
+1636,Lennar Corporation Class B,0.00%
+1637,"Kontoor Brands, Inc.",0.00%
+1638,Amphastar Pharmaceuticals Inc,0.00%
+1639,"Heartland Financial USA, Inc.",0.00%
+1640,Kearny Financial Corp.,0.00%
+1641,"USANA Health Sciences, Inc.",0.00%
+1642,"Goosehead Insurance, Inc. Class A",0.00%
+1643,Encore Wire Corporation,0.00%
+1644,Cardtronics plc Class A,0.00%
+1645,Horace Mann Educators Corporation,0.00%
+1646,"Dine Brands Global, Inc.",0.00%
+1647,Steelcase Inc. Class A,0.00%
+1648,"Greenbrier Companies, Inc.",0.00%
+1649,"Limelight Networks, Inc.",0.00%
+1650,Liberty Latin America Ltd. Class C,0.00%
+1651,Park National Corporation,0.00%
+1652,Providence Service Corporation,0.00%
+1653,"BrightSphere Investment Group, Inc.",0.00%
+1654,"U.S. Physical Therapy, Inc.",0.00%
+1655,Gladstone Commercial Corporation,0.00%
+1656,Acadia Realty Trust,0.00%
+1657,Lindsay Corporation,0.00%
+1658,"Triumph Bancorp, Inc.",0.00%
+1659,TFS Financial Corporation,0.00%
+1660,Glu Mobile Inc.,0.00%
+1661,City Holding Company,0.00%
+1662,Kforce Inc.,0.00%
+1663,Livent Corporation,0.00%
+1664,"Community Healthcare Trust, Inc.",0.00%
+1665,"ACM Research, Inc. Class A",0.00%
+1666,Pilgrim's Pride Corporation,0.00%
+1667,"Boot Barn Holdings, Inc.",0.00%
+1668,"Provident Financial Services, Inc.",0.00%
+1669,NBT Bancorp Inc.,0.00%
+1670,"International Money Express, Inc.",0.00%
+1671,"Xenia Hotels & Resorts, Inc.",0.00%
+1672,Perdoceo Education Corporation,0.00%
+1673,Huron Consulting Group Inc.,0.00%
+1674,Unitil Corporation,0.00%
+1675,"Benchmark Electronics, Inc.",0.00%
+1676,Pennant Group Inc,0.00%
+1677,Diversified Healthcare Trust,0.00%
+1678,Lantheus Holdings Inc,0.00%
+1679,Seacoast Banking Corporation of Florida,0.00%
+1680,Archrock Inc.,0.00%
+1681,"America's Car-Mart, Inc.",0.00%
+1682,AZZ Inc.,0.00%
+1683,St. Joe Company,0.00%
+1684,Alamo Group Inc.,0.00%
+1685,"Epizyme, Inc.",0.00%
+1686,"Shutterstock, Inc.",0.00%
+1687,"Ultra Clean Holdings, Inc.",0.00%
+1688,"Pacific Biosciences of California, Inc.",0.00%
+1689,FB Financial Corporation,0.00%
+1690,"PBF Energy, Inc. Class A",0.00%
+1691,Chase Corporation,0.00%
+1692,Universal Health Realty Income Trust,0.00%
+1693,"nLIGHT, Inc.",0.00%
+1694,"Madrigal Pharmaceuticals, Inc.",0.00%
+1695,Lions Gate Entertainment Corp Class B,0.00%
+1696,"Calix, Inc.",0.00%
+1697,Heska Corporation,0.00%
+1698,"Schweitzer-Mauduit International, Inc.",0.00%
+1699,"Raven Industries, Inc.",0.00%
+1700,"Arbor Realty Trust, Inc.",0.00%
+1701,"Protagonist Therapeutics, Inc.",0.00%
+1702,Tronox Holdings Plc,0.00%
+1703,"Construction Partners, Inc. Class A",0.00%
+1704,"Hope Bancorp, Inc.",0.00%
+1705,"Clearway Energy, Inc. Class A",0.00%
+1706,OceanFirst Financial Corp.,0.00%
+1707,Geron Corporation,0.00%
+1708,"Kadmon Holdings, Inc.",0.00%
+1709,"Model N, Inc.",0.00%
+1710,Immunovant Inc,0.00%
+1711,CNA Financial Corporation,0.00%
+1712,Atrion Corporation,0.00%
+1713,Denny's Corporation,0.00%
+1714,Stewart Information Services Corporation,0.00%
+1715,"Employers Holdings, Inc.",0.00%
+1716,Cara Therapeutics Inc,0.00%
+1717,"Vocera Communications, Inc.",0.00%
+1718,"Focus Financial Partners, Inc. Class A",0.00%
+1719,ArcBest Corporation,0.00%
+1720,"Tootsie Roll Industries, Inc.",0.00%
+1721,Banner Corporation,0.00%
+1722,"PetMed Express, Inc.",0.00%
+1723,"Flexion Therapeutics, Inc.",0.00%
+1724,"Arcturus Therapeutics Holdings, Inc.",0.00%
+1725,"Vapotherm, Inc.",0.00%
+1726,NOW Inc.,0.00%
+1727,Theravance Biopharma Inc,0.00%
+1728,SunPower Corporation,0.00%
+1729,"Patterson-UTI Energy, Inc.",0.00%
+1730,iStar Inc.,0.00%
+1731,"United Natural Foods, Inc.",0.00%
+1732,Antero Resources Corporation,0.00%
+1733,World Acceptance Corporation,0.00%
+1734,OrthoPediatrics Corp.,0.00%
+1735,"Weis Markets, Inc.",0.00%
+1736,Macerich Company,0.00%
+1737,"Ingles Markets, Incorporated Class A",0.00%
+1738,Matador Resources Company,0.00%
+1739,Michaels Companies Inc,0.00%
+1740,"Upwork, Inc.",0.00%
+1741,"Esperion Therapeutics, Inc.",0.00%
+1742,ANGI Homeservices Inc Class A,0.00%
+1743,National Bank Holdings Corporation Class A,0.00%
+1744,"BellRing Brands, Inc. Class A",0.00%
+1745,"OraSure Technologies, Inc.",0.00%
+1746,Matthews International Corporation Class A,0.00%
+1747,"Eagle Bancorp, Inc.",0.00%
+1748,Pitney Bowes Inc.,0.00%
+1749,Wabash National Corporation,0.00%
+1750,"Sonos, Inc.",0.00%
+1751,Vivint Solar Inc,0.00%
+1752,Syndax Pharmaceuticals Inc,0.00%
+1753,"Zuora, Inc. Class A",0.00%
+1754,"Oxford Industries, Inc.",0.00%
+1755,Granite Construction Incorporated,0.00%
+1756,"United Community Banks, Inc.",0.00%
+1757,Neenah Inc,0.00%
+1758,NexPoint Residential Trust Inc,0.00%
+1759,"Stock Yards Bancorp, Inc.",0.00%
+1760,BancFirst Corporation,0.00%
+1761,"National Western Life Group, Inc. Class A",0.00%
+1762,"SeaWorld Entertainment, Inc.",0.00%
+1763,"Karuna Therapeutics, Inc.",0.00%
+1764,"CEVA, Inc.",0.00%
+1765,Sprout Social Inc Class A,0.00%
+1766,"Alexander & Baldwin, Inc.",0.00%
+1767,"Redwood Trust, Inc.",0.00%
+1768,"Accel Entertainment, Inc. Class A",0.00%
+1769,"Clovis Oncology, Inc.",0.00%
+1770,"Inter Parfums, Inc.",0.00%
+1771,Fresh Del Monte Produce Inc.,0.00%
+1772,"American Finance Trust, Inc.",0.00%
+1773,Atara Biotherapeutics Inc,0.00%
+1774,"Southside Bancshares, Inc.",0.00%
+1775,CEL-SCI Corporation,0.00%
+1776,"Mersana Therapeutics, Inc.",0.00%
+1777,"Live Oak Bancshares, Inc.",0.00%
+1778,"Heartland Express, Inc.",0.00%
+1779,First Busey Corporation,0.00%
+1780,"Enanta Pharmaceuticals, Inc.",0.00%
+1781,"Douglas Dynamics, Inc.",0.00%
+1782,"Daseke, Inc.",0.00%
+1783,"Lumber Liquidators Holdings, Inc.",0.00%
+1784,"Vivint Smart Home, Inc. Class A",0.00%
+1785,"American Axle & Manufacturing Holdings, Inc.",0.00%
+1786,CorVel Corporation,0.00%
+1787,Signet Jewelers Limited,0.00%
+1788,"XPEL, Inc.",0.00%
+1789,"National Presto Industries, Inc.",0.00%
+1790,"Shyft Group, Inc.",0.00%
+1791,"Marcus & Millichap, Inc.",0.00%
+1792,"US Xpress Enterprises, Inc. Class A",0.00%
+1793,"GenMark Diagnostics, Inc.",0.00%
+1794,REX American Resources Corporation,0.00%
+1795,"Upland Software, Inc.",0.00%
+1796,"BridgeBio Pharma, Inc.",0.00%
+1797,Investors Real Estate Trust,0.00%
+1798,Ladder Capital Corp. Class A,0.00%
+1799,"Echo Global Logistics, Inc",0.00%
+1800,"Boingo Wireless, Inc.",0.00%
+1801,"TechTarget, Inc.",0.00%
+1802,"Athersys, Inc.",0.00%
+1803,Ellington Financial Inc.,0.00%
+1804,"John B. Sanfilippo & Son, Inc.",0.00%
+1805,Global Medical REIT Inc,0.00%
+1806,"Hibbett Sports, Inc.",0.00%
+1807,Liberty Media Corp. Series C Liberty Braves,0.00%
+1808,Vanda Pharmaceuticals Inc.,0.00%
+1809,"Meta Financial Group, Inc.",0.00%
+1810,Johnson Outdoors Inc. Class A,0.00%
+1811,"BJ's Restaurants, Inc.",0.00%
+1812,"Veritex Holdings, Inc.",0.00%
+1813,MYR Group Inc.,0.00%
+1814,"Orchid Island Capital, Inc.",0.00%
+1815,"Hanger, Inc.",0.00%
+1816,"Hawaiian Holdings, Inc.",0.00%
+1817,Omeros Corporation,0.00%
+1818,Winmark Corporation,0.00%
+1819,"Phreesia, Inc.",0.00%
+1820,ACCO Brands Corporation,0.00%
+1821,"SI-BONE, Inc.",0.00%
+1822,"Rocket Pharmaceuticals, Inc.",0.00%
+1823,Transocean Ltd.,0.00%
+1824,Tupperware Brands Corporation,0.00%
+1825,"Silk Road Medical, Inc.",0.00%
+1826,"BGC Partners, Inc. Class A",0.00%
+1827,3D Systems Corporation,0.00%
+1828,P. H. Glatfelter Company,0.00%
+1829,"Axcelis Technologies, Inc.",0.00%
+1830,"Kimball International, Inc. Class B",0.00%
+1831,SIGA Technologies Inc,0.00%
+1832,"ScanSource, Inc.",0.00%
+1833,"FuelCell Energy, Inc.",0.00%
+1834,ProAssurance Corporation,0.00%
+1835,"Ebix, Inc.",0.00%
+1836,"Collegium Pharmaceutical, Inc.",0.00%
+1837,Columbus McKinnon Corporation,0.00%
+1838,"International Seaways, Inc.",0.00%
+1839,"Newmark Group, Inc. Class A",0.00%
+1840,Tompkins Financial Corporation,0.00%
+1841,AAR CORP.,0.00%
+1842,Diebold Nixdorf Incorporated,0.00%
+1843,Rite Aid Corporation,0.00%
+1844,"American National Group, Inc.",0.00%
+1845,Premier Financial Corp.,0.00%
+1846,Precigen Inc,0.00%
+1847,Seaboard Corporation,0.00%
+1848,"Victory Capital Holdings, Inc. Class A",0.00%
+1849,"Motorcar Parts of America, Inc.",0.00%
+1850,Zumiez Inc.,0.00%
+1851,Safehold Inc.,0.00%
+1852,"Viking Therapeutics, Inc.",0.00%
+1853,"Photronics, Inc.",0.00%
+1854,Primoris Services Corporation,0.00%
+1855,"Jernigan Capital, Inc.",0.00%
+1856,"NI Holdings, Inc.",0.00%
+1857,Heritage Commerce Corp,0.00%
+1858,Vericel Corporation,0.00%
+1859,"Beam Therapeutics, Inc.",0.00%
+1860,"RE/MAX Holdings, Inc.",0.00%
+1861,"Armada Hoffler Properties, Inc.",0.00%
+1862,"First Mid Bancshares, Inc.",0.00%
+1863,"Medallia, Inc.",0.00%
+1864,"Meridian Bioscience, Inc.",0.00%
+1865,"Cars.com, Inc.",0.00%
+1866,"PetIQ, Inc. Class A",0.00%
+1867,"Neoleukin Therapeutics, Inc",0.00%
+1868,"Conduent, Inc.",0.00%
+1869,"Surgery Partners, Inc.",0.00%
+1870,Parsons Corporation,0.00%
+1871,"Blucora, Inc.",0.00%
+1872,Scholastic Corporation,0.00%
+1873,"Cohu, Inc.",0.00%
+1874,"Anika Therapeutics, Inc.",0.00%
+1875,Brookdale Senior Living Inc.,0.00%
+1876,National HealthCare Corporation,0.00%
+1877,Abercrombie & Fitch Co. Class A,0.00%
+1878,"Tactile Systems Technology, Inc.",0.00%
+1879,"Revolution Medicines, Inc.",0.00%
+1880,"ImmunoGen, Inc.",0.00%
+1881,Federal Agricultural Mortgage Corporation Class C,0.00%
+1882,"NextGen Healthcare, Inc.",0.00%
+1883,"1Life Healthcare, Inc.",0.00%
+1884,Clearwater Paper Corporation,0.00%
+1885,"Retrophin, Inc.",0.00%
+1886,"Cue Biopharma, Inc.",0.00%
+1887,Rosetta Stone Inc.,0.00%
+1888,"FBL Financial Group, Inc. Class A",0.00%
+1889,"TPG RE Finance Trust, Inc.",0.00%
+1890,"Twin River Worldwide Holdings, Inc.",0.00%
+1891,"TrueBlue, Inc.",0.00%
+1892,CTS Corporation,0.00%
+1893,Banc of California Incorporated,0.00%
+1894,E. W. Scripps Company Class A,0.00%
+1895,HarborOne Bancorp Inc,0.00%
+1896,Natus Medical Incorporated,0.00%
+1897,"Consolidated Communications Holdings, Inc.",0.00%
+1898,"Arvinas, Inc.",0.00%
+1899,"Warrior Met Coal, Inc.",0.00%
+1900,"Apogee Enterprises, Inc.",0.00%
+1901,"Krystal Biotech, Inc.",0.00%
+1902,1st Source Corporation,0.00%
+1903,"Groupon, Inc.",0.00%
+1904,"Ardelyx, Inc.",0.00%
+1905,Gorman-Rupp Company,0.00%
+1906,SEACOR Holdings Inc.,0.00%
+1907,"Alector, Inc.",0.00%
+1908,"American Public Education, Inc.",0.00%
+1909,Aegion Corporation,0.00%
+1910,OFG Bancorp,0.00%
+1911,Prothena Corp. Plc,0.00%
+1912,"Airgain, Inc.",0.00%
+1913,"ARMOUR Residential REIT, Inc.",0.00%
+1914,OneSpan Inc.,0.00%
+1915,"Arch Resources, Inc. Class A",0.00%
+1916,"Codexis, Inc.",0.00%
+1917,"Stitch Fix, Inc. Class A",0.00%
+1918,Bank First Corp,0.00%
+1919,"Summit Hotel Properties, Inc.",0.00%
+1920,Workhorse Group Inc.,0.00%
+1921,"Plantronics, Inc.",0.00%
+1922,Quanex Building Products Corporation,0.00%
+1923,"PDF Solutions, Inc.",0.00%
+1924,"IGM Biosciences, Inc.",0.00%
+1925,Quotient Technology Incorporated,0.00%
+1926,"Community Trust Bancorp, Inc.",0.00%
+1927,"Washington Trust Bancorp, Inc.",0.00%
+1928,Corbus Pharmaceuticals Holdings Inc,0.00%
+1929,"Columbia Financial, Inc.",0.00%
+1930,"Y-mAbs Therapeutics, Inc.",0.00%
+1931,"EverQuote, Inc. Class A",0.00%
+1932,MBIA Inc.,0.00%
+1933,"H&E Equipment Services, Inc.",0.00%
+1934,Standex International Corporation,0.00%
+1935,"Ameresco, Inc. Class A",0.00%
+1936,"PDL BioPharma, Inc.",0.00%
+1937,"Simulations Plus, Inc.",0.00%
+1938,Invesco Mortgage Capital Inc.,0.00%
+1939,Veeco Instruments Inc.,0.00%
+1940,"Tanger Factory Outlet Centers, Inc.",0.00%
+1941,"HealthStream, Inc.",0.00%
+1942,"Stoneridge, Inc.",0.00%
+1943,MRC Global Inc.,0.00%
+1944,PAE Incorporated Class A,0.00%
+1945,"Orthofix Medical, Inc.",0.00%
+1946,Magnolia Oil & Gas Corp. Class A,0.00%
+1947,Heritage Financial Corporation,0.00%
+1948,"Assembly Biosciences, Inc.",0.00%
+1949,"Oceaneering International, Inc.",0.00%
+1950,"Ambac Financial Group, Inc.",0.00%
+1951,Intersect ENT Inc,0.00%
+1952,"Foundation Building Materials, Inc.",0.00%
+1953,"ATN International, Inc.",0.00%
+1954,Merchants Bancorp,0.00%
+1955,Gates Industrial Corporation plc,0.00%
+1956,"Argan, Inc.",0.00%
+1957,"Inogen, Inc.",0.00%
+1958,"Community Health Systems, Inc.",0.00%
+1959,Triple-S Management Corporation Class B,0.00%
+1960,Phibro Animal Health Corporation Class A,0.00%
+1961,Unisys Corporation,0.00%
+1962,"ADTRAN, Inc.",0.00%
+1963,Great Lakes Dredge & Dock Corporation,0.00%
+1964,"GoPro, Inc. Class A",0.00%
+1965,Endo International Plc,0.00%
+1966,"Ichor Holdings, Ltd.",0.00%
+1967,Radius Health Inc,0.00%
+1968,"AssetMark Financial Holdings, Inc.",0.00%
+1969,"Great Western Bancorp, Inc.",0.00%
+1970,"Guess?, Inc.",0.00%
+1971,Levi Strauss & Co. Class A,0.00%
+1972,TriCo Bancshares,0.00%
+1973,"At Home Group, Inc.",0.00%
+1974,"City Office REIT, Inc.",0.00%
+1975,"CIRCOR International, Inc.",0.00%
+1976,"DSP Group, Inc.",0.00%
+1977,Meridian Bancorp Inc,0.00%
+1978,Front Yard Residential Corp. Class B,0.00%
+1979,Option Care Health Inc,0.00%
+1980,"1-800-FLOWERS.COM, Inc. Class A",0.00%
+1981,"Translate Bio, Inc.",0.00%
+1982,"Alexander's, Inc.",0.00%
+1983,BioSpecifics Technologies Corp.,0.00%
+1984,"Athenex, Inc.",0.00%
+1985,"German American Bancorp, Inc.",0.00%
+1986,Luther Burbank Corporation,0.00%
+1987,DMC Global Inc.,0.00%
+1988,"Constellation Pharmaceuticals, Inc.",0.00%
+1989,"Co-Diagnostics, Inc.",0.00%
+1990,"S&T Bancorp, Inc.",0.00%
+1991,Bank of Marin Bancorp,0.00%
+1992,"Insteel Industries, Inc.",0.00%
+1993,"Schnitzer Steel Industries, Inc. Class A",0.00%
+1994,"Kelly Services, Inc. Class A",0.00%
+1995,"Health Catalyst, Inc.",0.00%
+1996,National Research Corporation,0.00%
+1997,Cincinnati Bell Inc.,0.00%
+1998,"Colony Credit Real Estate, Inc. Class A",0.00%
+1999,Coastal Financial Corporation,0.00%
+2000,Lions Gate Entertainment Corp Class A,0.00%
+2001,"Barrett Business Services, Inc.",0.00%
+2002,"Fulgent Genetics, Inc.",0.00%
+2003,"Nicolet Bankshares, Inc.",0.00%
+2004,MVB Financial Corp.,0.00%
+2005,Century Aluminum Company,0.00%
+2006,"Bridgewater Bancshares, Inc.",0.00%
+2007,"Guaranty Bancshares, Inc.",0.00%
+2008,"Magnite, Inc.",0.00%
+2009,"First Western Financial, Inc.",0.00%
+2010,"Apollo Medical Holdings, Inc.",0.00%
+2011,Resolute Forest Products Inc.,0.00%
+2012,"Universal Insurance Holdings, Inc.",0.00%
+2013,"Richmond Mutual Bancorporation, Inc.",0.00%
+2014,"Sutro Biopharma, Inc.",0.00%
+2015,"Helix Energy Solutions Group, Inc.",0.00%
+2016,"AMERISAFE, Inc.",0.00%
+2017,"Black Diamond Therapeutics, Inc.",0.00%
+2018,"Buckle, Inc.",0.00%
+2019,"Garrett Motion, Inc.",0.00%
+2020,KKR Real Estate Finance Trust Inc.,0.00%
+2021,"ConnectOne Bancorp, Inc.",0.00%
+2022,"BioXcel Therapeutics, Inc.",0.00%
+2023,"RadNet, Inc.",0.00%
+2024,Bryn Mawr Bank Corporation,0.00%
+2025,Relmada Therapeutics Inc,0.00%
+2026,"Aerie Pharmaceuticals, Inc.",0.00%
+2027,Universal Electronics Inc.,0.00%
+2028,"iHeartMedia, Inc. Class A",0.00%
+2029,Liberty Latin America Ltd. Class A,0.00%
+2030,Kosmos Energy Ltd.,0.00%
+2031,Surmodics Inc,0.00%
+2032,"QuinStreet, Inc.",0.00%
+2033,"Provention Bio, Inc.",0.00%
+2034,"United Fire Group, Inc.",0.00%
+2035,Aimmune Therapeutics Inc,0.00%
+2036,Harmonic Inc.,0.00%
+2037,Channeladvisor Corporation,0.00%
+2038,"Knoll, Inc.",0.00%
+2039,"Allegiance Bancshares, Inc.",0.00%
+2040,"Axogen, Inc.",0.00%
+2041,Metropolitan Bank Holding Corp.,0.00%
+2042,"Ennis, Inc.",0.00%
+2043,"Sportsman's Warehouse Holdings, Inc.",0.00%
+2044,"Revolve Group, Inc Class A",0.00%
+2045,"Globalstar, Inc.",0.00%
+2046,ProPetro Holding Corp.,0.00%
+2047,Modine Manufacturing Company,0.00%
+2048,"Everi Holdings, Inc.",0.00%
+2049,Meredith Corporation,0.00%
+2050,"Dave & Buster's Entertainment, Inc.",0.00%
+2051,"U.S. Concrete, Inc.",0.00%
+2052,GameStop Corp. Class A,0.00%
+2053,MSG Networks Inc. Class A,0.00%
+2054,"Plymouth Industrial REIT, Inc.",0.00%
+2055,Tredegar Corporation,0.00%
+2056,"Berkshire Hills Bancorp, Inc.",0.00%
+2057,Cowen Inc Class A,0.00%
+2058,"American Software, Inc. Class A",0.00%
+2059,"Golden Entertainment, Inc.",0.00%
+2060,"Hawkins, Inc.",0.00%
+2061,Scholar Rock Holding Corp.,0.00%
+2062,Kiniksa Pharmaceuticals Ltd. Class A,0.00%
+2063,"Andersons, Inc.",0.00%
+2064,York Water Company,0.00%
+2065,"Exicure, Inc.",0.00%
+2066,Koppers Holdings Inc.,0.00%
+2067,LendingClub Corp,0.00%
+2068,NV5 Global Inc,0.00%
+2069,"Esquire Financial Holdings, Inc.",0.00%
+2070,Tutor Perini Corporation,0.00%
+2071,"FNCB Bancorp, Inc.",0.00%
+2072,"CVR Energy, Inc.",0.00%
+2073,SmileDirectClub Inc Class A,0.00%
+2074,"Veritone, Inc.",0.00%
+2075,Verso Corp Class A,0.00%
+2076,"Akoustis Technologies, Inc.",0.00%
+2077,Menlo Therapeutics Inc.,0.00%
+2078,"Resources Connection, Inc.",0.00%
+2079,BRP Group Inc Class A,0.00%
+2080,Designer Brands Inc. Class A,0.00%
+2081,"Phathom Pharmaceuticals, Inc.",0.00%
+2082,"Capital Bancorp, Inc.",0.00%
+2083,"Harrow Health, Inc.",0.00%
+2084,Varex Imaging Corporation,0.00%
+2085,First Commonwealth Financial Corporation,0.00%
+2086,"Kala Pharmaceuticals, Inc.",0.00%
+2087,Enova International Inc,0.00%
+2088,MTS Systems Corporation,0.00%
+2089,"PQ Group Holdings, Inc.",0.00%
+2090,Granite Point Mortgage Trust Inc.,0.00%
+2091,"Farmers & Merchants Bancorp, Inc.",0.00%
+2092,MDC Partners Inc. Class A,0.00%
+2093,Sachem Capital Corp.,0.00%
+2094,"Agilysys, Inc.",0.00%
+2095,"HomeStreet, Inc.",0.00%
+2096,American National Bankshares Inc.,0.00%
+2097,"Manitowoc Company, Inc.",0.00%
+2098,Green Plains Inc.,0.00%
+2099,"Extreme Networks, Inc.",0.00%
+2100,"Myers Industries, Inc.",0.00%
+2101,"HCI Group, Inc.",0.00%
+2102,"UMH Properties, Inc.",0.00%
+2103,Franklin Street Properties Corp.,0.00%
+2104,NVE Corporation,0.00%
+2105,"MMA Capital Holdings, Inc.",0.00%
+2106,"CRA International, Inc.",0.00%
+2107,Anterix Inc.,0.00%
+2108,"AnaptysBio, Inc.",0.00%
+2109,Uranium Energy Corp.,0.00%
+2110,"WideOpenWest, Inc.",0.00%
+2111,Comtech Telecommunications Corp.,0.00%
+2112,"Spectrum Pharmaceuticals, Inc.",0.00%
+2113,"Cass Information Systems, Inc.",0.00%
+2114,Amalgamated Bank,0.00%
+2115,STRATTEC SECURITY CORPORATION,0.00%
+2116,ORIC Pharmaceuticals Inc,0.00%
+2117,"Waterstone Financial, Inc.",0.00%
+2118,"Green Brick Partners, Inc.",0.00%
+2119,"Brookline Bancorp, Inc.",0.00%
+2120,"NexTier Oilfield Solutions, Inc.",0.00%
+2121,Fluidigm Corporation,0.00%
+2122,First of Long Island Corporation,0.00%
+2123,Cambridge Bancorp,0.00%
+2124,"Haverty Furniture Companies, Inc.",0.00%
+2125,"TrueCar, Inc.",0.00%
+2126,"Springworks Therapeutics, Inc.",0.00%
+2127,Federal Agricultural Mortgage Corporation Class A,0.00%
+2128,Verrica Pharmaceuticals Inc,0.00%
+2129,"Zentalis Pharmaceuticals, Inc.",0.00%
+2130,"Children's Place, Inc.",0.00%
+2131,QAD Inc. Class A,0.00%
+2132,First Bancorp,0.00%
+2133,Goodrich Petroleum Corporation,0.00%
+2134,"Rush Enterprises, Inc. Class B",0.00%
+2135,Reliant Bancorp Inc,0.00%
+2136,"CymaBay Therapeutics, Inc.",0.00%
+2137,"Odonate Therapeutics, Inc.",0.00%
+2138,Carriage Services Inc.,0.00%
+2139,Brightcove Inc.,0.00%
+2140,Vectrus Inc,0.00%
+2141,"Interface, Inc.",0.00%
+2142,"Pioneer Bancorp, Inc.",0.00%
+2143,"Hyster-Yale Materials Handling, Inc. Class A",0.00%
+2144,"Antares Pharma, Inc.",0.00%
+2145,"Gossamer Bio, Inc.",0.00%
+2146,Amerant Bancorp Inc. Class A,0.00%
+2147,"Lakeland Bancorp, Inc.",0.00%
+2148,"Origin Bancorp, Inc.",0.00%
+2149,Liberty Media Corp. Series A Liberty Braves,0.00%
+2150,First Choice Bancorp,0.00%
+2151,"Monarch Casino & Resort, Inc.",0.00%
+2152,"Rhythm Pharmaceuticals, Inc.",0.00%
+2153,Clear Channel Outdoor Holdings Inc,0.00%
+2154,United States Cellular Corp,0.00%
+2155,"Collectors Universe, Inc.",0.00%
+2156,Capstead Mortgage Corporation,0.00%
+2157,"Endurance International Group Holdings, Inc.",0.00%
+2158,Blue Bird Corporation,0.00%
+2159,PDL Community Bancorp,0.00%
+2160,"CAI International, Inc.",0.00%
+2161,"First Foundation, Inc.",0.00%
+2162,"Mastercraft Boat Holdings, Inc.",0.00%
+2163,Greif Class B,0.00%
+2164,"MGP Ingredients, Inc.",0.00%
+2165,"Level One Bancorp, Inc.",0.00%
+2166,"Harvard Bioscience, Inc.",0.00%
+2167,"AMAG Pharmaceuticals, Inc.",0.00%
+2168,"Accelerate Diagnostics, Inc.",0.00%
+2169,"ZIOPHARM Oncology, Inc.",0.00%
+2170,"Thermon Group Holdings, Inc.",0.00%
+2171,Turning Point Brands Inc,0.00%
+2172,"Fidelity D & D Bancorp, Inc.",0.00%
+2173,"CapStar Financial Holdings, Inc.",0.00%
+2174,"BioCryst Pharmaceuticals, Inc.",0.00%
+2175,Kraton Corporation,0.00%
+2176,"SMART Global Holdings, Inc.",0.00%
+2177,Evolution Petroleum Corporation,0.00%
+2178,Peoples Bancorp Inc.,0.00%
+2179,"G1 Therapeutics, Inc.",0.00%
+2180,Tenneco Inc. Class A,0.00%
+2181,Central Garden & Pet Company,0.00%
+2182,Ocular Therapeutix Inc,0.00%
+2183,"G-III Apparel Group, Ltd.",0.00%
+2184,TrustCo Bank Corp NY,0.00%
+2185,"CatchMark Timber Trust, Inc. Class A",0.00%
+2186,"AdvanSix, Inc.",0.00%
+2187,"Preferred Apartment Communities, Inc.",0.00%
+2188,Par Pacific Holdings Inc,0.00%
+2189,OP Bancorp,0.00%
+2190,"e.l.f. Beauty, Inc.",0.00%
+2191,Seneca Foods Corporation Class A,0.00%
+2192,Mercantile Bank Corporation,0.00%
+2193,"Heidrick & Struggles International, Inc.",0.00%
+2194,"Fortress Biotech, Inc.",0.00%
+2195,Boston Omaha Corp. Class A,0.00%
+2196,"Byline Bancorp, Inc.",0.00%
+2197,PAR Technology Corporation,0.00%
+2198,Territorial Bancorp Inc.,0.00%
+2199,American Vanguard Corporation,0.00%
+2200,"Miller Industries, Inc.",0.00%
+2201,Preferred Bank,0.00%
+2202,"Fiesta Restaurant Group, Inc.",0.00%
+2203,"MobileIron, Inc.",0.00%
+2204,First Financial Corporation,0.00%
+2205,PCSB Financial Corporation,0.00%
+2206,Quanterix Corporation,0.00%
+2207,"Mustang Bio, Inc.",0.00%
+2208,Allied Motion Technologies Inc.,0.00%
+2209,"Arlo Technologies, Inc.",0.00%
+2210,RBB Bancorp,0.00%
+2211,"Lydall, Inc.",0.00%
+2212,SP Plus Corporation,0.00%
+2213,Ducommun Incorporated,0.00%
+2214,Crinetics Pharmaceuticals Inc,0.00%
+2215,"Impinj, Inc.",0.00%
+2216,"Bar Harbor Bankshares, Inc.",0.00%
+2217,"UFP Technologies, Inc.",0.00%
+2218,"Northfield Bancorp, Inc.",0.00%
+2219,Digi International Inc.,0.00%
+2220,Genesco Inc.,0.00%
+2221,"Evelo Biosciences, Inc.",0.00%
+2222,"Catalyst Pharmaceuticals, Inc.",0.00%
+2223,"Beazer Homes USA, Inc.",0.00%
+2224,"Pieris Pharmaceuticals, Inc.",0.00%
+2225,"Pulse Biosciences, Inc.",0.00%
+2226,"MarineMax, Inc.",0.00%
+2227,Bank of Princeton,0.00%
+2228,Nesco Holdings Inc,0.00%
+2229,"Evoke Pharma, Inc.",0.00%
+2230,Mercer International Inc.,0.00%
+2231,"CTO Realty Growth, Inc.",0.00%
+2232,"Shockwave Medical, Inc.",0.00%
+2233,Bloom Energy Corporation Class A,0.00%
+2234,"FVCBankcorp, Inc.",0.00%
+2235,Zix Corporation,0.00%
+2236,"cbdMD, Inc.",0.00%
+2237,"Midland States Bancorp, Inc.",0.00%
+2238,"Great Southern Bancorp, Inc.",0.00%
+2239,"Heritage Insurance Holdings, Inc.",0.00%
+2240,Urovant Sciences Ltd.,0.00%
+2241,"Chuy's Holdings, Inc.",0.00%
+2242,RPT Realty,0.00%
+2243,Franklin Covey Co.,0.00%
+2244,"Amneal Pharmaceuticals, Inc. Class A",0.00%
+2245,"Sculptor Capital Management, Inc. Class A",0.00%
+2246,PCB Bancorp,0.00%
+2247,"RMR Group, Inc. Class A",0.00%
+2248,Meet Group Inc,0.00%
+2249,"Forrester Research, Inc.",0.00%
+2250,Viad Corp,0.00%
+2251,Clean Energy Fuels Corp.,0.00%
+2252,FRP Holdings Inc,0.00%
+2253,"Comstock Resources, Inc.",0.00%
+2254,"Hackett Group, Inc.",0.00%
+2255,"Conn's, Inc.",0.00%
+2256,Tricida Inc,0.00%
+2257,Bancorp Inc,0.00%
+2258,First Community Bankshares Inc,0.00%
+2259,"CytomX Therapeutics, Inc.",0.00%
+2260,"Randolph Bancorp, Inc.",0.00%
+2261,"Spirit of Texas Bancshares, Inc.",0.00%
+2262,Enochian Biosciences Inc.,0.00%
+2263,"Passage Bio, Inc.",0.00%
+2264,Nautilus Inc,0.00%
+2265,"Citi Trends, Inc.",0.00%
+2266,Seritage Growth Properties Class A,0.00%
+2267,Camden National Corporation,0.00%
+2268,"WisdomTree Investments, Inc.",0.00%
+2269,"ProSight Global, Inc.",0.00%
+2270,"OptiNose, Inc.",0.00%
+2271,GrafTech International Ltd.,0.00%
+2272,Agenus Inc.,0.00%
+2273,El Pollo Loco Holdings Inc,0.00%
+2274,Eagle Bulk Shipping Inc,0.00%
+2275,Artesian Resources Corporation Class A,0.00%
+2276,Regis Corporation,0.00%
+2277,Arrow Financial Corporation,0.00%
+2278,"Inspired Entertainment, Inc.",0.00%
+2279,Independence Holding Company,0.00%
+2280,"Puma Biotechnology, Inc.",0.00%
+2281,"Oil States International, Inc.",0.00%
+2282,"Fossil Group, Inc.",0.00%
+2283,Flushing Financial Corporation,0.00%
+2284,Peoples Financial Services Corp.,0.00%
+2285,Cornerstone Building Brands Inc,0.00%
+2286,"Ruth's Hospitality Group, Inc.",0.00%
+2287,"First Guaranty Bancshares, Inc.",0.00%
+2288,Arlington Asset Investment Corp. Class A,0.00%
+2289,"Tyme Technologies, Inc.",0.00%
+2290,Central European Media Enterprises Ltd. Class A,0.00%
+2291,"AMC Entertainment Holdings, Inc. Class A",0.00%
+2292,"Caleres, Inc.",0.00%
+2293,"Avid Bioservices, Inc.",0.00%
+2294,"Boston Private Financial Holdings, Inc.",0.00%
+2295,"A10 Networks, Inc.",0.00%
+2296,"Alkaline Water Co., Inc.",0.00%
+2297,"West Bancorporation, Inc.",0.00%
+2298,"One Liberty Properties, Inc.",0.00%
+2299,"QCR Holdings, Inc.",0.00%
+2300,"Progyny, Inc.",0.00%
+2301,"Viela Bio, Inc.",0.00%
+2302,"Greenhill & Co., Inc.",0.00%
+2303,"Elevate Credit, Inc.",0.00%
+2304,"Triumph Group, Inc.",0.00%
+2305,"Customers Bancorp, Inc.",0.00%
+2306,"Business First Bancshares, Inc.",0.00%
+2307,"LeMaitre Vascular, Inc.",0.00%
+2308,"EZCORP, Inc. Class A",0.00%
+2309,CyberOptics Corporation,0.00%
+2310,BayCom Corp.,0.00%
+2311,"Clipper Realty, Inc.",0.00%
+2312,"CBTX, Inc.",0.00%
+2313,"ANI Pharmaceuticals, Inc.",0.00%
+2314,"QEP Resources, Inc.",0.00%
+2315,Univest Financial Corporation,0.00%
+2316,Playa Hotels & Resorts N.V.,0.00%
+2317,"Horizon Bancorp, Inc.",0.00%
+2318,"National CineMedia, Inc.",0.00%
+2319,"Donnelley Financial Solutions, Inc.",0.00%
+2320,Medallion Financial Corp.,0.00%
+2321,Intelligent Systems Corporation,0.00%
+2322,"RealReal, Inc.",0.00%
+2323,Oil-Dri Corporation of America,0.00%
+2324,"HF Foods Group, Inc.",0.00%
+2325,Clarus Corporation,0.00%
+2326,New Senior Investment Group Inc,0.00%
+2327,Independent Bank Corporation,0.00%
+2328,State Auto Financial Corporation,0.00%
+2329,"Benefytt Technologies, Inc. Class A",0.00%
+2330,"Lawson Products, Inc.",0.00%
+2331,"Organogenesis Holdings, Inc. Class A",0.00%
+2332,"Heritage-Crystal Clean, Inc.",0.00%
+2333,McEwen Mining Inc.,0.00%
+2334,"Alpha Pro Tech, Ltd.",0.00%
+2335,"United-Guardian, Inc.",0.00%
+2336,"Benefitfocus, Inc.",0.00%
+2337,"Saul Centers, Inc.",0.00%
+2338,"Computer Programs and Systems, Inc.",0.00%
+2339,"Select Interior Concepts, Inc. Class A",0.00%
+2340,Exterran Corp.,0.00%
+2341,"Solaris Oilfield Infrastructure, Inc. Class A",0.00%
+2342,"Forterra, Inc.",0.00%
+2343,"VAALCO Energy, Inc.",0.00%
+2344,"Select Energy Services, Inc. Class A",0.00%
+2345,"Synchronoss Technologies, Inc.",0.00%
+2346,"Republic Bancorp, Inc. Class A",0.00%
+2347,"Homology Medicines, Inc.",0.00%
+2348,"Eagle Pharmaceuticals, Inc.",0.00%
+2349,CohBar Inc,0.00%
+2350,"Coda Octopus Group, Inc.",0.00%
+2351,"Dillard's, Inc. Class A",0.00%
+2352,Hersha Hospitality Trust Class A,0.00%
+2353,CarParts.com Inc,0.00%
+2354,LiveXLive Media Inc,0.00%
+2355,"Diamond S Shipping, Inc.",0.00%
+2356,"Citizens, Inc. Class A",0.00%
+2357,"U.S. Silica Holdings, Inc.",0.00%
+2358,"IES Holdings, Inc.",0.00%
+2359,Landec Corporation,0.00%
+2360,CURO Group Holdings Corp.,0.00%
+2361,"TriState Capital Holdings, Inc.",0.00%
+2362,"NAPCO Security Technologies, Inc.",0.00%
+2363,"Kronos Worldwide, Inc.",0.00%
+2364,"Transcat, Inc.",0.00%
+2365,"Sterling Construction Company, Inc.",0.00%
+2366,"Kimball Electronics, Inc.",0.00%
+2367,Horizon Global Corp.,0.00%
+2368,"Waitr Holdings, Inc. Class A",0.00%
+2369,"BrightView Holdings, Inc.",0.00%
+2370,"i3 Verticals, Inc. Class A",0.00%
+2371,"Chefs' Warehouse, Inc.",0.00%
+2372,Northwest Pipe Company,0.00%
+2373,"Retail Value, Inc.",0.00%
+2374,Marinus Pharmaceuticals Inc,0.00%
+2375,"Eventbrite, Inc. Class A",0.00%
+2376,"TherapeuticsMD, Inc.",0.00%
+2377,Liberty Oilfield Services Inc. Class A,0.00%
+2378,Eastman Kodak Company,0.00%
+2379,"HomeTrust Bancshares, Inc.",0.00%
+2380,"Vishay Precision Group, Inc.",0.00%
+2381,"Voyager Therapeutics, Inc.",0.00%
+2382,"Fluent, Inc.",0.00%
+2383,VirnetX Holding Corporation,0.00%
+2384,Ethan Allen Interiors Inc.,0.00%
+2385,Wave Life Sciences Ltd.,0.00%
+2386,Matrix Service Company,0.00%
+2387,VSE Corporation,0.00%
+2388,Ares Commercial Real Estate Corporation,0.00%
+2389,"Dynex Capital, Inc.",0.00%
+2390,"Hurco Companies, Inc.",0.00%
+2391,Sunnova Energy International Inc,0.00%
+2392,LifeVantage Corporation,0.00%
+2393,Lovesac Company,0.00%
+2394,"InfuSystem Holdings, Inc.",0.00%
+2395,"Willdan Group, Inc.",0.00%
+2396,"AngioDynamics, Inc.",0.00%
+2397,"ShotSpotter, Inc.",0.00%
+2398,"BG Staffing, Inc.",0.00%
+2399,"BioDelivery Sciences International, Inc.",0.00%
+2400,Marcus Corporation,0.00%
+2401,Immersion Corporation,0.00%
+2402,Astronics Corporation,0.00%
+2403,"Purple Innovation, Inc.",0.00%
+2404,SM Energy Company,0.00%
+2405,"Penns Woods Bancorp, Inc.",0.00%
+2406,Cato Corporation Class A,0.00%
+2407,FutureFuel Corp.,0.00%
+2408,"Powell Industries, Inc.",0.00%
+2409,Cooper-Standard Holdings Inc.,0.00%
+2410,Carrols Restaurant Group Inc,0.00%
+2411,"Mitek Systems, Inc.",0.00%
+2412,Brainstorm Cell Therapeutics Inc.,0.00%
+2413,"ViewRay, Inc.",0.00%
+2414,"Del Taco Restaurants, Inc.",0.00%
+2415,"PaySign, Inc. Class B",0.00%
+2416,"Cumulus Media, Inc. Class A",0.00%
+2417,Oppenheimer Holdings Inc. Class A,0.00%
+2418,NewAge Inc,0.00%
+2419,"Bassett Furniture Industries, Inc.",0.00%
+2420,Trinity Place Holdings Inc.,0.00%
+2421,Houghton Mifflin Harcourt Company,0.00%
+2422,SciPlay Corp. Class A,0.00%
+2423,"Pacific Ethanol, Inc.",0.00%
+2424,CECO Environmental Corp.,0.00%
+2425,"CorePoint Lodging, Inc.",0.00%
+2426,Tidewater Inc,0.00%
+2427,"NantKwest, Inc.",0.00%
+2428,"National Bankshares, Inc.",0.00%
+2429,"Shoe Carnival, Inc.",0.00%
+2430,DURECT Corporation,0.00%
+2431,"Old Second Bancorp, Inc.",0.00%
+2432,Global Indemnity Ltd. Class A,0.00%
+2433,Mesa Air Group Inc,0.00%
+2434,"Hill International, Inc.",0.00%
+2435,"Aerpio Pharmaceuticals, Inc.",0.00%
+2436,Ovid Therapeutics Inc.,0.00%
+2437,"Unifi, Inc.",0.00%
+2438,Eidos Therapeutics Inc,0.00%
+2439,Titan Machinery Inc.,0.00%
+2440,Gold Resource Corporation,0.00%
+2441,Hooker Furniture Corporation,0.00%
+2442,Pfenex Inc.,0.00%
+2443,"Liquidity Services, Inc.",0.00%
+2444,Farmers National Banc Corp.,0.00%
+2445,"Avid Technology, Inc.",0.00%
+2446,Callon Petroleum Company,0.00%
+2447,Luna Innovations Incorporated,0.00%
+2448,"Lannett Company, Inc.",0.00%
+2449,"Cross Country Healthcare, Inc.",0.00%
+2450,"Village Super Market, Inc. Class A",0.00%
+2451,"Chimerix, Inc.",0.00%
+2452,"Kirkland's, Inc.",0.00%
+2453,"W&T Offshore, Inc.",0.00%
+2454,Fonar Corporation,0.00%
+2455,"Gaia, Inc. Class A",0.00%
+2456,ORBCOMM Inc.,0.00%
+2457,Systemax Inc.,0.00%
+2458,"Advanced Emissions Solutions, Inc.",0.00%
+2459,"Northrim BanCorp, Inc.",0.00%
+2460,"Southern First Bancshares, Inc.",0.00%
+2461,eGain Corporation,0.00%
+2462,"Sensus Healthcare, Inc.",0.00%
+2463,"Lands' End, Inc.",0.00%
+2464,Ribbon Communications Inc.,0.00%
+2465,"Ampio Pharmaceuticals, Inc.",0.00%
+2466,"GreenSky, Inc. Class A",0.00%
+2467,"Akcea Therapeutics, Inc.",0.00%
+2468,"Superior Group of Companies, Inc.",0.00%
+2469,"Matinas BioPharma Holdings, Inc.",0.00%
+2470,Falcon Minerals Corp. Class A,0.00%
+2471,Park Aerospace Corp.,0.00%
+2472,"Applied Optoelectronics, Inc.",0.00%
+2473,"Calyxt, Inc.",0.00%
+2474,"Rocky Brands, Inc.",0.00%
+2475,NeoPhotonics Corporation,0.00%
+2476,Nabors Industries Ltd.,0.00%
+2477,"EVI Industries, Inc.",0.00%
+2478,Invacare Corporation,0.00%
+2479,"Franchise Group, Inc. Class A",0.00%
+2480,"Liquidia Technologies, Inc.",0.00%
+2481,"Haynes International, Inc.",0.00%
+2482,Accuray Incorporated,0.00%
+2483,"Greenlight Capital Re, Ltd. Class A",0.00%
+2484,"SunCoke Energy, Inc.",0.00%
+2485,Tiptree Inc.,0.00%
+2486,Macatawa Bank Corporation,0.00%
+2487,"Covenant Logistics Group, Inc. Class A",0.00%
+2488,"Marker Therapeutics, Inc.",0.00%
+2489,"Hovnanian Enterprises, Inc. Class A",0.00%
+2490,LSI Industries Inc.,0.00%
+2491,"Capital City Bank Group, Inc.",0.00%
+2492,Liberty TripAdvisor Holdings Inc Class A,0.00%
+2493,"Home Bancorp, Inc.",0.00%
+2494,"DXP Enterprises, Inc.",0.00%
+2495,89bio Inc,0.00%
+2496,"First Bancorp, Inc.",0.00%
+2497,"Saga Communications, Inc. Class A",0.00%
+2498,"Smart Sand, Inc.",0.00%
+2499,"BioLife Solutions, Inc.",0.00%
+2500,"Neuronetics, Inc.",0.00%
+2501,"resTORbio, Inc.",0.00%
+2502,"Gannett Co., Inc.",0.00%
+2503,"Enterprise Bancorp, Inc.",0.00%
+2504,Siebert Financial Corp.,0.00%
+2505,Cadiz Inc.,0.00%
+2506,"Southern Missouri Bancorp, Inc.",0.00%
+2507,"Bridge Bancorp, Inc.",0.00%
+2508,"Sterling Bancorp, Inc.",0.00%
+2509,"First Bancshares, Inc.",0.00%
+2510,"Aprea Therapeutics, Inc.",0.00%
+2511,Lincoln Educational Services Corporation,0.00%
+2512,Watford Holdings Ltd.,0.00%
+2513,Willis Lease Finance Corporation,0.00%
+2514,Great Ajax Corp.,0.00%
+2515,"Lakeland Industries, Inc.",0.00%
+2516,"NN, Inc.",0.00%
+2517,Central Pacific Financial Corp.,0.00%
+2518,"Spok Holdings, Inc.",0.00%
+2519,Peabody Energy Corporation,0.00%
+2520,"Gritstone Oncology, Inc.",0.00%
+2521,Ames National Corporation,0.00%
+2522,"PhaseBio Pharmaceuticals, Inc.",0.00%
+2523,XOMA Corporation,0.00%
+2524,"Chico's FAS, Inc.",0.00%
+2525,"Newpark Resources, Inc.",0.00%
+2526,Bonanza Creek Energy Inc,0.00%
+2527,ACNB Corporation,0.00%
+2528,Ooma Inc,0.00%
+2529,"Clearfield, Inc.",0.00%
+2530,Chatham Lodging Trust,0.00%
+2531,Citizens & Northern Corporation,0.00%
+2532,Pure Cycle Corporation,0.00%
+2533,iRadimed Corp,0.00%
+2534,Frank's International NV,0.00%
+2535,Hanmi Financial Corporation,0.00%
+2536,"Universal Logistics Holdings, Inc.",0.00%
+2537,YRC Worldwide Inc.,0.00%
+2538,"Aviat Networks, Inc.",0.00%
+2539,Washington Prime Group Inc.,0.00%
+2540,BlueLinx Holdings Inc.,0.00%
+2541,Whitestone REIT,0.00%
+2542,Eastern Company,0.00%
+2543,"Rigel Pharmaceuticals, Inc.",0.00%
+2544,"Repro Med Systems, Inc.",0.00%
+2545,MannKind Corporation,0.00%
+2546,"MediciNova, Inc.",0.00%
+2547,Regional Management Corp.,0.00%
+2548,"Duluth Holdings, Inc. Class B",0.00%
+2549,CNB Financial Corporation,0.00%
+2550,"Escalade, Incorporated",0.00%
+2551,"Cellular Biomedicine Group, Inc.",0.00%
+2552,"Aclaris Therapeutics, Inc.",0.00%
+2553,Kezar Life Sciences Inc,0.00%
+2554,Dorian LPG Ltd.,0.00%
+2555,Sierra Bancorp,0.00%
+2556,Celcuity Inc.,0.00%
+2557,Stratus Properties Inc.,0.00%
+2558,Plumas Bancorp,0.00%
+2559,Peapack-Gladstone Financial Corporation,0.00%
+2560,"Red Robin Gourmet Burgers, Inc.",0.00%
+2561,Ready Capital Corporation,0.00%
+2562,"AXT, Inc.",0.00%
+2563,"Hawthorn Bancshares, Inc.",0.00%
+2564,"Financial Institutions, Inc.",0.00%
+2565,Joint Corp,0.00%
+2566,"MidWestOne Financial Group, Inc.",0.00%
+2567,"Adamas Pharmaceuticals, Inc.",0.00%
+2568,"Concert Pharmaceuticals, Inc.",0.00%
+2569,"Orion Energy Systems, Inc.",0.00%
+2570,GP Strategies Corporation,0.00%
+2571,Noodles & Co. Class A,0.00%
+2572,Gogo Inc.,0.00%
+2573,"Team, Inc.",0.00%
+2574,"Cutera, Inc.",0.00%
+2575,"XBiotech, Inc.",0.00%
+2576,Atomera Incorporated,0.00%
+2577,Digimarc Corporation,0.00%
+2578,Lipocine Inc,0.00%
+2579,"PagerDuty, Inc.",0.00%
+2580,Genie Energy Ltd. Class B,0.00%
+2581,"Radiant Logistics, Inc.",0.00%
+2582,Tejon Ranch Co.,0.00%
+2583,"KVH Industries, Inc.",0.00%
+2584,"Spark Energy, Inc. Class A",0.00%
+2585,"GlycoMimetics, Inc.",0.00%
+2586,Veritiv Corp,0.00%
+2587,"REV Group, Inc.",0.00%
+2588,"RCI Hospitality Holdings, Inc.",0.00%
+2589,CytoSorbents Corporation,0.00%
+2590,Aspen Aerogels Inc,0.00%
+2591,Entercom Communications Corp. Class A,0.00%
+2592,"PRGX Global, Inc.",0.00%
+2593,"RPC, Inc.",0.00%
+2594,"Satsuma Pharmaceuticals, Inc.",0.00%
+2595,"Eloxx Pharmaceuticals, Inc.",0.00%
+2596,"Southern National Bancorp of Virginia, Inc.",0.00%
+2597,Majesco,0.00%
+2598,"NextCure, Inc.",0.00%
+2599,"Weyco Group, Inc.",0.00%
+2600,Mallinckrodt Plc,0.00%
+2601,"Zynex, Inc.",0.00%
+2602,Ocwen Financial Corporation,0.00%
+2603,Craft Brew Alliance,0.00%
+2604,TimkenSteel Corp,0.00%
+2605,Magenta Therapeutics Inc,0.00%
+2606,Lindblad Expeditions Holdings Inc,0.00%
+2607,Provident Bancorp Inc,0.00%
+2608,Limoneira Company,0.00%
+2609,Contango Oil & Gas Company,0.00%
+2610,"First Business Financial Services, Inc.",0.00%
+2611,"GTT Communications, Inc.",0.00%
+2612,"Energy Recovery, Inc.",0.00%
+2613,Berry Corporation,0.00%
+2614,Oasis Petroleum Inc.,0.00%
+2615,"Equity Bancshares, Inc. Class A",0.00%
+2616,"PFSweb, Inc.",0.00%
+2617,"Frequency Therapeutics, Inc.",0.00%
+2618,"Daktronics, Inc.",0.00%
+2619,"AcelRx Pharmaceuticals, Inc.",0.00%
+2620,"Timberland Bancorp, Inc.",0.00%
+2621,"Centennial Resource Development, Inc. Class A",0.00%
+2622,CONSOL Energy Inc,0.00%
+2623,Urstadt Biddle Properties Inc. Class A,0.00%
+2624,Protective Insurance Corporation Class B,0.00%
+2625,OneSpaWorld Holdings Ltd.,0.00%
+2626,Apyx Medical Corporation,0.00%
+2627,"Universal Technical Institute, Inc.",0.00%
+2628,"Summit Financial Group, Inc.",0.00%
+2629,Genco Shipping & Trading Ltd,0.00%
+2630,"Northern Oil and Gas, Inc.",0.00%
+2631,Gladstone Land Corp.,0.00%
+2632,Crawford & Company Class A,0.00%
+2633,Park-Ohio Holdings Corp.,0.00%
+2634,"Iteris, Inc.",0.00%
+2635,"TeleNav, Inc.",0.00%
+2636,"Genasys, Inc.",0.00%
+2637,"Orrstown Financial Services, Inc.",0.00%
+2638,"Sientra, Inc.",0.00%
+2639,"IVERIC bio, Inc.",0.00%
+2640,L. B. Foster Company,0.00%
+2641,"Agile Therapeutics, Inc.",0.00%
+2642,Bluerock Residential Growth REIT Inc Class A,0.00%
+2643,"Western New England Bancorp, Inc.",0.00%
+2644,Rayonier Advanced Materials Inc,0.00%
+2645,Bristow Group Inc,0.00%
+2646,"Mirum Pharmaceuticals, Inc.",0.00%
+2647,SEACOR Marine Holdings Inc,0.00%
+2648,"comScore, Inc.",0.00%
+2649,American Superconductor Corporation,0.00%
+2650,"Eiger BioPharmaceuticals, Inc.",0.00%
+2651,LCNB Corp.,0.00%
+2652,Donegal Group Inc. Class A,0.00%
+2653,"Superior Industries International, Inc.",0.00%
+2654,SilverBow Resources Inc,0.00%
+2655,"Talos Energy, Inc.",0.00%
+2656,Oyster Point Pharma Inc,0.00%
+2657,Anavex Life Sciences Corp.,0.00%
+2658,"Civista Bancshares, Inc.",0.00%
+2659,Potbelly Corp.,0.00%
+2660,"Bankwell Financial Group, Inc.",0.00%
+2661,"Emerald Holding, Inc.",0.00%
+2662,"Brigham Minerals, Inc. Class A",0.00%
+2663,"Surgalign Holdings, Inc.",0.00%
+2664,Farmland Partners Inc,0.00%
+2665,"Five Prime Therapeutics, Inc.",0.00%
+2666,"Casa Systems, Inc.",0.00%
+2667,First Northwest Bancorp,0.00%
+2668,"Codorus Valley Bancorp, Inc.",0.00%
+2669,"ESSA Bancorp, Inc.",0.00%
+2670,"KalVista Pharmaceuticals, Inc.",0.00%
+2671,"Alaska Communications Systems Group, Inc.",0.00%
+2672,"Delta Apparel, Inc.",0.00%
+2673,VOXX International Corporation Class A,0.00%
+2674,"Asta Funding, Inc.",0.00%
+2675,"Intrepid Potash, Inc.",0.00%
+2676,Oak Valley Bancorp,0.00%
+2677,"Parke Bancorp, Inc.",0.00%
+2678,SeaSpine Holdings Corp.,0.00%
+2679,Graham Corporation,0.00%
+2680,Panhandle Oil and Gas Inc. Class A,0.00%
+2681,"Century Casinos, Inc.",0.00%
+2682,"Electromed, Inc.",0.00%
+2683,Geospace Technologies Corporation,0.00%
+2684,"Innovative Solutions and Support, Inc.",0.00%
+2685,"Gencor Industries, Inc.",0.00%
+2686,"Commercial Vehicle Group, Inc.",0.00%
+2687,Investar Holding Corp,0.00%
+2688,"GSI Technology, Inc.",0.00%
+2689,"HBT Financial, Inc.",0.00%
+2690,"Stereotaxis, Inc.",0.00%
+2691,"SmartFinancial, Inc.",0.00%
+2692,"Intevac, Inc.",0.00%
+2693,SecureWorks Corp. Class A,0.00%
+2694,"Flotek Industries, Inc.",0.00%
+2695,Goldfield Corporation,0.00%
+2696,Xeris Pharmaceuticals Inc,0.00%
+2697,"Premier Financial Bancorp, Inc.",0.00%
+2698,Trecora Resources,0.00%
+2699,"Titan International, Inc.",0.00%
+2700,Misonix Inc,0.00%
+2701,"Calithera Biosciences, Inc.",0.00%
+2702,Central Valley Community Bancorp,0.00%
+2703,"Allena Pharmaceuticals, Inc.",0.00%
+2704,"Unity Bancorp, Inc.",0.00%
+2705,"Party City Holdco, Inc.",0.00%
+2706,Anworth Mortgage Asset Corporation,0.00%
+2707,"Utah Medical Products, Inc.",0.00%
+2708,Bel Fuse Inc. Class B,0.00%
+2709,"Movado Group, Inc.",0.00%
+2710,BRT Apartments Corp,0.00%
+2711,R.R. Donnelley & Sons Company,0.00%
+2712,Venator Materials PLC,0.00%
+2713,"GlobalSCAPE, Inc.",0.00%
+2714,"iCAD, Inc.",0.00%
+2715,"PICO Holdings, Inc.",0.00%
+2716,"InnerWorkings, Inc.",0.00%
+2717,"Earthstone Energy, Inc. Class A",0.00%
+2718,"GAMCO Investors, Inc. Class A",0.00%
+2719,"USA Truck, Inc.",0.00%
+2720,"Harpoon Therapeutics, Inc.",0.00%
+2721,IntriCon Corporation,0.00%
+2722,"Malvern Bancorp, Inc.",0.00%
+2723,"Verastem, Inc.",0.00%
+2724,"Arcimoto, Inc.",0.00%
+2725,First Community Corporation,0.00%
+2726,Blink Charging Co,0.00%
+2727,"Albireo Pharma, Inc.",0.00%
+2728,"Provident Financial Holdings, Inc.",0.00%
+2729,Montage Resources Corp.,0.00%
+2730,"Armstrong Flooring, Inc.",0.00%
+2731,Penn Virginia Corporation,0.00%
+2732,1st Constitution Bancorp,0.00%
+2733,"Rockwell Medical, Inc.",0.00%
+2734,Big 5 Sporting Goods Corporation,0.00%
+2735,Hingham Institution for Savings,0.00%
+2736,"Westwood Holdings Group, Inc.",0.00%
+2737,"Silvercrest Asset Management Group, Inc. Class A",0.00%
+2738,ChromaDex Corporation,0.00%
+2739,"Prudential Bancorp, Inc.",0.00%
+2740,"Nature's Sunshine Products, Inc.",0.00%
+2741,Altisource Portfolio Solutions S.A.,0.00%
+2742,"Shore Bancshares, Inc.",0.00%
+2743,Community Bankers Trust Corporation,0.00%
+2744,"Olympic Steel, Inc.",0.00%
+2745,"Jounce Therapeutics, Inc.",0.00%
+2746,"Tilly's, Inc. Class A",0.00%
+2747,"Diamond Hill Investment Group, Inc.",0.00%
+2748,"PlayAGS, Inc.",0.00%
+2749,"Maui Land & Pineapple Company, Inc.",0.00%
+2750,"Cyclerion Therapeutics,Inc.",0.00%
+2751,"Applied Therapeutics, Inc.",0.00%
+2752,"Checkpoint Therapeutics, Inc.",0.00%
+2753,"Rafael Holdings, Inc. Class B",0.00%
+2754,"DHI Group, Inc.",0.00%
+2755,"Atlantic Capital Bancshares, Inc.",0.00%
+2756,Ryerson Holding Corporation,0.00%
+2757,ZAGG Inc,0.00%
+2758,ExOne Co.,0.00%
+2759,Energous Corp.,0.00%
+2760,"Colony Bankcorp, Inc.",0.00%
+2761,Ellington Residential Mortgage REIT,0.00%
+2762,Gulfport Energy Corporation,0.00%
+2763,FedNat Holding Company,0.00%
+2764,"Ring Energy, Inc.",0.00%
+2765,Five Star Senior Living Inc,0.00%
+2766,First United Corporation,0.00%
+2767,"Quad/Graphics, Inc. Class A",0.00%
+2768,"Lifetime Brands, Inc.",0.00%
+2769,"CorEnergy Infrastructure Trust, Inc.",0.00%
+2770,"Frequency Electronics, Inc.",0.00%
+2771,"Ekso Bionics Holdings, Inc.",0.00%
+2772,"LiqTech International, Inc.",0.00%
+2773,Cambium Networks Corporation,0.00%
+2774,"ServiceSource International, Inc.",0.00%
+2775,"United Bancorp, Inc.",0.00%
+2776,"Enzo Biochem, Inc.",0.00%
+2777,Tellurian Inc.,0.00%
+2778,"Amyris, Inc.",0.00%
+2779,"Pzena Investment Management, Inc. Class A",0.00%
+2780,Entravision Communications Corporation Class A,0.00%
+2781,"Molecular Templates, Inc.",0.00%
+2782,"B. Riley Financial, Inc.",0.00%
+2783,"Barnes & Noble Education, Inc.",0.00%
+2784,"Spero Therapeutics, Inc.",0.00%
+2785,"MoneyGram International, Inc.",0.00%
+2786,United Insurance Holdings Corp.,0.00%
+2787,"Cabaletta Bio, Inc.",0.00%
+2788,American River Bankshares,0.00%
+2789,"Park City Group, Inc.",0.00%
+2790,"Computer Task Group, Incorporated",0.00%
+2791,Paratek Pharmaceuticals Inc,0.00%
+2792,PCTEL Inc,0.00%
+2793,"First Financial Northwest, Inc.",0.00%
+2794,Kopin Corporation,0.00%
+2795,Oportun Financial Corp.,0.00%
+2796,Tribune Publishing Co.,0.00%
+2797,"Zovio, Inc.",0.00%
+2798,"Hemisphere Media Group, Inc. Class A",0.00%
+2799,Centrus Energy Corp. Class A,0.00%
+2800,"Aldeyra Therapeutics, Inc.",0.00%
+2801,"Orion Group Holdings, Inc.",0.00%
+2802,"Riverview Bancorp, Inc.",0.00%
+2803,"Republic First Bancorp, Inc.",0.00%
+2804,"Mistras Group, Inc.",0.00%
+2805,Galectin Therapeutics Inc.,0.00%
+2806,"SharpSpring, Inc.",0.00%
+2807,"Alimera Sciences, Inc.",0.00%
+2808,DASAN Zhone Solutions Inc.,0.00%
+2809,Forte Biosciences Inc.,0.00%
+2810,"Palatin Technologies, Inc.",0.00%
+2811,"Vera Bradley, Inc.",0.00%
+2812,Pennsylvania Real Estate Investment Trust,0.00%
+2813,Cherry Hill Mortgage Investment Corp.,0.00%
+2814,"Celldex Therapeutics, Inc.",0.00%
+2815,"BuildABear Workshop, Inc.",0.00%
+2816,"Nicholas Financial, Inc.",0.00%
+2817,"Aduro BioTech, Inc.",0.00%
+2818,Carter Bank & Trust,0.00%
+2819,"Otonomy, Inc.",0.00%
+2820,IEC Electronics Corp.,0.00%
+2821,"Aquestive Therapeutics, Inc.",0.00%
+2822,Atlanticus Holdings Corp.,0.00%
+2823,Sharps Compliance Corp.,0.00%
+2824,"NantHealth, Inc.",0.00%
+2825,"Exagen, Inc.",0.00%
+2826,"AudioEye, Inc.",0.00%
+2827,"Spring Bank Pharmaceuticals, Inc.",0.00%
+2828,"HC2 Holdings, Inc.",0.00%
+2829,"Avenue Therapeutics, Inc.",0.00%
+2830,Key Tronic Corporation,0.00%
+2831,"Retractable Technologies, Inc.",0.00%
+2832,"Eton Pharmaceuticals, Inc.",0.00%
+2833,Security National Financial Corporation Class A,0.00%
+2834,Dawson Geophysical Company,0.00%
+2835,"RAPT Therapeutics, Inc.",0.00%
+2836,IDT Corporation Class B,0.00%
+2837,Crawford & Company Class B,0.00%
+2838,"BCB Bancorp, Inc.",0.00%
+2839,Bank of Commerce Holdings,0.00%
+2840,Ranpak Holdings Corp. Class A,0.00%
+2841,"Safeguard Scientifics, Inc.",0.00%
+2842,"MEI Pharma, Inc.",0.00%
+2843,"Manitex International, Inc.",0.00%
+2844,Aspira Women's Health Inc.,0.00%
+2845,"Manning & Napier, Inc. Class A",0.00%
+2846,"Postal Realty Trust, Inc. Class A",0.00%
+2847,"Perma-Fix Environmental Services, Inc.",0.00%
+2848,"Century Bancorp, Inc. Class A",0.00%
+2849,Amplify Energy Corp.,0.00%
+2850,"J. Alexander's Holdings, Inc. Class A",0.00%
+2851,"The Container Store Group, Inc.",0.00%
+2852,Community West Bancshares,0.00%
+2853,"Kindred Biosciences, Inc.",0.00%
+2854,"Clearside Biomedical, Inc.",0.00%
+2855,"Associated Capital Group, Inc. Class A",0.00%
+2856,La Jolla Pharmaceutical Company,0.00%
+2857,"NCS Multistage Holdings, Inc.",0.00%
+2858,"Exela Technologies, Inc.",0.00%
+2859,Rimini Street Inc Class A,0.00%
+2860,Select Bancorp Inc,0.00%
+2861,"Torchlight Energy Resources, Inc.",0.00%
+2862,"Reading International, Inc. Class A",0.00%
+2863,"22nd Century Group, Inc.",0.00%
+2864,Orgenesis Inc.,0.00%
+2865,Western Asset Mortgage Capital Corporation,0.00%
+2866,"MTBC, Inc.",0.00%
+2867,"TFF Pharmaceuticals, Inc.",0.00%
+2868,"Lineage Cell Therapeutics, Inc.",0.00%
+2869,Innodata Inc.,0.00%
+2870,"Abeona Therapeutics, Inc.",0.00%
+2871,Daily Journal Corporation,0.00%
+2872,CorMedix Inc.,0.00%
+2873,"Envision Solar International, Inc.",0.00%
+2874,"Funko, Inc. Class A",0.00%
+2875,Drive Shack Inc.,0.00%
+2876,General Finance Corporation,0.00%
+2877,"Laredo Petroleum, Inc.",0.00%
+2878,"MicroVision, Inc.",0.00%
+2879,"Pixelworks, Inc.",0.00%
+2880,Marlin Business Services Corp.,0.00%
+2881,"Information Services Group, Inc.",0.00%
+2882,"U.S. Global Investors, Inc. Class A",0.00%
+2883,"Revlon, Inc. Class A",0.00%
+2884,"IDEAYA Biosciences, Inc.",0.00%
+2885,"AstroNova, Inc.",0.00%
+2886,Altus Midstream Co. Class A,0.00%
+2887,"Forum Energy Technologies, Inc.",0.00%
+2888,Exantas Capital Corp.,0.00%
+2889,Beyond Air Inc,0.00%
+2890,"Broadwind, Inc.",0.00%
+2891,Aeglea BioTherapeutics Inc,0.00%
+2892,Synalloy Corporation,0.00%
+2893,Leaf Group Ltd.,0.00%
+2894,"AgroFresh Solutions, Inc.",0.00%
+2895,Aptinyx Inc,0.00%
+2896,"Evofem Biosciences, Inc.",0.00%
+2897,United Security Bancshares,0.00%
+2898,Ultralife Corporation,0.00%
+2899,"Biomerica, Inc.",0.00%
+2900,Alerus Financial Corporation,0.00%
+2901,"Mayville Engineering Company, Inc.",0.00%
+2902,"United States Lime & Minerals, Inc.",0.00%
+2903,"Infinity Pharmaceuticals, Inc.",0.00%
+2904,"American Renal Associates Holdings, Inc.",0.00%
+2905,"Twin Disc, incorporated",0.00%
+2906,"Consumer Portfolio Services, Inc.",0.00%
+2907,Intellicheck Inc,0.00%
+2908,"Universal Stainless & Alloy Products, Inc.",0.00%
+2909,Altabancorp,0.00%
+2910,"PowerFleet, Inc.",0.00%
+2911,First National Corporation,0.00%
+2912,Riverview Financial Corp.,0.00%
+2913,"Hallmark Financial Services, Inc.",0.00%
+2914,"Hookipa Pharma, Inc.",0.00%
+2915,First Bank,0.00%
+2916,Travelzoo,0.00%
+2917,Abraxas Petroleum Corporation,0.00%
+2918,"Castlight Health, Inc. Class B",0.00%
+2919,"SCYNEXIS, Inc.",0.00%
+2920,Chiasma Inc,0.00%
+2921,Minerva Neurosciences Inc,0.00%
+2922,"Senseonics Holdings, Inc.",0.00%
+2923,Qumu Corporation,0.00%
+2924,"Severn Bancorp, Inc.",0.00%
+2925,"On Deck Capital, Inc.",0.00%
+2926,TESSCO Technologies Incorporated,0.00%
+2927,Investors Title Company,0.00%
+2928,Standard AVB Financial Corp,0.00%
+2929,"TELA Bio, Inc.",0.00%
+2930,"Lexicon Pharmaceuticals, Inc.",0.00%
+2931,Cedar Realty Trust Inc,0.00%
+2932,Veru Inc,0.00%
+2933,"First US Bancshares, Inc.",0.00%
+2934,"Neos Therapeutics, Inc.",0.00%
+2935,"AmeriServ Financial, Inc.",0.00%
+2936,"Lazydays Holdings, Inc.",0.00%
+2937,Applied Genetic Technologies Corp.,0.00%
+2938,Turtle Beach Corporation,0.00%
+2939,"Crown Crafts, Inc.",0.00%
+2940,"Identiv, Inc.",0.00%
+2941,"Rubius Therapeutics, Inc.",0.00%
+2942,Perma-Pipe International Holdings Inc,0.00%
+2943,"HyreCar, Inc.",0.00%
+2944,"Aware, Inc.",0.00%
+2945,"Lee Enterprises, Incorporated",0.00%
+2946,"Marchex, Inc. Class B",0.00%
+2947,"StarTek, Inc.",0.00%
+2948,"TransMedics Group, Inc.",0.00%
+2949,BK Technologies Corp.,0.00%
+2950,"Rekor Systems, Inc. Class B",0.00%
+2951,"CBM Bancorp, Inc.",0.00%
+2952,ContraFect Corp.,0.00%
+2953,Assertio Holdings Inc,0.00%
+2954,Natural Health Trends Corp.,0.00%
+2955,"Express, Inc.",0.00%
+2956,Babcock & Wilcox Enterprises Inc,0.00%
+2957,CASI Pharmaceuticals Inc,0.00%
+2958,"Core Molding Technologies, Inc.",0.00%
+2959,"Precision BioSciences, Inc.",0.00%
+2960,"AG Mortgage Investment Trust, Inc.",0.00%
+2961,"First Capital, Inc.",0.00%
+2962,"Champions Oncology, Inc.",0.00%
+2963,"TETRA Technologies, Inc.",0.00%
+2964,Houston Wire & Cable Company,0.00%
+2965,South Plains Financial Inc,0.00%
+2966,"Amtech Systems, Inc.",0.00%
+2967,"Nathan's Famous, Inc.",0.00%
+2968,"LogicBio Therapeutics, Inc.",0.00%
+2969,"Kaleido Biosciences, Inc.",0.00%
+2970,"Lifeway Foods, Inc.",0.00%
+2971,"GTY Technology Holdings, Inc.",0.00%
+2972,Osmotica Pharmaceuticals Plc,0.00%
+2973,TransAtlantic Petroleum Ltd.,0.00%
+2974,Pareteum Corporation,0.00%
+2975,"Kingstone Companies, Inc.",0.00%
+2976,"Sesen Bio, Inc.",0.00%
+2977,"Concrete Pumping Holdings, Inc. Class A",0.00%
+2978,"SeaChange International, Inc.",0.00%
+2979,Preformed Line Products Company,0.00%
+2980,"New Home Co., Inc.",0.00%
+2981,"Alphatec Holdings, Inc.",0.00%
+2982,"Friedman Industries, Incorporated",0.00%
+2983,"Braemar Hotels & Resorts, Inc.",0.00%
+2984,"ARC Document Solutions, Inc.",0.00%
+2985,"Chicken Soup for the Soul Entertainment, Inc. Class A",0.00%
+2986,Solid Biosciences Inc.,0.00%
+2987,"Chembio Diagnostics, Inc.",0.00%
+2988,"Zion Oil and Gas, Inc.",0.00%
+2989,"Lumos Pharma, Inc.",0.00%
+2990,"Richardson Electronics, Ltd.",0.00%
+2991,DiaMedica Therapeutics Inc.,0.00%
+2992,"Trevena, Inc.",0.00%
+2993,"India Globalization Capital, Inc.",0.00%
+2994,Vuzix Corporation,0.00%
+2995,TransAct Technologies Incorporated,0.00%
+2996,"Merrimack Pharmaceuticals, Inc.",0.00%
+2997,"Townsquare Media, Inc. Class A",0.00%
+2998,"Asure Software, Inc.",0.00%
+2999,"Galera Therapeutics, Inc.",0.00%
+3000,Red Lion Hotels Corporation,0.00%
+3001,"Infrastructure & Energy Alternatives, Inc.",0.00%
+3002,"BBQ Holdings, Inc.",0.00%
+3003,"Hennessy Advisors, Inc.",0.00%
+3004,Zynerba Pharmaceuticals Inc,0.00%
+3005,"Hunt Companies Finance Trust, Inc.",0.00%
+3006,"IsoRay, Inc.",0.00%
+3007,inTEST Corporation,0.00%
+3008,Acacia Research Corporation,0.00%
+3009,"Lantronix, Inc.",0.00%
+3010,"Griffin Industrial Realty, Inc. Class A",0.00%
+3011,"RigNet, Inc.",0.00%
+3012,"Eyenovia, Inc.",0.00%
+3013,Venus Concept Inc,0.00%
+3014,"Mammoth Energy Services, Inc.",0.00%
+3015,WidePoint Corporation,0.00%
+3016,"Huttig Building Products, Inc.",0.00%
+3017,"ClearPoint Neuro, Inc.",0.00%
+3018,Norwood Financial Corp.,0.00%
+3019,HighPoint Resources Corp.,0.00%
+3020,"Perceptron, Inc.",0.00%
+3021,"KLX Energy Services Holdings, Inc.",0.00%
+3022,Psychemedics Corporation,0.00%
+3023,Bellicum Pharmaceuticals Inc,0.00%
+3024,"Moleculin Biotech, Inc.",0.00%
+3025,Research Frontiers Incorporated,0.00%
+3026,Golden Minerals Company,0.00%
+3027,"FS Bancorp, Inc.",0.00%
+3028,"Bioanalytical Systems, Inc.",0.00%
+3029,"RF Industries, Ltd.",0.00%
+3030,"LSB Industries, Inc.",0.00%
+3031,"PAVmed, Inc.",0.00%
+3032,"Smith Micro Software, Inc.",0.00%
+3033,"Aridis Pharmaceuticals, Inc.",0.00%
+3034,"Mid-Southern Bancorp, Inc.",0.00%
+3035,Pacific Mercantile Bancorp,0.00%
+3036,Bank7 Corp.,0.00%
+3037,Conformis Inc,0.00%
+3038,"RGC Resources, Inc.",0.00%
+3039,"Cidara Therapeutics, Inc.",0.00%
+3040,"Communications Systems, Inc.",0.00%
+3041,Avalon GloboCare Corp.,0.00%
+3042,"ADMA Biologics, Inc.",0.00%
+3043,"Fulcrum Therapeutics, Inc.",0.00%
+3044,"Lonestar Resources US, Inc. Class A",0.00%
+3045,"1347 Property Insurance Holdings, Inc.",0.00%
+3046,Helius Medical Technologies Inc Class A,0.00%
+3047,"Soligenix, Inc.",0.00%
+3048,"Mastech Digital, Inc.",0.00%
+3049,Volitionrx Limited,0.00%
+3050,"Limbach Holdings, Inc.",0.00%
+3051,"Equillium, Inc.",0.00%
+3052,Ampco-Pittsburgh Corporation,0.00%
+3053,"SRAX, Inc. Class A",0.00%
+3054,Kura Sushi USA Inc Class A,0.00%
+3055,United States Antimony Corporation,0.00%
+3056,"Global Self Storage, Inc.",0.00%
+3057,"RealNetworks, Inc.",0.00%
+3058,"Odyssey Marine Exploration, Inc.",0.00%
+3059,"ONE Group Hospitality, Inc.",0.00%
+3060,Cumberland Pharmaceuticals Inc.,0.00%
+3061,Kingsway Financial Services Inc,0.00%
+3062,Aehr Test Systems,0.00%
+3063,Riot Blockchain Inc,0.00%
+3064,"Mohawk Group Holdings, Inc.",0.00%
+3065,"John Wiley & Sons, Inc. Class B",0.00%
+3066,NL Industries Inc,0.00%
+3067,"Organovo Holdings, Inc.",0.00%
+3068,"Auburn National Bancorporation, Inc.",0.00%
+3069,Data I/O Corporation,0.00%
+3070,"Cortexyme, Inc.",0.00%
+3071,Urban One Inc Class D,0.00%
+3072,"ClearOne, Inc.",0.00%
+3073,"INmune Bio, Inc.",0.00%
+3074,"electroCore, Inc.",0.00%
+3075,"Dyadic International, Inc.",0.00%
+3076,"AVEO Pharmaceuticals, Inc.",0.00%
+3077,"Bancorp 34, Inc.",0.00%
+3078,"Synacor, Inc.",0.00%
+3079,"Gulf Island Fabrication, Inc.",0.00%
+3080,"MainStreet Bancshares, Inc.",0.00%
+3081,"Image Sensing Systems, Inc.",0.00%
+3082,"Phunware, Inc.",0.00%
+3083,EMCORE Corporation,0.00%
+3084,"SandRidge Energy, Inc.",0.00%
+3085,C&F Financial Corporation,0.00%
+3086,"Evans Bancorp, Inc.",0.00%
+3087,"P.A.M. Transportation Services, Inc.",0.00%
+3088,Chemung Financial Corporation,0.00%
+3089,A.H. Belo Corporation Class A,0.00%
+3090,"Evolus, Inc.",0.00%
+3091,"Streamline Health Solutions, Inc.",0.00%
+3092,"Maiden Holdings, Ltd.",0.00%
+3093,"HireQuest, Inc.",0.00%
+3094,"Recro Pharma, Inc.",0.00%
+3095,"Coffee Holding Co., Inc.",0.00%
+3096,"Opiant Pharmaceuticals, Inc.",0.00%
+3097,"VistaGen Therapeutics, Inc.",0.00%
+3098,"NetSol Technologies, Inc.",0.00%
+3099,"CPI Aerostructures, Inc.",0.00%
+3100,"scPharmaceuticals, Inc.",0.00%
+3101,L.S. Starrett Company Class A,0.00%
+3102,"Rhinebeck Bancorp, Inc.",0.00%
+3103,"Acorda Therapeutics, Inc.",0.00%
+3104,"Hudson Technologies, Inc.",0.00%
+3105,eMagin Corporation,0.00%
+3106,"Trevi Therapeutics, Inc.",0.00%
+3107,"Rocky Mountain Chocolate Factory, Inc.",0.00%
+3108,"LightPath Technologies, Inc. Class A",0.00%
+3109,Franklin Financial Services Corporation,0.00%
+3110,"Alico, Inc.",0.00%
+3111,"Red Violet, Inc.",0.00%
+3112,"Dover Motorsports, Inc.",0.00%
+3113,CVD Equipment Corporation,0.00%
+3114,"Ramaco Resources, Inc.",0.00%
+3115,"PolarityTE, Inc.",0.00%
+3116,"Steel Connect, Inc.",0.00%
+3117,Neonode Inc.,0.00%
+3118,"One Stop Systems, Inc.",0.00%
+3119,"iMedia Brands, Inc. Class A",0.00%
+3120,"Marrone Bio Innovations, Inc.",0.00%
+3121,"Nine Energy Service, Inc.",0.00%
+3122,Educational Development Corporation,0.00%
+3123,"T2 Biosystems, Inc.",0.00%
+3124,Northeast Bank,0.00%
+3125,"Aqua Metals, Inc.",0.00%
+3126,"Charah Solutions, Inc.",0.00%
+3127,Community Financial Corporation,0.00%
+3128,"Condor Hospitality Trust, Inc.",0.00%
+3129,CF Bankshares Inc,0.00%
+3130,"Ashford Hospitality Trust, Inc.",0.00%
+3131,FFBW Inc,0.00%
+3132,S&W Seed Company,0.00%
+3133,"SigmaTron International, Inc.",0.00%
+3134,"VirTra, Inc.",0.00%
+3135,"Navidea Biopharmaceuticals, Inc.",0.00%
+3136,"Hudson Global, Inc.",0.00%
+3137,"Verb Technology Company, Inc.",0.00%
+3138,"Wireless Telecom Group, Inc.",0.00%
+3139,"Network-1 Technologies, Inc.",0.00%
+3140,Marine Products Corporation,0.00%
+3141,Ohio Valley Banc Corp.,0.00%
+3142,Performant Financial Corporation,0.00%
+3143,"Cassava Sciences, Inc.",0.00%
+3144,"Resonant, Inc.",0.00%
+3145,Forestar Group Inc.,0.00%
+3146,"Wayside Technology Group, Inc.",0.00%
+3147,"Nephros, Inc.",0.00%
+3148,"Curis, Inc.",0.00%
+3149,Biglari Holdings Inc. Class B,0.00%
+3150,Citizens Holding Company,0.00%
+3151,MIND Technology Inc,0.00%
+3152,Meridian Corporation,0.00%
+3153,Pangaea Logistics Solutions Ltd.,0.00%
+3154,Acme United Corporation,0.00%
+3155,"Community First Bancshares, Inc. (Georgia)",0.00%
+3156,"Profire Energy, Inc.",0.00%
+3157,"Aemetis, Inc.",0.00%
+3158,Cerecor Inc,0.00%
+3159,National Holdings Corporation,0.00%
+3160,Optical Cable Corporation,0.00%
+3161,"Idera Pharmaceuticals, Inc.",0.00%
+3162,"Anixa Biosciences, Inc.",0.00%
+3163,"Sypris Solutions, Inc.",0.00%
+3164,"Remark Holdings, Inc.",0.00%
+3165,CTI BioPharma Corp.,0.00%
+3166,U.S. Well Services Inc Class A,0.00%
+3167,"HV Bancorp, Inc.",0.00%
+3168,"Luby's, Inc.",0.00%
+3169,Sotherly Hotels Inc.,0.00%
+3170,"County Bancorp, Inc.",0.00%
+3171,"Landmark Bancorp, Inc.",0.00%
+3172,"Summer Infant, Inc.",0.00%
+3173,Bank of South Carolina Corporation,0.00%
+3174,"Mid Penn Bancorp, Inc.",0.00%
+3175,AutoWeb Inc,0.00%
+3176,Virco Mfg. Corporation,0.00%
+3177,"A-Mark Precious Metals, Inc.",0.00%
+3178,"Charles & Colvard, Ltd.",0.00%
+3179,"Union Bankshares, Inc.",0.00%
+3180,"CB Financial Services, Inc.",0.00%
+3181,"CBL & Associates Properties, Inc.",0.00%
+3182,"vTv Therapeutics, Inc. Class A",0.00%
+3183,"EyePoint Pharmaceuticals, Inc.",0.00%
+3184,"Vaxart, Inc.",0.00%
+3185,"ADDvantage Technologies Group, Inc.",0.00%
+3186,"Peoples Bancorp of North Carolina, Inc.",0.00%
+3187,IRIDEX Corporation,0.00%
+3188,"Eagle Bancorp Montana, Inc.",0.00%
+3189,CIM Commercial Trust Corporation,0.00%
+3190,"MICT, Inc.",0.00%
+3191,Genesis Healthcare Inc Class A,0.00%
+3192,"Larimar Therapeutics, Inc.",0.00%
+3193,"Ballantyne Strong, Inc.",0.00%
+3194,Francesca's Holdings Corporation,0.00%
+3195,Akerna Corp.,0.00%
+3196,"Greene County Bancorp, Inc.",0.00%
+3197,"RCM Technologies, Inc.",0.00%
+3198,"Super League Gaming, Inc.",0.00%
+3199,Quest Resource Holding Corp.,0.00%
+3200,Tremont Mortgage Trust,0.00%
+3201,"1895 Bancorp of Wisconsin, Inc.",0.00%
+3202,"Vaccinex, Inc.",0.00%
+3203,Northern Technologies International Corporation,0.00%
+3204,ION Geophysical Corporation,0.00%
+3205,"Adams Resources & Energy, Inc.",0.00%
+3206,"Dixie Group, Inc.",0.00%
+3207,"Caladrius Biosciences, Inc.",0.00%
+3208,"Howard Bancorp, Inc.",0.00%
+3209,"ICC Holdings, Inc.",0.00%
+3210,"Great Elm Capital Group, Inc.",0.00%
+3211,First Seacoast Bancorp,0.00%
+3212,Capital Senior Living Corporation,0.00%
+3213,"Greenlane Holdings, Inc. Class A",0.00%
+3214,"Town Sports International Holdings, Inc.",0.00%
+3215,"AzurRx BioPharma, Inc.",0.00%
+3216,"Pro-Dex, Inc.",0.00%
+3217,Milestone Scientific Inc.,0.00%
+3218,"FlexShopper, Inc.",0.00%
+3219,"United Bancshares, Inc.",0.00%
+3220,Good Times Restaurants Inc.,0.00%
+3221,"FreightCar America, Inc.",0.00%
+3222,Forward Industries Inc.,0.00%
+3223,PrimeEnergy Resources Corporation,0.00%
+3224,"Fauquier Bankshares, Inc.",0.00%
+3225,"Priority Technology Holdings, Inc.",0.00%
+3226,"HMN Financial, Inc.",0.00%
+3227,First Internet Bancorp,0.00%
+3228,Old Point Financial Corporation,0.00%
+3229,"Fuel Tech, Inc.",0.00%
+3230,CPS Technologies Corporation,0.00%
+3231,"NACCO Industries, Inc. Class A",0.00%
+3232,"Contura Energy, Inc.",0.00%
+3233,"Energy Focus, Inc.",0.00%
+3234,Hallador Energy Co,0.00%
+3235,"Ranger Energy Services, Inc. Class A",0.00%
+3236,"9 Meters Biopharma, Inc.",0.00%
+3237,Bridgford Foods Corporation,0.00%
+3238,Cohen & Company Inc,0.00%
+3239,SB Financial Group Inc,0.00%
+3240,"Guaranty Federal Bancshares, Inc.",0.00%
+3241,"IF Bancorp, Inc.",0.00%
+3242,"iBio, Inc.",0.00%
+3243,ENGlobal Corporation,0.00%
+3244,Emerson Radio Corp.,0.00%
+3245,"Ocean Bio-Chem, Inc.",0.00%
+3246,Solitario Zinc Corp,0.00%
+3247,Espey Mfg. & Electronics Corp.,0.00%
+3248,BSQUARE Corporation,0.00%
+3249,"Allied Esports Entertainment, Inc.",0.00%
+3250,"Zedge, Inc. Class B",0.00%
+3251,"Support.com, Inc.",0.00%
+3252,QuickLogic Corporation,0.00%
+3253,"Impac Mortgage Holdings, Inc.",0.00%
+3254,"Destination XL Group, Inc.",0.00%
+3255,"Gray Television, Inc. Class A",0.00%
+3256,"Aravive, Inc.",0.00%
+3257,"X4 Pharmaceuticals, Inc.",0.00%
+3258,"General Moly, Inc.",0.00%
+3259,"First Savings Financial Group, Inc.",0.00%
+3260,Broadway Financial Corporation,0.00%
+3261,Eastside Distilling Inc,0.00%
+3262,"Pioneer Power Solutions, Inc.",0.00%
+3263,Middlefield Banc Corp.,0.00%
+3264,"Youngevity International, Inc.",0.00%
+3265,Otelco Inc. Class A,0.00%
+3266,"Salem Media Group, Inc. Class A",0.00%
+3267,Aptevo Therapeutics Inc,0.00%
+3268,"Jerash Holdings (US), Inc.",0.00%
+3269,Baudax Bio Inc,0.00%
+3270,"Orbital Energy Group, Inc.",0.00%
+3271,"Shiloh Industries, Inc.",0.00%
+3272,Summit State Bank,0.00%
+3273,"Actinium Pharmaceuticals, Inc.",0.00%
+3274,"Full House Resorts, Inc.",0.00%
+3275,"Volt Information Sciences, Inc.",0.00%
+3276,Air Industries Group,0.00%
+3277,"Biglari Holdings, Inc. Class A",0.00%
+3278,"Westell Technologies, Inc. Class A",0.00%
+3279,"CynergisTek, Inc.",0.00%
+3280,"Vertex Energy, Inc.",0.00%
+3281,SCWorx Corp.,0.00%
+3282,"Proteostasis Therapeutics, Inc.",0.00%
+3283,"Evolving Systems, Inc.",0.00%
+3284,"Bank of the James Financial Group, Inc.",0.00%
+3285,"Motus GI Holdings, Inc.",0.00%
+3286,NextDecade Corp.,0.00%
+3287,QAD Inc. Class B,0.00%
+3288,"NanoViricides, Inc.",0.00%
+3289,"Reed's, Inc.",0.00%
+3290,Paramount Gold Nevada Corp,0.00%
+3291,"IZEA Worldwide, Inc.",0.00%
+3292,"Lake Shore Bancorp, Inc.",0.00%
+3293,"Salisbury Bancorp, Inc.",0.00%
+3294,Canterbury Park Holding Corp,0.00%
+3295,"GSE Systems, Inc.",0.00%
+3296,Capstone Turbine Corporation,0.00%
+3297,Mackinac Financial Corporation,0.00%
+3298,"Novan, Inc.",0.00%
+3299,"Teligent, Inc.",0.00%
+3300,DLH Holdings Corp.,0.00%
+3301,"Rubicon Technology, Inc.",0.00%
+3302,"ALJ Regional Holdings, Inc.",0.00%
+3303,"Taylor Devices, Inc.",0.00%
+3304,Adamis Pharmaceuticals Corporation,0.00%
+3305,Elmira Savings Bank,0.00%
+3306,"Inuvo, Inc.",0.00%
+3307,"American Realty Investors, Inc.",0.00%
+3308,Cinedigm Corp,0.00%
+3309,Pathfinder Bancorp Inc,0.00%
+3310,"Sound Financial Bancorp, Inc.",0.00%
+3311,"TransEnterix, Inc.",0.00%
+3312,"SPAR Group, Inc.",0.00%
+3313,"Natural Alternatives International, Inc.",0.00%
+3314,NeuBase Therapeutics Inc,0.00%
+3315,"Transcontinental Realty Investors, Inc.",0.00%
+3316,Bowl America Incorporated Class A,0.00%
+3317,"Alpine Immune Sciences, Inc.",0.00%
+3318,CSP Inc.,0.00%
+3319,"JAKKS Pacific, Inc.",0.00%
+3320,"Insignia Systems, Inc.",0.00%
+3321,Live Ventures Inc,0.00%
+3322,ClearSign Technologies Corporation,0.00%
+3323,"Patriot Transportation Holding, Inc.",0.00%
+3324,"Home Federal Bancorp, Inc. of Louisiana",0.00%
+3325,"Magyar Bancorp, Inc.",0.00%
+3326,"Immunic, Inc.",0.00%
+3327,Glen Burnie Bancorp,0.00%
+3328,"FTS International, Inc.",0.00%
+3329,Oconee Federal Financial Corp.,0.00%
+3330,"Soliton, Inc.",0.00%
+3331,"Citizens Community Bancorp, Inc.",0.00%
+3332,EQUITY OTHER,0.00%
+3333,"AgeX Therapeutics, Inc.",0.00%
+3334,Seneca Foods Corporation Class B,0.00%
+3335,"Willamette Valley Vineyards, Inc.",0.00%
+3336,Emclaire Financial Corp.,0.00%
+3337,Kentucky First Federal Bancorp,0.00%
+3338,Power REIT,0.00%
+3339,"Sonoma Pharmaceuticals, Inc.",0.00%
+3340,"J.Jill, Inc.",0.00%
+3341,"Value Line, Inc.",0.00%
+3342,"Limestone Bancorp, Inc.",0.00%
+3343,OncoSec Medical Incorporated,0.00%
+3344,Issuer Direct Corporation,0.00%
+3345,"Document Security Systems, Inc.",0.00%
+3346,"Nova Lifestyle, Inc.",0.00%
+3347,Vince Holding Corp.,0.00%
+3348,"Overseas Shipholding Group, Inc. Class A",0.00%
+3349,"Air T, Inc.",0.00%
+3350,Ideal Power Inc.,0.00%
+3351,"Iconix Brand Group, Inc.",0.00%
+3352,"Mannatech, Incorporated",0.00%
+3353,Comstock Mining Inc.,0.00%
+3354,Jewett-Cameron Trading Company Ltd.,0.00%
+3355,"Second Sight Medical Products, Inc.",0.00%
+3356,ImmuCell Corporation,0.00%
+3357,AMCON Distributing Company,0.00%
+3358,Mediaco Holding Inc Class A,0.00%
+3359,"Genocea Biosciences, Inc.",0.00%
+3360,"LGL Group, Inc.",0.00%
+3361,RiceBran Technologies,0.00%
+3362,Astrotech Corporation,0.00%
+3363,"Protara Therapeutics, Inc.",0.00%
+3364,"Manhattan Bridge Capital, Inc.",0.00%
+3365,CompX International Inc. Class A,0.00%
+3366,InterGroup Corporation,0.00%
+3367,Houston American Energy Corp.,0.00%
+3368,"Capricor Therapeutics, Inc.",0.00%
+3369,"Medley Management, Inc. Class A",0.00%
+3370,"Superior Drilling Products, Inc.",0.00%
+3371,"Corvus Pharmaceuticals, Inc.",0.00%
+3372,Catabasis Pharmaceuticals Inc,0.00%
+3373,"Applied DNA Sciences, Inc.",0.00%
+3374,Village Bank and Trust Financial Corp.,0.00%
+3375,"P&F Industries, Inc. Class A",0.00%
+3376,AMREP Corporation,0.00%
+3377,"Flanigan's Enterprises, Inc.",0.00%
+3378,"Sequential Brands Group, Inc.",0.00%
+3379,Tecnoglass Inc.,0.00%
+3380,Digirad Corporation,0.00%
+3381,National Security Group Inc,0.00%
+3382,U.S. Energy Corp.,0.00%
+3383,Enservco Corporation,0.00%
+3384,"Independence Contract Drilling, Inc.",0.00%
+3385,WVS Financial Corp.,0.00%
+3386,Unico American Corporation,0.00%
+3387,"Altimmune, Inc.",0.00%
+3388,"Atlas Financial Holdings, Inc.",0.00%
+3389,Protective Insurance Corporation Class A,0.00%
+3390,Bel Fuse Inc. Class A,0.00%
+3391,Lightbridge Corporation,0.00%
+3392,Ark Restaurants Corp.,0.00%
+3393,Histogen Inc.,0.00%
+3394,"Qualigen Therapeutics, Inc.",0.00%
+3395,"HTG Molecular Diagnostics, Inc.",0.00%
+3396,"Rexahn Pharmaceuticals, Inc.",0.00%
+3397,Conifer Holdings Inc,0.00%
+3398,"BIOLASE, Inc.",0.00%
+3399,Kewaunee Scientific Corporation,0.00%
+3400,"Millendo Therapeutics, Inc.",0.00%
+3401,"Unique Fabricating, Inc.",0.00%
+3402,"Oblong, Inc.",0.00%
+3403,Chicago Rivet & Machine Co.,0.00%
+3404,"SIFCO Industries, Inc.",0.00%
+3405,Trans World Entertainment Corporation,0.00%
+3406,"Schmitt Industries, Inc.",0.00%
+3407,"Sunesis Pharmaceuticals, Inc.",0.00%
+3408,"ACRE Realty Investors, Inc.",0.00%
+3409,"CKX Lands, Inc.",0.00%
+3410,"Marin Software, Inc.",0.00%
+3411,"Wheeler Real Estate Investment Trust, Inc.",0.00%
+3412,"Usio, Inc.",0.00%
+3413,Taitron Components Incorporated Class A,0.00%
+3414,Ashford Inc.,0.00%
+3415,"STRATA Skin Sciences, Inc.",0.00%
+3416,"J.W. Mays, Inc.",0.00%
+3417,"Oncternal Therapeutics, Inc.",0.00%
+3418,Cyanotech Corporation,0.00%
+3419,"Digital Ally, Inc.",0.00%
+3420,"Rave Restaurant Group, Inc.",0.00%
+3421,"aTyr Pharma, Inc.",0.00%
+3422,"Cleveland BioLabs, Inc.",0.00%
+3423,APEX Global Brands Inc.,0.00%
+3424,American Shared Hospital Services,0.00%
+3425,Target Hospitality Corp.,0.00%
+3426,"Beasley Broadcast Group, Inc. Class A",0.00%
+3427,Atlantic American Corporation,0.00%
+3428,"GWG Holdings, Inc.",0.00%
+3429,"Cardiff Oncology, Inc.",0.00%
+3430,"Savara, Inc.",0.00%
+3431,"Biocept, Inc.",0.00%
+3432,"Sunworks, Inc.",0.00%
+3433,"PLx Pharma, Inc.",0.00%
+3434,"Income Opportunity Realty Investors, Inc.",0.00%
+3435,"Bio-Path Holdings, Inc.",0.00%
+3436,"Regional Health Properties, Inc.",0.00%
+3437,"JanOne, Inc.",0.00%
+3438,"Universal Security Instruments, Inc.",0.00%
+3439,Soleno Therapeutics Inc,0.00%
+3440,Trio-Tech International,0.00%
+3441,Urban One Inc Class A,0.00%
+3442,"Wilhelmina International, Inc.",0.00%
+3443,"Cemtrex, Inc.",0.00%
+3444,"TRACON Pharmaceuticals, Inc.",0.00%
+3445,Synlogic Inc,0.00%
+3446,Acer Therapeutics Inc.,0.00%
+3447,AIM ImmunoTech Inc.,0.00%
+3448,"Servotronics, Inc.",0.00%
+3449,"Tenax Therapeutics, Inc.",0.00%
+3450,OncoCyte Corp.,0.00%
+3451,"Reliv' International, Inc.",0.00%
+3452,"GEE Group, Inc.",0.00%
+3453,"Comstock Holding Companies, Inc. Class A",0.00%
+3454,"Electro-Sensors, Inc.",0.00%
+3455,"Marathon Patent Group, Inc.",0.00%
+3456,IKONICS Corporation,0.00%
+3457,PDS Biotechnology Corp.,0.00%
+3458,"Brickell Biotech, Inc.",0.00%
+3459,PEDEVCO Corp.,0.00%
+3460,"Achieve Life Sciences, Inc.",0.00%
+3461,"Oragenics, Inc.",0.00%
+3462,"Salarius Pharmaceuticals, Inc.",0.00%
+3463,"Cancer Genetics, Inc.",0.00%
+3464,"Dare Bioscience, Inc.",0.00%
+3465,Continental Materials Corporation,0.00%
+3466,"Arcadia Biosciences, Inc.",0.00%
+3467,"Art's-Way Manufacturing Co., Inc.",0.00%
+3468,"NTN Buzztime, Inc.",0.00%
+3469,AquaBounty Technologies Inc,0.00%
+3470,Regulus Therapeutics Inc.,0.00%
+3471,"NovaBay Pharmaceuticals, Inc.",0.00%
+3472,"Aethlon Medical, Inc.",0.00%
+3473,"Barnwell Industries, Inc.",0.00%
+3474,AeroCentury Corp.,0.00%
+3475,"Heat Biologics, Inc.",0.00%
+3476,"Advaxis, Inc.",0.00%
+3477,Hamilton Beach Brands Holding Co. Class A,0.00%
+3478,"Synthetic Biologics, Inc.",0.00%
+3479,"MoSys, Inc.",0.00%
+3480,Celsion Corporation,0.00%
+3481,MYOS RENS Technology Inc.,0.00%
+3482,"Net Element, Inc.",0.00%
+3483,"Titan Pharmaceuticals, Inc.",0.00%
+3484,"Patriot National Bancorp, Inc.",0.00%
+3485,Yunhong CTI Limited,0.00%
+3486,Amergent Hospitality Group Inc,0.00%
+3487,Zosano Pharma Corp.,0.00%
+3488,"ProPhase Labs, Inc.",0.00%
+3489,Alpha and Omega Semiconductor Limited,0.00%
+3490,"Hepion Pharmaceuticals, Inc.",0.00%
+3491,"Gevo, Inc.",0.00%
+3492,"XCel Brands, Inc.",0.00%
+3493,"XpresSpa Group, Inc.",0.00%
+3494,LM Funding America Inc,0.00%
+3495,"ARCA biopharma, Inc.",0.00%
+3496,Industrial Services America Inc,0.00%
+3497,"Catalyst Biosciences, Inc.",0.00%
+3498,"Flexsteel Industries, Inc.",0.00%
+3499,BankFinancial Corporation,0.00%
+3500,"EyeGate Pharmaceuticals, Inc.",0.00%
+3501,"Atossa Therapeutics, Inc.",0.00%
+3502,"Cyclacel Pharmaceuticals, Inc.",0.00%
+3503,"Culp, Inc.",0.00%
+3504,"Natural Gas Services Group, Inc.",0.00%
+3505,"Novus Therapeutics, Inc.",0.00%
+3506,"Miragen Therapeutics, Inc.",0.00%
+3507,Microbot Medical Inc,0.00%
+3508,"Xtant Medical Holdings, Inc.",0.00%
+3509,"Nxt-ID, Inc.",0.00%
+3510,"Apollo Endosurgery, Inc.",0.00%
+3511,"Sonnet BioTherapeutics Holdings, Inc.",0.00%
+3512,"ThermoGenesis Holdings, Inc.",0.00%
+3513,Farmer Bros. Co.,0.00%
+3514,"Interpace Biosciences, Inc.",0.00%
+3515,"Seneca Biopharma, Inc.",0.00%
+3516,"Cellectar BioSciences, Inc.",0.00%
+3517,"Seelos Therapeutics, Inc.",0.00%
+3518,Ocugen Inc,0.00%
+3519,"Jaguar Health, Inc.",0.00%
+3520,AIkido Pharma Incorporated,0.00%
+3521,"Yield10 Bioscience, Inc.",0.00%
+3522,Onconova Therapeutics Inc.,0.00%
+3523,"SINTX Technologies, Inc.",0.00%
+3524,Timber Pharmaceuticals Inc,0.00%
+3525,"Plus Therapeutics, Inc.",0.00%
+3526,Westwater Resources Inc,0.00%
+3527,InVivo Therapeutics Holdings Corporation,0.00%
+3528,"NeuroMetrix, Inc.",0.00%
+3529,Pulmatrix Inc,0.00%
+3530,Phio Pharmaceuticals Corp.,0.00%
+3531,"Ocean Power Technologies, Inc.",0.00%
+3532,"Armata Pharmaceuticals, Inc.",0.00%
+3533,"Akers Biosciences, Inc.",0.00%
+3534,"Superconductor Technologies, Inc.",0.00%
+3535,"Vislink Technologies, Inc.",0.00%
+3536,Predictive Oncology Inc,0.00%
+3537,"SELLAS Life Sciences Group, Inc.",0.00%
+3538,Tonix Pharmaceuticals Holding Corp.,0.00%
+3539,"Avinger, Inc.",0.00%
+3540,"OpGen, Inc.",0.00%
+3541,"Hoth Therapeutics, Inc.",0.00%
+3542,Inpixon,0.00%

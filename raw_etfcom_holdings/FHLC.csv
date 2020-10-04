@@ -1,0 +1,404 @@
+,Name,Allocation
+0,Johnson & Johnson,8.39%
+1,UnitedHealth Group Incorporated,6.21%
+2,"Merck & Co., Inc.",4.49%
+3,Pfizer Inc.,4.48%
+4,Abbott Laboratories,3.76%
+5,Thermo Fisher Scientific Inc.,3.56%
+6,"AbbVie, Inc.",3.49%
+7,Bristol-Myers Squibb Company,2.93%
+8,Amgen Inc.,2.92%
+9,Medtronic Plc,2.76%
+10,Danaher Corporation,2.71%
+11,Eli Lilly and Company,2.68%
+12,"Gilead Sciences, Inc.",1.75%
+13,CVS Health Corporation,1.74%
+14,"Intuitive Surgical, Inc.",1.68%
+15,"Zoetis, Inc. Class A",1.57%
+16,"Anthem, Inc.",1.50%
+17,Vertex Pharmaceuticals Incorporated,1.47%
+18,"Becton, Dickinson and Company",1.46%
+19,Cigna Corporation,1.38%
+20,Stryker Corporation,1.33%
+21,"Regeneron Pharmaceuticals, Inc.",1.27%
+22,Humana Inc.,1.15%
+23,Boston Scientific Corporation,1.12%
+24,"Illumina, Inc.",1.08%
+25,Edwards Lifesciences Corporation,1.03%
+26,Biogen Inc.,1.01%
+27,Baxter International Inc.,0.88%
+28,"DexCom, Inc.",0.81%
+29,Centene Corporation,0.76%
+30,HCA Healthcare Inc,0.75%
+31,Veeva Systems Inc Class A,0.74%
+32,"IDEXX Laboratories, Inc.",0.68%
+33,"Agilent Technologies, Inc.",0.64%
+34,IQVIA Holdings Inc,0.63%
+35,"Zimmer Biomet Holdings, Inc.",0.59%
+36,ResMed Inc.,0.54%
+37,McKesson Corporation,0.51%
+38,Mettler-Toledo International Inc.,0.48%
+39,Cerner Corporation,0.47%
+40,"Alexion Pharmaceuticals, Inc.",0.46%
+41,"Align Technology, Inc.",0.46%
+42,"West Pharmaceutical Services, Inc.",0.42%
+43,"Seattle Genetics, Inc.",0.40%
+44,"Moderna, Inc.",0.38%
+45,"Hologic, Inc.",0.37%
+46,Laboratory Corporation of America Holdings,0.37%
+47,Incyte Corporation,0.36%
+48,Teleflex Incorporated,0.36%
+49,Quest Diagnostics Incorporated,0.33%
+50,"Teladoc Health, Inc.",0.33%
+51,"Varian Medical Systems, Inc.",0.33%
+52,"Alnylam Pharmaceuticals, Inc",0.32%
+53,AmerisourceBergen Corporation,0.32%
+54,"Cooper Companies, Inc.",0.31%
+55,"Cardinal Health, Inc.",0.30%
+56,Horizon Therapeutics Public Limited Company,0.30%
+57,State Str Instl Invt Tr Treaplu Inv Cl G,0.29%
+58,"ABIOMED, Inc.",0.29%
+59,Catalent Inc,0.28%
+60,BioMarin Pharmaceutical Inc.,0.28%
+61,Waters Corporation,0.28%
+62,Insulet Corporation,0.27%
+63,STERIS Plc,0.27%
+64,"PerkinElmer, Inc.",0.27%
+65,Exact Sciences Corporation,0.25%
+66,"Bio-Rad Laboratories, Inc. Class A",0.24%
+67,"Molina Healthcare, Inc.",0.24%
+68,Masimo Corporation,0.23%
+69,"Elanco Animal Health, Inc.",0.22%
+70,"Charles River Laboratories International, Inc.",0.22%
+71,"Sarepta Therapeutics, Inc.",0.22%
+72,"Neurocrine Biosciences, Inc.",0.21%
+73,Bio-Techne Corporation,0.21%
+74,"Avantor, Inc.",0.20%
+75,"Henry Schein, Inc.",0.20%
+76,"DENTSPLY SIRONA, Inc.",0.20%
+77,Quidel Corporation,0.19%
+78,"Universal Health Services, Inc. Class B",0.18%
+79,Mylan N.V.,0.17%
+80,Chemed Corporation,0.17%
+81,"Amedisys, Inc.",0.16%
+82,"Penumbra, Inc.",0.16%
+83,DaVita Inc.,0.16%
+84,"Immunomedics, Inc.",0.16%
+85,Repligen Corporation,0.16%
+86,Perrigo Co. Plc,0.15%
+87,"Novavax, Inc.",0.15%
+88,"Ionis Pharmaceuticals, Inc.",0.15%
+89,Jazz Pharmaceuticals Plc,0.15%
+90,"Exelixis, Inc.",0.14%
+91,NovoCure Ltd.,0.14%
+92,"PRA Health Sciences, Inc.",0.14%
+93,"Hill-Rom Holdings, Inc.",0.13%
+94,"LHC Group, Inc.",0.13%
+95,"Tandem Diabetes Care, Inc.",0.13%
+96,Encompass Health Corporation,0.13%
+97,"Momenta Pharmaceuticals, Inc.",0.12%
+98,Emergent BioSolutions Inc.,0.12%
+99,"iRhythm Technologies, Inc.",0.11%
+100,"Livongo Health, Inc.",0.11%
+101,"Guardant Health, Inc.",0.11%
+102,"MyoKardia, Inc.",0.10%
+103,"Ultragenyx Pharmaceutical, Inc.",0.10%
+104,United Therapeutics Corporation,0.10%
+105,CRISPR Therapeutics AG,0.10%
+106,Bruker Corporation,0.10%
+107,ACADIA Pharmaceuticals Inc.,0.09%
+108,"Natera, Inc.",0.09%
+109,Haemonetics Corporation,0.09%
+110,Acceleron Pharma Inc,0.09%
+111,Globus Medical Inc Class A,0.09%
+112,"Arrowhead Pharmaceuticals, Inc.",0.09%
+113,Mirati Therapeutics Inc.,0.09%
+114,Invitae Corp.,0.08%
+115,"NeoGenomics, Inc.",0.08%
+116,Nevro Corp.,0.08%
+117,Neogen Corporation,0.08%
+118,Wright Medical Group NV,0.08%
+119,HealthEquity Inc,0.08%
+120,Blueprint Medicines Corp.,0.08%
+121,"bluebird bio, Inc.",0.08%
+122,"Syneos Health, Inc. Class A",0.08%
+123,"Amicus Therapeutics, Inc.",0.08%
+124,"Arena Pharmaceuticals, Inc.",0.08%
+125,"Halozyme Therapeutics, Inc.",0.08%
+126,Envista Holdings Corp.,0.08%
+127,"Medpace Holdings, Inc.",0.08%
+128,Global Blood Therapeutics Inc,0.08%
+129,"ICU Medical, Inc.",0.07%
+130,Integra LifeSciences Holdings Corporation,0.07%
+131,Nektar Therapeutics,0.07%
+132,"FibroGen, Inc.",0.07%
+133,Adaptive Biotechnologies Corp.,0.07%
+134,Iovance Biotherapeutics Inc,0.07%
+135,Biohaven Pharmaceutical Holding Company Ltd.,0.07%
+136,"Ensign Group, Inc.",0.06%
+137,"Change Healthcare, Inc.",0.06%
+138,"Omnicell, Inc.",0.06%
+139,"NuVasive, Inc.",0.06%
+140,Insmed Incorporated,0.06%
+141,Alkermes Plc,0.06%
+142,"PTC Therapeutics, Inc.",0.06%
+143,"SAGE Therapeutics, Inc.",0.06%
+144,Denali Therapeutics Inc.,0.05%
+145,HMS Holdings Corp.,0.05%
+146,"Reata Pharmaceuticals, Inc. Class A",0.05%
+147,"Principia Biopharma, Inc.",0.05%
+148,"Pacira Biosciences, Inc.",0.05%
+149,"Agios Pharmaceuticals, Inc.",0.05%
+150,"Inspire Medical Systems, Inc.",0.05%
+151,Premier Inc. Class A,0.05%
+152,"AMN Healthcare Services, Inc.",0.05%
+153,"Merit Medical Systems, Inc.",0.05%
+154,"Acadia Healthcare Company, Inc.",0.05%
+155,Tenet Healthcare Corporation,0.05%
+156,"Turning Point Therapeutics, Inc.",0.05%
+157,CONMED Corporation,0.05%
+158,"Patterson Companies, Inc.",0.05%
+159,LivaNova Plc,0.05%
+160,Integer Holdings Corporation,0.05%
+161,"Covetrus, Inc.",0.05%
+162,"Editas Medicine, Inc.",0.05%
+163,"Chemocentryx, Inc.",0.05%
+164,"Fate Therapeutics, Inc.",0.05%
+165,"Axsome Therapeutics, Inc.",0.04%
+166,"Allakos, Inc.",0.04%
+167,"OPKO Health, Inc.",0.04%
+168,"Inovio Pharmaceuticals, Inc.",0.04%
+169,Select Medical Holdings Corporation,0.04%
+170,"Allogene Therapeutics, Inc.",0.04%
+171,Veracyte Inc,0.04%
+172,Cantel Medical Corp.,0.04%
+173,Twist Bioscience Corp.,0.04%
+174,Prestige Consumer Healthcare Inc,0.04%
+175,"TG Therapeutics, Inc.",0.04%
+176,Ligand Pharmaceuticals Incorporated,0.04%
+177,"Apellis Pharmaceuticals, Inc.",0.04%
+178,"Xencor, Inc.",0.04%
+179,"AtriCure, Inc.",0.04%
+180,"Inovalon Holdings, Inc. Class A",0.04%
+181,"Magellan Health, Inc.",0.03%
+182,STAAR Surgical Company,0.03%
+183,Glaukos Corp,0.03%
+184,"Ironwood Pharmaceuticals, Inc. Class A",0.03%
+185,"MEDNAX, Inc.",0.03%
+186,"Deciphera Pharmaceuticals, Inc.",0.03%
+187,"NanoString Technologies, Inc.",0.03%
+188,"Allscripts Healthcare Solutions, Inc.",0.03%
+189,"Avanos Medical, Inc.",0.03%
+190,"Silk Road Medical, Inc.",0.03%
+191,"Shockwave Medical, Inc.",0.03%
+192,"Cytokinetics, Incorporated",0.03%
+193,Addus HomeCare Corporation,0.03%
+194,Corcept Therapeutics Incorporated.,0.03%
+195,"CryoPort, Inc.",0.03%
+196,"BioTelemetry, Inc.",0.03%
+197,R1 RCM Inc,0.03%
+198,Luminex Corp,0.03%
+199,"CareDx, Inc.",0.03%
+200,"Sangamo Therapeutics, Inc.",0.03%
+201,"Revance Therapeutics, Inc.",0.03%
+202,uniQure N.V.,0.03%
+203,Heron Therapeutics Inc,0.03%
+204,"Cardiovascular Systems, Inc.",0.03%
+205,"Intercept Pharmaceuticals, Inc.",0.03%
+206,"MacroGenics, Inc.",0.03%
+207,"Dicerna Pharmaceuticals, Inc.",0.03%
+208,"Arcturus Therapeutics Holdings, Inc.",0.02%
+209,"Zogenix, Inc.",0.02%
+210,"Sorrento Therapeutics, Inc.",0.02%
+211,Providence Service Corporation,0.02%
+212,"Supernus Pharmaceuticals, Inc.",0.02%
+213,Cerus Corporation,0.02%
+214,"Akebia Therapeutics, Inc.",0.02%
+215,"Mesa Laboratories, Inc.",0.02%
+216,"U.S. Physical Therapy, Inc.",0.02%
+217,"Kodiak Sciences, Inc.",0.02%
+218,"Intra-Cellular Therapies, Inc.",0.02%
+219,"Myriad Genetics, Inc.",0.02%
+220,"Pacific Biosciences of California, Inc.",0.02%
+221,"Coherus BioSciences, Inc.",0.02%
+222,"Madrigal Pharmaceuticals, Inc.",0.02%
+223,"Kura Oncology, Inc.",0.02%
+224,Zymeworks Inc.,0.02%
+225,"Tabula Rasa Healthcare, Inc.",0.02%
+226,Evolent Health Inc Class A,0.02%
+227,Pennant Group Inc,0.02%
+228,Atrion Corporation,0.02%
+229,"Karuna Therapeutics, Inc.",0.02%
+230,"Owens & Minor, Inc.",0.02%
+231,"GenMark Diagnostics, Inc.",0.02%
+232,"Axonics Modulation Technologies, Inc.",0.02%
+233,"Simulations Plus, Inc.",0.02%
+234,"REGENXBIO, Inc.",0.02%
+235,"Arcus Biosciences, Inc.",0.02%
+236,"OraSure Technologies, Inc.",0.02%
+237,"Vocera Communications, Inc.",0.02%
+238,"Epizyme, Inc.",0.02%
+239,Atara Biotherapeutics Inc,0.02%
+240,"Schrodinger, Inc.",0.02%
+241,"Innoviva, Inc.",0.02%
+242,"Enanta Pharmaceuticals, Inc.",0.02%
+243,"Esperion Therapeutics, Inc.",0.02%
+244,"Y-mAbs Therapeutics, Inc.",0.02%
+245,CorVel Corporation,0.02%
+246,Theravance Biopharma Inc,0.02%
+247,"Intellia Therapeutics, Inc.",0.02%
+248,"Rocket Pharmaceuticals, Inc.",0.02%
+249,Adverum Biotechnologies Inc,0.02%
+250,"Mersana Therapeutics, Inc.",0.02%
+251,National HealthCare Corporation,0.02%
+252,Heska Corporation,0.02%
+253,"CryoLife, Inc.",0.02%
+254,National Research Corporation,0.02%
+255,Immunovant Inc,0.02%
+256,"Codexis, Inc.",0.02%
+257,"1Life Healthcare, Inc.",0.02%
+258,"BioCryst Pharmaceuticals, Inc.",0.02%
+259,Amphastar Pharmaceuticals Inc,0.01%
+260,"Gossamer Bio, Inc.",0.01%
+261,Quanterix Corporation,0.01%
+262,"Meridian Bioscience, Inc.",0.01%
+263,"RadNet, Inc.",0.01%
+264,"Hanger, Inc.",0.01%
+265,Omeros Corporation,0.01%
+266,"NextGen Healthcare, Inc.",0.01%
+267,Myovant Sciences Ltd.,0.01%
+268,"Assembly Biosciences, Inc.",0.01%
+269,"Tactile Systems Technology, Inc.",0.01%
+270,Cara Therapeutics Inc,0.01%
+271,Endo International Plc,0.01%
+272,"ImmunoGen, Inc.",0.01%
+273,"Karyopharm Therapeutics, Inc.",0.01%
+274,Vericel Corporation,0.01%
+275,"Retrophin, Inc.",0.01%
+276,"Translate Bio, Inc.",0.01%
+277,"PetIQ, Inc. Class A",0.01%
+278,Surmodics Inc,0.01%
+279,Dynavax Technologies Corporation,0.01%
+280,"Cortexyme, Inc.",0.01%
+281,"ZIOPHARM Oncology, Inc.",0.01%
+282,"Phreesia, Inc.",0.01%
+283,"Krystal Biotech, Inc.",0.01%
+284,OrthoPediatrics Corp.,0.01%
+285,"Tivity Health, Inc.",0.01%
+286,Natus Medical Incorporated,0.01%
+287,Vanda Pharmaceuticals Inc.,0.01%
+288,"HealthStream, Inc.",0.01%
+289,"Collegium Pharmaceutical, Inc.",0.01%
+290,"Springworks Therapeutics, Inc.",0.01%
+291,"BioXcel Therapeutics, Inc.",0.01%
+292,"Inogen, Inc.",0.01%
+293,Intersect ENT Inc,0.01%
+294,"Constellation Pharmaceuticals, Inc.",0.01%
+295,"Anika Therapeutics, Inc.",0.01%
+296,Radius Health Inc,0.01%
+297,"Alector, Inc.",0.01%
+298,"Orthofix Medical, Inc.",0.01%
+299,"Viking Therapeutics, Inc.",0.01%
+300,"Akero Therapeutics, Inc.",0.01%
+301,"Kadmon Holdings, Inc.",0.01%
+302,Aimmune Therapeutics Inc,0.01%
+303,Geron Corporation,0.01%
+304,Corbus Pharmaceuticals Holdings Inc,0.01%
+305,"LeMaitre Vascular, Inc.",0.01%
+306,Lantheus Holdings Inc,0.01%
+307,"Apollo Medical Holdings, Inc.",0.01%
+308,"Progyny, Inc.",0.01%
+309,"Arvinas, Inc.",0.01%
+310,"Flexion Therapeutics, Inc.",0.01%
+311,"Health Catalyst, Inc.",0.01%
+312,AVROBIO Inc,0.01%
+313,Relmada Therapeutics Inc,0.01%
+314,"Community Health Systems, Inc.",0.01%
+315,Brookdale Senior Living Inc.,0.01%
+316,Varex Imaging Corporation,0.01%
+317,"Ontrak, Inc.",0.01%
+318,"Provention Bio, Inc.",0.01%
+319,CEL-SCI Corporation,0.01%
+320,"Eagle Pharmaceuticals, Inc.",0.01%
+321,"Aerie Pharmaceuticals, Inc.",0.01%
+322,Triple-S Management Corporation Class B,0.01%
+323,"Rhythm Pharmaceuticals, Inc.",0.01%
+324,"Clovis Oncology, Inc.",0.01%
+325,Agenus Inc.,0.01%
+326,"Athersys, Inc.",0.01%
+327,"SI-BONE, Inc.",0.01%
+328,SmileDirectClub Inc Class A,0.01%
+329,"Rigel Pharmaceuticals, Inc.",0.01%
+330,"Athenex, Inc.",0.01%
+331,"Odonate Therapeutics, Inc.",0.01%
+332,"Revolution Medicines, Inc.",0.01%
+333,"Cue Biopharma, Inc.",0.01%
+334,"AnaptysBio, Inc.",0.01%
+335,"Antares Pharma, Inc.",0.01%
+336,Phibro Animal Health Corporation Class A,0.01%
+337,"Accelerate Diagnostics, Inc.",0.01%
+338,Kiniksa Pharmaceuticals Ltd. Class A,0.01%
+339,Option Care Health Inc,0.01%
+340,DURECT Corporation,0.01%
+341,"Spectrum Pharmaceuticals, Inc.",0.01%
+342,"G1 Therapeutics, Inc.",0.01%
+343,Tricida Inc,0.01%
+344,Eidos Therapeutics Inc,0.01%
+345,SIGA Technologies Inc,0.01%
+346,"BioDelivery Sciences International, Inc.",0.01%
+347,"Axogen, Inc.",0.01%
+348,Precigen Inc,0.01%
+349,"TherapeuticsMD, Inc.",0.01%
+350,Quotient Ltd.,0.01%
+351,"Co-Diagnostics, Inc.",0.01%
+352,"Puma Biotechnology, Inc.",0.01%
+353,"Amneal Pharmaceuticals, Inc. Class A",0.01%
+354,"PDL BioPharma, Inc.",0.01%
+355,"Castle Biosciences, Inc.",0.01%
+356,"Computer Programs and Systems, Inc.",0.01%
+357,BioSpecifics Technologies Corp.,0.01%
+358,"Surgery Partners, Inc.",0.01%
+359,"IGM Biosciences, Inc.",0.01%
+360,"Ardelyx, Inc.",0.01%
+361,Prothena Corp. Plc,0.01%
+362,"Neoleukin Therapeutics, Inc",0.01%
+363,Xenon Pharmaceuticals Inc.,0.01%
+364,"Beam Therapeutics, Inc.",0.01%
+365,"AngioDynamics, Inc.",0.01%
+366,"Applied Therapeutics, Inc.",0.01%
+367,"AMAG Pharmaceuticals, Inc.",0.01%
+368,"Catalyst Pharmaceuticals, Inc.",0.01%
+369,"Zynex, Inc.",0.01%
+370,"ANI Pharmaceuticals, Inc.",0.01%
+371,"Kala Pharmaceuticals, Inc.",0.01%
+372,"Phathom Pharmaceuticals, Inc.",0.01%
+373,"CytomX Therapeutics, Inc.",0.01%
+374,"Voyager Therapeutics, Inc.",0.01%
+375,"Vapotherm, Inc.",0.01%
+376,"Aprea Therapeutics, Inc.",0.01%
+377,"Black Diamond Therapeutics, Inc.",0.01%
+378,Arcutis Biotherapeutics Inc,0.01%
+379,"XBiotech, Inc.",0.01%
+380,"Homology Medicines, Inc.",0.01%
+381,"Repro Med Systems, Inc.",0.01%
+382,Scholar Rock Holding Corp.,0.01%
+383,"ViewRay, Inc.",0.01%
+384,"Replimune Group, Inc.",0.01%
+385,"Molecular Templates, Inc.",0.01%
+386,"Stoke Therapeutics, Inc.",0.00%
+387,Crinetics Pharmaceuticals Inc,0.00%
+388,"Akcea Therapeutics, Inc.",0.00%
+389,Wave Life Sciences Ltd.,0.00%
+390,U.S. Dollar,0.00%
+391,MeiraGTx Holdings Plc,0.00%
+392,"Precision BioSciences, Inc.",0.00%
+393,"Passage Bio, Inc.",0.00%
+394,"Calithera Biosciences, Inc.",0.00%
+395,"Lannett Company, Inc.",0.00%
+396,Merus N.V.,0.00%
+397,"Tilray, Inc.",0.00%
+398,"Atreca, Inc. Class A",0.00%
+399,"Rubius Therapeutics, Inc.",0.00%
+400,"Verastem, Inc.",0.00%
+401,"NextCure, Inc.",0.00%
+402,EQUITY OTHER,0.00%

@@ -1,0 +1,986 @@
+,Name,Allocation
+0,Nestle S.A.,3.58%
+1,Roche Holding AG,2.50%
+2,Novartis AG,1.84%
+3,SAP SE,1.68%
+4,ASML Holding NV,1.57%
+5,AstraZeneca PLC,1.47%
+6,LVMH Moet Hennessy Louis Vuitton SE,1.26%
+7,Novo Nordisk A/S Class B,1.17%
+8,Sanofi,1.16%
+9,Siemens AG,1.05%
+10,GlaxoSmithKline plc,1.00%
+11,Total SE,0.95%
+12,Allianz SE,0.89%
+13,HSBC Holdings Plc,0.88%
+14,Unilever NV,0.85%
+15,L'Oreal SA,0.83%
+16,Diageo plc,0.80%
+17,Air Liquide SA,0.78%
+18,British American Tobacco p.l.c.,0.76%
+19,Iberdrola SA,0.76%
+20,Enel SpA,0.74%
+21,BP p.l.c.,0.74%
+22,Reckitt Benckiser Group plc,0.70%
+23,Unilever PLC,0.69%
+24,Rio Tinto plc,0.69%
+25,Schneider Electric SE,0.67%
+26,Bayer AG,0.66%
+27,Royal Dutch Shell Plc Class A,0.61%
+28,Deutsche Telekom AG,0.59%
+29,adidas AG,0.58%
+30,Zurich Insurance Group Ltd,0.55%
+31,Royal Dutch Shell Plc Class B,0.53%
+32,BASF SE,0.53%
+33,VINCI SA,0.49%
+34,BHP Group Plc,0.48%
+35,Airbus SE,0.48%
+36,BNP Paribas SA Class A,0.48%
+37,ABB Ltd.,0.47%
+38,Koninklijke Philips N.V.,0.47%
+39,Lonza Group AG,0.46%
+40,Deutsche Post AG,0.44%
+41,Prosus N.V. Class N,0.44%
+42,Kering SA,0.44%
+43,UBS Group AG,0.44%
+44,RELX PLC,0.44%
+45,Daimler AG,0.43%
+46,Anheuser-Busch InBev SA/NV,0.43%
+47,Prudential plc,0.41%
+48,Danone SA,0.41%
+49,Munich Reinsurance Company,0.40%
+50,Vodafone Group Plc,0.40%
+51,National Grid plc,0.40%
+52,AXA SA,0.40%
+53,Givaudan SA,0.38%
+54,Safran S.A.,0.37%
+55,Vonovia SE,0.37%
+56,EssilorLuxottica SA,0.37%
+57,London Stock Exchange Group plc,0.36%
+58,Banco Santander S.A.,0.36%
+59,Pernod Ricard SA,0.36%
+60,Intesa Sanpaolo S.p.A.,0.35%
+61,Deutsche Boerse AG,0.35%
+62,Sika AG,0.35%
+63,Royal Ahold Delhaize N.V.,0.34%
+64,Telefonaktiebolaget LM Ericsson Class B,0.34%
+65,Compagnie Financiere Richemont SA,0.34%
+66,Experian PLC,0.33%
+67,Infineon Technologies AG,0.33%
+68,DSV Panalpina A/S,0.32%
+69,CRH Plc,0.31%
+70,ING Groep NV,0.31%
+71,Atlas Copco AB Class A,0.30%
+72,Adyen NV,0.30%
+73,Anglo American plc,0.30%
+74,Volkswagen AG Pref,0.30%
+75,"Industria de Diseno Textil, S.A.",0.29%
+76,Vestas Wind Systems A/S,0.29%
+77,Investor AB Class B,0.29%
+78,Tesco PLC,0.29%
+79,Kone Oyj Class B,0.29%
+80,U.S. Dollar,0.28%
+81,"Alcon, Inc.",0.28%
+82,Nokia Oyj,0.28%
+83,Volvo AB Class B,0.27%
+84,Credit Suisse Group AG,0.27%
+85,Koninklijke DSM N.V.,0.27%
+86,Orsted,0.26%
+87,Compass Group PLC,0.26%
+88,E.ON SE,0.26%
+89,Hermes International SCA,0.26%
+90,Lloyds Banking Group plc,0.26%
+91,Nordea Bank Abp,0.25%
+92,Genmab A/S,0.24%
+93,Flutter Entertainment Plc,0.24%
+94,Barclays PLC,0.24%
+95,ENGIE SA,0.24%
+96,Swiss Re AG,0.24%
+97,Ferrari NV,0.24%
+98,Vivendi SA,0.24%
+99,Eni S.p.A.,0.24%
+100,LafargeHolcim Ltd.,0.24%
+101,Dassault Systemes SA,0.24%
+102,Heineken NV,0.23%
+103,ASSA ABLOY AB Class B,0.23%
+104,Orange SA,0.23%
+105,Wolters Kluwer NV,0.23%
+106,RWE AG,0.22%
+107,Amadeus IT Group SA Class A,0.22%
+108,BAE Systems plc,0.22%
+109,Bayerische Motoren Werke AG,0.22%
+110,Sandvik AB,0.22%
+111,Ferguson Plc,0.22%
+112,Legrand SA,0.22%
+113,Glencore plc,0.22%
+114,Neste Corporation,0.21%
+115,Capgemini SE,0.21%
+116,Essity AB Class B,0.21%
+117,Geberit AG,0.21%
+118,Cellnex Telecom S.A.,0.21%
+119,Compagnie de Saint-Gobain SA,0.21%
+120,UniCredit S.p.A.,0.21%
+121,Telefonica SA,0.20%
+122,Kerry Group Plc Class A,0.20%
+123,Fresenius SE & Co. KGaA,0.19%
+124,Hexagon AB Class B,0.19%
+125,"Banco Bilbao Vizcaya Argentaria, S.A.",0.19%
+126,Coloplast A/S Class B,0.19%
+127,Akzo Nobel N.V.,0.19%
+128,Compagnie Generale des Etablissements Michelin SCA,0.19%
+129,STMicroelectronics NV,0.19%
+130,Partners Group Holding AG,0.19%
+131,Fresenius Medical Care AG & Co. KGaA,0.18%
+132,Teleperformance SE,0.18%
+133,Henkel AG & Co. KGaA Pref,0.18%
+134,Deutsche Bank AG,0.18%
+135,Deutsche Wohnen SE,0.18%
+136,SSE plc,0.18%
+137,Merck KGaA,0.18%
+138,Symrise AG,0.17%
+139,Legal & General Group Plc,0.17%
+140,Smith & Nephew plc,0.17%
+141,Sampo Oyj Class A,0.17%
+142,Ashtead Group plc,0.16%
+143,Equinor ASA,0.16%
+144,Assicurazioni Generali S.p.A.,0.16%
+145,Imperial Brands PLC,0.16%
+146,SGS SA,0.16%
+147,Skandinaviska Enskilda Banken AB Class A,0.15%
+148,Sartorius AG Pref,0.15%
+149,Svenska Handelsbanken AB Class A,0.15%
+150,DNB ASA,0.15%
+151,Atlas Copco AB Class B,0.15%
+152,UCB S.A.,0.15%
+153,UPM-Kymmene Oyj,0.15%
+154,Delivery Hero SE,0.15%
+155,Swedbank AB Class A,0.15%
+156,SEGRO plc,0.15%
+157,Ocado Group PLC,0.15%
+158,Carlsberg A/S Class B,0.15%
+159,Standard Chartered PLC,0.15%
+160,Swisscom AG,0.14%
+161,Aviva plc,0.14%
+162,EDP-Energias de Portugal SA,0.14%
+163,KBC Group N.V.,0.14%
+164,"Ferrovial, S.A.",0.13%
+165,Swedish Match AB,0.13%
+166,Swiss Life Holding AG,0.13%
+167,Sonova Holding AG,0.13%
+168,Rentokil Initial plc,0.13%
+169,Societe Generale S.A. Class A,0.13%
+170,H&M Hennes & Mauritz AB Class B,0.13%
+171,Intertek Group plc,0.13%
+172,Logitech International S.A.,0.13%
+173,Novozymes A/S Class B,0.12%
+174,Telenor ASA,0.12%
+175,Fiat Chrysler Automobiles N.V.,0.12%
+176,Kingspan Group Plc,0.12%
+177,Zalando SE,0.12%
+178,Repsol SA,0.12%
+179,Edenred SA,0.12%
+180,Worldline SA,0.12%
+181,Veolia Environnement SA,0.12%
+182,Chr. Hansen Holding A/S,0.12%
+183,QIAGEN NV,0.12%
+184,Continental AG,0.12%
+185,BT Group plc,0.12%
+186,Halma plc,0.12%
+187,Persimmon Plc,0.11%
+188,Credit Agricole SA,0.11%
+189,3i Group plc,0.11%
+190,Beiersdorf AG,0.11%
+191,Next plc,0.11%
+192,NN Group N.V.,0.11%
+193,Bunzl plc,0.11%
+194,Groupe Bruxelles Lambert SA,0.11%
+195,Danske Bank A/S,0.11%
+196,Sartorius Stedim Biotech SA,0.11%
+197,Snam S.p.A.,0.11%
+198,Sage Group plc,0.11%
+199,Eurofins Scientific Societe Europeenne,0.11%
+200,Terna S.p.A.,0.11%
+201,Alstom SA,0.11%
+202,Heineken Holding N.V.,0.11%
+203,Julius Baer Gruppe AG,0.10%
+204,Straumann Holding AG,0.10%
+205,arGEN-X SE,0.10%
+206,Spirax-Sarco Engineering PLC,0.10%
+207,Schindler Holding AG Pref,0.10%
+208,Peugeot SA,0.10%
+209,LEG Immobilien AG,0.10%
+210,Epiroc AB Class A,0.10%
+211,Kuehne & Nagel International AG,0.10%
+212,Telia Company AB,0.10%
+213,Chocoladefabriken Lindt & Spruengli AG,0.10%
+214,Temenos AG,0.10%
+215,Scout24 AG,0.10%
+216,WPP Plc,0.10%
+217,Hannover Ruck SE,0.10%
+218,Porsche Automobil Holding SE Pref,0.10%
+219,Croda International Plc,0.10%
+220,Ingenico Group SA,0.10%
+221,Henkel AG & Co. KGaA,0.10%
+222,NIBE Industrier AB Class B,0.10%
+223,Mowi ASA,0.10%
+224,Carrefour SA,0.09%
+225,A.P. Moller - Maersk A/S Class B,0.09%
+226,Aena SME SA,0.09%
+227,Brenntag AG,0.09%
+228,Chocoladefabriken Lindt & Spruengli AG Partizipsch.,0.09%
+229,Kinnevik AB Class B,0.09%
+230,GN Store Nord A/S,0.09%
+231,MTU Aero Engines AG,0.09%
+232,InterContinental Hotels Group PLC,0.09%
+233,Associated British Foods plc,0.09%
+234,Evolution Gaming Group AB,0.09%
+235,Mondi plc,0.09%
+236,Royal KPN NV,0.09%
+237,Umicore,0.09%
+238,FinecoBank SpA,0.09%
+239,HeidelbergCement AG,0.09%
+240,DCC Plc,0.09%
+241,Endesa S.A.,0.09%
+242,Just Eat Takeaway.com N.V.,0.09%
+243,Fortum Oyj,0.09%
+244,Thales SA,0.09%
+245,Red Electrica Corp. SA,0.09%
+246,Elisa Oyj Class A,0.08%
+247,Bouygues SA,0.08%
+248,Coca-Cola European Partners Plc,0.08%
+249,"Grifols, S.A. Class A",0.08%
+250,Atos SE,0.08%
+251,Adecco Group AG,0.08%
+252,ArcelorMittal SA,0.08%
+253,Baloise-Holding AG,0.08%
+254,Covestro AG,0.08%
+255,Atlantia S.p.A,0.08%
+256,Boliden AB,0.08%
+257,CaixaBank SA,0.08%
+258,Orkla ASA,0.08%
+259,Alfa Laval AB,0.08%
+260,Stora Enso Oyj Class R,0.08%
+261,Smurfit Kappa Group Plc,0.08%
+262,ageas SA/NV,0.08%
+263,Informa Plc,0.08%
+264,Burberry Group plc,0.08%
+265,Svenska Cellulosa Aktiebolaget Class B,0.08%
+266,CNH Industrial NV,0.08%
+267,Standard Life Aberdeen PLC,0.08%
+268,Kingfisher Plc,0.08%
+269,Yara International ASA,0.08%
+270,Arkema SA,0.07%
+271,Swiss Prime Site AG,0.07%
+272,Tele2 AB Class B,0.07%
+273,Ubisoft Entertainment SA,0.07%
+274,Berkeley Group Holdings plc,0.07%
+275,HelloFresh SE,0.07%
+276,Publicis Groupe SA,0.07%
+277,United Utilities Group PLC,0.07%
+278,ASM International N.V.,0.07%
+279,Severn Trent Plc,0.07%
+280,EMS-CHEMIE HOLDING AG,0.07%
+281,Eiffage SA,0.07%
+282,SKF AB Class B,0.07%
+283,Rightmove plc,0.07%
+284,Smiths Group Plc,0.07%
+285,Hargreaves Lansdown plc,0.07%
+286,Aroundtown SA,0.07%
+287,Auto Trader Group PLC,0.07%
+288,Barratt Developments PLC,0.07%
+289,Erste Group Bank AG,0.07%
+290,Skanska AB Class B,0.07%
+291,Moncler SpA,0.07%
+292,Vifor Pharma AG,0.07%
+293,PUMA SE,0.07%
+294,bioMerieux SA,0.07%
+295,Barry Callebaut AG,0.07%
+296,NatWest Group Plc,0.07%
+297,Euronext NV,0.07%
+298,Tecan Group AG,0.07%
+299,Volkswagen AG,0.07%
+300,Getlink SE,0.07%
+301,Siemens Healthineers AG,0.07%
+302,St. James's Place Plc,0.07%
+303,Valeo SA,0.07%
+304,Uniper SE,0.07%
+305,Admiral Group plc,0.07%
+306,Actividades de Construccion y Servicios SA,0.07%
+307,TeamViewer AG,0.07%
+308,Nexi S.p.A.,0.07%
+309,Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod,0.07%
+310,Recordati Industria Chimica e Farmaceutica S.p.A.,0.07%
+311,Bureau Veritas SA,0.07%
+312,Prysmian S.p.A.,0.06%
+313,Electricite de France SA,0.06%
+314,Sodexo SA,0.06%
+315,Rolls-Royce Holdings plc,0.06%
+316,Orpea SA,0.06%
+317,"Siemens Gamesa Renewable Energy, S.A.",0.06%
+318,Melrose Industries PLC,0.06%
+319,EXOR N.V.,0.06%
+320,Wm Morrison Supermarkets plc,0.06%
+321,Solvay SA,0.06%
+322,Galapagos NV,0.06%
+323,Pandora A/S,0.06%
+324,Whitbread PLC,0.06%
+325,Davide Campari-Milano N.V.,0.06%
+326,Swatch Group Ltd. Bearer,0.06%
+327,Randstad NV,0.06%
+328,Bechtle AG,0.06%
+329,Kesko Oyj Class B,0.06%
+330,Evonik Industries AG,0.06%
+331,Schindler Holding AG,0.06%
+332,B&M European Value Retail SA,0.06%
+333,Pearson PLC,0.06%
+334,Knorr-Bremse AG,0.06%
+335,Johnson Matthey Plc,0.06%
+336,M&G Plc,0.06%
+337,VAT Group AG,0.06%
+338,A.P. Moller - Maersk A/S Class A,0.06%
+339,IMCD N.V.,0.06%
+340,RSA Insurance Group plc,0.06%
+341,Gecina SA,0.06%
+342,Pennon Group Plc,0.06%
+343,Royal Unibrew A/S,0.06%
+344,Phoenix Group Holdings plc,0.06%
+345,Ambu A/S Class B,0.06%
+346,"Naturgy Energy Group, S.A.",0.06%
+347,GVC Holdings PLC,0.06%
+348,Antofagasta plc,0.06%
+349,Getinge AB Class B,0.06%
+350,Castellum AB,0.06%
+351,Epiroc AB Class B,0.06%
+352,Indutrade AB,0.06%
+353,SimCorp A/S,0.06%
+354,Commerzbank AG,0.06%
+355,KION GROUP AG,0.06%
+356,Taylor Wimpey plc,0.05%
+357,GEA Group Aktiengesellschaft,0.05%
+358,GALP Energia SGPS SA Class B,0.05%
+359,TOMRA Systems ASA,0.05%
+360,Enagas SA,0.05%
+361,Coca-Cola HBC AG,0.05%
+362,HomeServe plc,0.05%
+363,ASOS plc,0.05%
+364,Just Eat Takeaway.com N.V.,0.05%
+365,PSP Swiss Property AG,0.05%
+366,Mediobanca S.p.A.,0.05%
+367,Renault SA,0.05%
+368,Accor SA,0.05%
+369,TAG Immobilien AG,0.05%
+370,OMV AG,0.05%
+371,Sunrise Communications Group Ltd.,0.05%
+372,SIG Combibloc Group Ltd,0.05%
+373,Direct Line Insurance Group Plc,0.05%
+374,Orion Oyj Class B,0.05%
+375,LANXESS AG,0.05%
+376,Intermediate Capital Group plc,0.05%
+377,United Internet AG,0.05%
+378,Schroders PLC,0.05%
+379,Husqvarna AB Class B,0.05%
+380,ICA Gruppen AB,0.05%
+381,Land Securities Group PLC,0.05%
+382,Securitas AB Class B,0.05%
+383,Poste Italiane SpA,0.05%
+384,ASR Nederland NV,0.05%
+385,Hikma Pharmaceuticals Plc,0.05%
+386,DiaSorin S.p.A.,0.05%
+387,DS Smith Plc,0.05%
+388,Lundin Energy AB,0.05%
+389,Electrolux AB Class B,0.05%
+390,Cembra Money Bank AG,0.05%
+391,Aegon NV,0.05%
+392,Amundi SA,0.05%
+393,Banque Cantonale Vaudoise,0.05%
+394,Metso Outotec Oyj,0.05%
+395,Dechra Pharmaceuticals PLC,0.05%
+396,ams AG,0.05%
+397,SUEZ SA,0.05%
+398,Weir Group PLC,0.05%
+399,Warehouses De Pauw SCA,0.05%
+400,Industrivarden AB Class C,0.05%
+401,Carl Zeiss Meditec AG,0.05%
+402,Swedish Orphan Biovitrum AB,0.05%
+403,Avast Plc,0.05%
+404,Nemetschek SE,0.05%
+405,Adevinta ASA,0.05%
+406,Gjensidige Forsikring ASA,0.05%
+407,MorphoSys AG,0.05%
+408,Huhtamaki Oyj,0.05%
+409,BELIMO Holding AG,0.05%
+410,Amplifon S.p.A.,0.04%
+411,Electrocomponents plc,0.04%
+412,Galenica AG,0.04%
+413,Signify NV,0.04%
+414,Sweco AB Class B,0.04%
+415,Fastighets AB Balder Class B,0.04%
+416,EQT AB,0.04%
+417,Trelleborg AB Class B,0.04%
+418,Gerresheimer AG,0.04%
+419,Scor SE,0.04%
+420,Thule Group AB,0.04%
+421,Rubis SCA,0.04%
+422,J Sainsbury plc,0.04%
+423,Norsk Hydro ASA,0.04%
+424,AAK AB,0.04%
+425,Clariant AG,0.04%
+426,Games Workshop Group PLC,0.04%
+427,Sofina SA,0.04%
+428,Georg Fischer AG,0.04%
+429,Elekta AB Class B,0.04%
+430,Tate & Lyle PLC,0.04%
+431,SEB SA,0.04%
+432,Aalberts N.V.,0.04%
+433,Bellway p.l.c.,0.04%
+434,Howden Joinery Group PLC,0.04%
+435,Rheinmetall AG,0.04%
+436,Italgas SpA,0.04%
+437,Tritax Big Box REIT Plc,0.04%
+438,Spectris plc,0.04%
+439,Bollore SA,0.04%
+440,Covivio SA,0.04%
+441,AerCap Holdings NV,0.04%
+442,British Land Company PLC,0.04%
+443,ConvaTec Group Plc,0.04%
+444,Royal Vopak NV,0.04%
+445,JD Sports Fashion Plc,0.04%
+446,Schibsted ASA Class B,0.04%
+447,Travis Perkins plc,0.04%
+448,Remy Cointreau SA,0.04%
+449,BE Semiconductor Industries N.V.,0.04%
+450,Addtech AB Class B,0.04%
+451,Nokian Renkaat Oyj,0.04%
+452,AVEVA Group plc,0.04%
+453,UNITE Group plc,0.04%
+454,Ipsen SA,0.04%
+455,L E Lundbergforetagen AB Class B,0.04%
+456,Quilter Plc,0.04%
+457,Aedifica SA,0.04%
+458,IG Group Holdings plc,0.04%
+459,Allreal Holding AG,0.04%
+460,Cofinimmo SA,0.04%
+461,Jeronimo Martins SGPS SA,0.04%
+462,IMI plc,0.04%
+463,AF Poyry AB Class B,0.04%
+464,BillerudKorsnas AB,0.04%
+465,Elia Group SA/NV,0.04%
+466,Valmet Corp,0.04%
+467,Telecom Italia S.p.A.,0.04%
+468,ABN AMRO Bank NV Depositary receipts,0.04%
+469,Embracer Group AB Class B,0.04%
+470,VERBUND AG Class A,0.04%
+471,Tryg A/S,0.04%
+472,boohoo group Plc,0.04%
+473,ABCAM PLC,0.04%
+474,Etablissementen Franz Colruyt N.V.,0.04%
+475,Diploma PLC,0.04%
+476,Evotec SE,0.04%
+477,Beazley Plc,0.04%
+478,Holmen AB Class B,0.04%
+479,Bankinter SA,0.04%
+480,Lifco AB Class B,0.04%
+481,Derwent London plc,0.04%
+482,Rexel SA,0.04%
+483,Rotork plc,0.04%
+484,Centamin plc,0.04%
+485,Hiscox Ltd,0.04%
+486,Wienerberger AG,0.04%
+487,Hera S.p.A.,0.04%
+488,Genus plc,0.04%
+489,Dialog Semiconductor plc,0.04%
+490,Centrica plc,0.04%
+491,Sinch AB,0.04%
+492,Rockwool International A/S Class B,0.04%
+493,Netcompany Group A/S,0.04%
+494,Wartsila Oyj Abp,0.04%
+495,Soitec SA,0.03%
+496,Fuchs Petrolub SE Pref,0.03%
+497,"MERLIN Properties SOCIMI, S.A.",0.03%
+498,Dometic Group AB,0.03%
+499,Beijer Ref AB Class B,0.03%
+500,Fabege AB,0.03%
+501,freenet AG,0.03%
+502,Grainger plc,0.03%
+503,Grand City Properties SA,0.03%
+504,UDG Healthcare Plc,0.03%
+505,Helvetia Holding Ltd,0.03%
+506,Nordic Entertainment Group AB Class B,0.03%
+507,alstria office REIT-AG,0.03%
+508,Interpump Group S.p.A.,0.03%
+509,Klepierre SA,0.03%
+510,TietoEVRY Oyj,0.03%
+511,Demant A/S,0.03%
+512,Ackermans & van Haaren NV,0.03%
+513,Latour AB Investment Class B,0.03%
+514,Britvic plc,0.03%
+515,SalMar ASA,0.03%
+516,Millicom International Cellular SA Swedish Depository Receipt,0.03%
+517,Bayerische Motoren Werke AG Pref,0.03%
+518,Signature Aviation Plc,0.03%
+519,Bucher Industries AG,0.03%
+520,Faurecia SA,0.03%
+521,"Viscofan, S.A.",0.03%
+522,BKW AG,0.03%
+523,Fevertree Drinks PLC,0.03%
+524,NEL ASA,0.03%
+525,Ringkjoebing Landbobank A/S,0.03%
+526,Inchcape plc,0.03%
+527,Wihlborgs Fastigheter AB,0.03%
+528,Mobimo Holding AG,0.03%
+529,Bakkafrost P/F,0.03%
+530,Software AG,0.03%
+531,Marks and Spencer Group plc,0.03%
+532,Sopra Steria Group SA,0.03%
+533,Flughafen Zurich AG,0.03%
+534,Siegfried Holding AG,0.03%
+535,Acciona SA,0.03%
+536,La Francaise des Jeux SA,0.03%
+537,Proximus SA de droit public,0.03%
+538,Bravida Holding AB,0.03%
+539,Cranswick plc,0.03%
+540,LondonMetric Property Plc,0.03%
+541,Altice Europe NV Class A,0.03%
+542,Axfood AB,0.03%
+543,Aurubis AG,0.03%
+544,thyssenkrupp AG,0.03%
+545,Vontobel Holding AG,0.03%
+546,Corbion NV,0.03%
+547,Storebrand ASA,0.03%
+548,ALK-abello A/S Class B,0.03%
+549,Aeroports de Paris SA,0.03%
+550,Iliad SA,0.03%
+551,Deutsche Lufthansa AG,0.03%
+552,SES SA FDR (Class A),0.03%
+553,ITV PLC,0.03%
+554,voestalpine AG,0.03%
+555,Meggitt PLC,0.03%
+556,G4S plc,0.03%
+557,Wendel SE,0.03%
+558,SpareBank 1 SMN,0.03%
+559,Idorsia Ltd.,0.03%
+560,DKSH Holding AG,0.03%
+561,Lancashire Holdings Limited,0.03%
+562,Assura PLC,0.03%
+563,Tenaris S.A.,0.03%
+564,BAWAG Group AG,0.03%
+565,Buzzi Unicem S.p.A.,0.03%
+566,NATIXIS,0.03%
+567,Telefonica Deutschland Holding AG,0.03%
+568,Infrastrutture Wireless Italiane S.p.A.,0.03%
+569,Raiffeisen Bank International AG,0.03%
+570,IWG Plc,0.03%
+571,A2A S.p.A.,0.03%
+572,Unipol Gruppo S.p.A.,0.03%
+573,Saab AB Class B,0.03%
+574,Hays plc,0.03%
+575,Stillfront Group AB,0.03%
+576,Stroeer SE & Co. KGaA,0.03%
+577,Safestore Holdings plc,0.03%
+578,SBM Offshore NV,0.03%
+579,Primary Health Properties PLC,0.03%
+580,Elis SA,0.03%
+581,TP ICAP plc,0.03%
+582,Swatch Group Ltd. Registered,0.03%
+583,RATIONAL AG,0.03%
+584,Inmobiliaria Colonial SOCIMI SA,0.03%
+585,Alten SA,0.03%
+586,ISS A/S,0.03%
+587,Renishaw plc,0.03%
+588,Varta AG,0.03%
+589,Wallenstam AB Class B,0.03%
+590,H. Lundbeck A/S,0.03%
+591,QinetiQ Group plc,0.03%
+592,Hochtief AG,0.03%
+593,Dassault Aviation SA,0.03%
+594,Samhallsbyggnadsbolaget I Norden AB Class B,0.03%
+595,CTS Eventim AG & Co. KGaA,0.03%
+596,Serco Group plc,0.03%
+597,Shop Apotheke Europe NV,0.03%
+598,Ultra Electronics Holdings plc,0.03%
+599,Emmi AG,0.03%
+600,Banco BPM SpA,0.03%
+601,ANDRITZ AG,0.03%
+602,Spirent Communications plc,0.03%
+603,Rocket Internet SE,0.03%
+604,Big Yellow Group PLC,0.03%
+605,Banco de Sabadell SA,0.03%
+606,Glanbia Plc,0.03%
+607,Korian SA,0.03%
+608,Man Group PLC,0.03%
+609,CNP Assurances SA,0.03%
+610,GRENKE AG,0.03%
+611,CA Immobilien Anlagen AG,0.03%
+612,De'Longhi S.p.A.,0.03%
+613,CompuGroup Medical SE & Co. KGaA,0.03%
+614,Eurazeo SA,0.03%
+615,Reply S.p.A.,0.03%
+616,ProSiebenSat.1 Media SE,0.03%
+617,HEXPOL AB Class B,0.02%
+618,Entra ASA,0.02%
+619,JM AB,0.02%
+620,Leonardo SpA,0.02%
+621,Azimut Holding Spa,0.02%
+622,Softcat Plc,0.02%
+623,Telecom Italia Rsp,0.02%
+624,Keywords Studios plc,0.02%
+625,"MasMovil Ibercom, S.A.",0.02%
+626,dormakaba Holding AG,0.02%
+627,Network International Holdings Plc,0.02%
+628,ALSO Holding AG,0.02%
+629,Royal Mail plc,0.02%
+630,SoftwareONE Holding Ltd.,0.02%
+631,Forbo Holding AG,0.02%
+632,OC Oerlikon Corporation AG,0.02%
+633,Computacenter Plc,0.02%
+634,Ebro Foods SA,0.02%
+635,Victrex plc,0.02%
+636,Gaztransport & Technigaz SA,0.02%
+637,Moneysupermarket.com Group plc,0.02%
+638,John Laing Group Plc,0.02%
+639,Balfour Beatty plc,0.02%
+640,Zur Rose Group AG,0.02%
+641,Redes Energeticas Nacionais SA,0.02%
+642,Bachem Holding AG Class B,0.02%
+643,METRO AG,0.02%
+644,Mapfre SA,0.02%
+645,Grafton Group Plc,0.02%
+646,Jungheinrich AG Pref,0.02%
+647,SpareBank 1 SR-Bank ASA,0.02%
+648,Intrum AB,0.02%
+649,Ashmore Group plc,0.02%
+650,CANCOM SE,0.02%
+651,Evraz PLC,0.02%
+652,Bank of Ireland Group Plc,0.02%
+653,Icade SA,0.02%
+654,Interroll Holding AG,0.02%
+655,Valiant Holding AG,0.02%
+656,Close Brothers Group plc,0.02%
+657,Dunelm Group plc,0.02%
+658,Avanza Bank Holding AB,0.02%
+659,Sulzer AG,0.02%
+660,Neles Oyj,0.02%
+661,Jyske Bank A/S,0.02%
+662,Siltronic AG,0.02%
+663,Daetwyler Holding AG,0.02%
+664,SFS Group AG,0.02%
+665,Leroy Seafood Group ASA,0.02%
+666,Peab AB Class B,0.02%
+667,Trainline Plc,0.02%
+668,Stadler Rail AG,0.02%
+669,Countryside Properties Plc,0.02%
+670,SPIE SA,0.02%
+671,Hypoport SE,0.02%
+672,GB Group PLC,0.02%
+673,Intertrust NV,0.02%
+674,Kindred Group plc Shs Swedish Depository Receipts,0.02%
+675,Domino's Pizza Group plc,0.02%
+676,IntegraFin Holdings PLC,0.02%
+677,Vitrolife AB,0.02%
+678,ADO Properties S.A.,0.02%
+679,I.M.A. Industria Macchine Automatiche S.p.A.,0.02%
+680,Banca Generali S.p.A.,0.02%
+681,ERG S.p.A.,0.02%
+682,RWS Holdings plc,0.02%
+683,Durr AG,0.02%
+684,Eutelsat Communications SA,0.02%
+685,Konecranes Oyj,0.02%
+686,Great Portland Estates plc,0.02%
+687,WH Smith PLC,0.02%
+688,Topdanmark A/S,0.02%
+689,Kungsleden AB,0.02%
+690,John Wood Group PLC,0.02%
+691,Iren S.p.A.,0.02%
+692,Sixt SE,0.02%
+693,Nexity SA Class A,0.02%
+694,Future plc,0.02%
+695,Kemira Oyj,0.02%
+696,Telenet Group Holding NV,0.02%
+697,Plus500 Ltd.,0.02%
+698,Subsea 7 S.A.,0.02%
+699,Greggs plc,0.02%
+700,Marshalls plc,0.02%
+701,OSRAM Licht AG,0.02%
+702,Bavarian Nordic A/S,0.02%
+703,NCC AB Class B,0.02%
+704,Tamburi Investment Partners S.p.A.,0.02%
+705,William Hill PLC,0.02%
+706,Borregaard ASA,0.02%
+707,Nexans SA,0.02%
+708,KAZ Minerals PLC,0.02%
+709,AIB Group PLC,0.02%
+710,TKH Group N.V. Cert,0.02%
+711,Carnival plc,0.02%
+712,OneSavings Plc,0.02%
+713,Savills plc,0.02%
+714,Koninklijke Boskalis Westminster N.V.,0.02%
+715,Arcadis NV,0.02%
+716,Nolato AB Class B,0.02%
+717,Loomis AB,0.02%
+718,HUBER+SUHNER AG,0.02%
+719,Pets At Home Group Plc,0.02%
+720,SSAB AB Class B,0.02%
+721,Cerved Group SpA,0.02%
+722,Cargotec Oyj Class B,0.02%
+723,Vistry Group PLC,0.02%
+724,Fagron NV,0.02%
+725,Stabilus SA,0.02%
+726,Fortnox AB,0.02%
+727,AJ Bell Plc,0.02%
+728,JENOPTIK AG,0.02%
+729,Euronav NV,0.02%
+730,Kongsberg Gruppen ASA,0.02%
+731,Hufvudstaden AB Class A,0.02%
+732,Scatec Solar ASA,0.02%
+733,"Bankia, S.A.",0.02%
+734,TGS-NOPEC Geophysical Company ASA,0.02%
+735,Telecom Plus PLC,0.02%
+736,Nyfosa AB,0.02%
+737,Redrow plc,0.02%
+738,Imerys SA,0.02%
+739,JC Decaux SA,0.02%
+740,PageGroup PLC,0.02%
+741,HUGO BOSS AG,0.02%
+742,Aker ASA Class A,0.02%
+743,"Faes Farma, S.A.",0.02%
+744,Pirelli & C. S.p.A.,0.02%
+745,Melexis NV,0.02%
+746,S&T AG,0.02%
+747,NetEnt AB Class B,0.02%
+748,Essentra plc,0.02%
+749,Ascential Plc,0.02%
+750,Mycronic AB,0.02%
+751,OCI NV,0.02%
+752,Aggreko plc,0.02%
+753,Aperam SA,0.02%
+754,Blue Prism Group Plc,0.02%
+755,KBC Ancora SCA,0.02%
+756,ANIMA Holding S.p.A.,0.02%
+757,Daily Mail & General Trust plc Class A,0.02%
+758,TUI AG,0.02%
+759,Paragon Banking Group PLC,0.02%
+760,Uponor Oyj Class A,0.02%
+761,Fraport AG,0.02%
+762,Per Aarsleff Holding A/S Class B,0.02%
+763,SSP Group Plc,0.02%
+764,Societe BIC SA,0.02%
+765,Barco NV,0.02%
+766,Pandox AB Class B,0.02%
+767,Landis+Gyr Group AG,0.02%
+768,FLSmidth & Co. A/S,0.02%
+769,Wacker Chemie AG,0.02%
+770,"CIE Automotive, S.A.",0.02%
+771,AIXTRON SE,0.02%
+772,Saipem S.p.A.,0.02%
+773,Banca Popolare di Sondrio S.c.p.A.,0.02%
+774,"Zardoya Otis, S.A.",0.02%
+775,ABC arbitrage SA,0.02%
+776,Arjo AB Class B,0.02%
+777,DFDS A/S,0.02%
+778,Arbonia AG,0.02%
+779,Bodycote plc,0.02%
+780,Brembo S.p.A.,0.02%
+781,Metsa Board Oyj Class B,0.02%
+782,Grupo Catalana Occidente S.A.,0.02%
+783,Plastic Omnium SE,0.02%
+784,Telekom Austria AG,0.02%
+785,Dixons Carphone PLC,0.02%
+786,K+S AG,0.02%
+787,Playtech plc,0.02%
+788,Austevoll Seafood ASA,0.02%
+789,Synthomer PLC,0.02%
+790,YIT Oyj,0.02%
+791,Virgin Money UK Plc,0.02%
+792,ASTM S.p.A.,0.02%
+793,Drax Group plc,0.02%
+794,Indivior PLC,0.02%
+795,IMMOFINANZ AG,0.02%
+796,D'Ieteren SA,0.02%
+797,PostNL NV,0.02%
+798,Vicat-Ciments Vicat SA,0.02%
+799,Befimmo SA,0.02%
+800,Micro Focus International plc,0.02%
+801,Ipsos SA,0.02%
+802,Suedzucker AG,0.02%
+803,Mediclinic International Plc,0.02%
+804,Pfeiffer Vacuum Technology AG,0.02%
+805,Pharma Mar SA,0.02%
+806,Sanne Group PLC,0.02%
+807,Electrolux Professional AB Class B,0.02%
+808,Societa Cattolica di Assicurazioni - Societa Cooperativa,0.02%
+809,Banca Mediolanum SpA,0.02%
+810,Burckhardt Compression Holding AG,0.01%
+811,Acerinox SA,0.01%
+812,Hill & Smith Holdings PLC,0.01%
+813,Capital & Counties Properties PLC,0.01%
+814,Encavis AG,0.01%
+815,Osterreichische Post AG,0.01%
+816,Befesa SA,0.01%
+817,Agfa-Gevaert NV,0.01%
+818,Hastings Group Holdings Plc,0.01%
+819,APPLUS SERVICES S.A.,0.01%
+820,Aareal Bank AG,0.01%
+821,Vectura Group plc,0.01%
+822,Zealand Pharma A/S,0.01%
+823,Rathbone Brothers Plc,0.01%
+824,Sydbank A/S,0.01%
+825,NSI N.V.,0.01%
+826,Burford Capital Limited,0.01%
+827,Coface SA,0.01%
+828,RHI Magnesita NV,0.01%
+829,Coats Group plc,0.01%
+830,Flow Traders NV,0.01%
+831,Solutions 30 SE,0.01%
+832,Intervest Offices & Warehouses SA,0.01%
+833,Clinigen Group Plc,0.01%
+834,Technogym S.p.A,0.01%
+835,BPER Banca S.p.A.,0.01%
+836,J D Wetherspoon plc,0.01%
+837,Euskaltel SA,0.01%
+838,Banco Comercial Portugues S.A.,0.01%
+839,ENAV S.p.A.,0.01%
+840,"Casino, Guichard-Perrachon SA",0.01%
+841,Dufry AG,0.01%
+842,Frasers Group PLC,0.01%
+843,Bure Equity AB,0.01%
+844,Jupiter Fund Management plc,0.01%
+845,Ninety One Plc,0.01%
+846,Brewin Dolphin Holdings PLC,0.01%
+847,Vesuvius Plc,0.01%
+848,Bonava AB Class B,0.01%
+849,INDUS Holding AG,0.01%
+850,Euromoney Institutional Investor PLC,0.01%
+851,UNIQA Insurance Group AG,0.01%
+852,Compania de Distribucion Integral Logista Holdings S.A.,0.01%
+853,Neinor Homes SA,0.01%
+854,Nordic Semiconductor ASA,0.01%
+855,Greencore Group Plc,0.01%
+856,Hansa Biopharma AB,0.01%
+857,Credito Emiliano S.p.A.,0.01%
+858,"Corporacion Financiera Alba, S.A.",0.01%
+859,C&C Group Plc,0.01%
+860,Investec plc,0.01%
+861,Autogrill S.p.A.,0.01%
+862,Fnac Darty SA,0.01%
+863,St. Modwen Properties PLC,0.01%
+864,zooplus AG,0.01%
+865,PowerCell Sweden AB,0.01%
+866,NORMA Group SE,0.01%
+867,COMET Holding AG,0.01%
+868,Cairn Energy PLC,0.01%
+869,Basic-Fit NV,0.01%
+870,NOS SGPS SA,0.01%
+871,Polypipe Group PLC,0.01%
+872,Shaftesbury PLC,0.01%
+873,Nobia AB,0.01%
+874,Nordex SE,0.01%
+875,STRATEC SE,0.01%
+876,Spar Nord Bank A/S,0.01%
+877,Workspace Group PLC,0.01%
+878,Bekaert SA,0.01%
+879,easyJet plc,0.01%
+880,"Indra Sistemas, S.A. Class A",0.01%
+881,Victoria PLC,0.01%
+882,Ontex Group N.V.,0.01%
+883,Dart Group PLC,0.01%
+884,ITM Power PLC,0.01%
+885,National Express Group PLC,0.01%
+886,Navigator Company SA,0.01%
+887,ALD SA,0.01%
+888,Sacyr S.A.,0.01%
+889,Storytel AB Class B,0.01%
+890,Krones AG,0.01%
+891,Pharming Group NV,0.01%
+892,Draegerwerk AG & Co. KGaA,0.01%
+893,Provident Financial PLC,0.01%
+894,Babcock International Group PLC,0.01%
+895,SSAB AB Class A,0.01%
+896,Norwegian Finans Holding ASA,0.01%
+897,Sonae SGPS SA,0.01%
+898,888 Holdings Plc,0.01%
+899,Salvatore Ferragamo S.p.A.,0.01%
+900,Brunello Cucinelli S.p.A.,0.01%
+901,Frontline Ltd.,0.01%
+902,Immobiliare Grande Distribuzione SIIQ S.p.A.,0.01%
+903,Elior Group SA,0.01%
+904,Juventus Football Club S.p.A.,0.01%
+905,Vossloh AG,0.01%
+906,Deutsche Pfandbriefbank AG,0.01%
+907,Outokumpu Oyj,0.01%
+908,Boiron SA,0.01%
+909,Ascopiave S.p.A.,0.01%
+910,"Miquel y Costas & Miquel, S.A.",0.01%
+911,Lagardere SCA,0.01%
+912,Deutsche EuroShop AG,0.01%
+913,Petrofac Limited,0.01%
+914,Helical plc,0.01%
+915,Betsson AB Class B,0.01%
+916,Cairn Homes PLC,0.01%
+917,ChemoMetec A/S,0.01%
+918,Hochschild Mining plc,0.01%
+919,Bilfinger SE,0.01%
+920,Smart Metering Systems PLC,0.01%
+921,Caverion Oyj,0.01%
+922,CGG,0.01%
+923,TomTom NV,0.01%
+924,Air France-KLM SA,0.01%
+925,Ferrexpo plc,0.01%
+926,Aston Martin Lagonda Global Holdings plc,0.01%
+927,Global Dominion Access SA,0.01%
+928,Paradox Interactive AB,0.01%
+929,Prosegur Compania de Seguridad SA,0.01%
+930,BlackRock Cash Funds Treasury SL Agency Shares,0.01%
+931,Lenzing AG,0.01%
+932,Hunting PLC,0.01%
+933,Aryzta AG,0.01%
+934,TalkTalk Telecom Group PLC,0.01%
+935,Amadeus FiRe AG,0.01%
+936,Lar Espana Real Estate SOCIMI SA,0.01%
+937,Keller Group plc,0.01%
+938,Kambi Group plc Class B,0.01%
+939,Schoeller-Bleckmann Oilfield Equipment AG,0.01%
+940,AURELIUS Equity Opportunities SE & Co. KGaA,0.01%
+941,Crest Nicholson Holdings Plc,0.01%
+942,Cineworld Group plc,0.01%
+943,Dalata Hotel Group Plc,0.01%
+944,Implenia AG,0.01%
+945,Quadient SA,0.01%
+946,Redde Northgate PLC,0.01%
+947,FirstGroup plc,0.01%
+948,Liberbank SA,0.01%
+949,Capita plc,0.01%
+950,Restaurant Group plc,0.01%
+951,Elementis plc,0.01%
+952,DNO ASA Class A,0.01%
+953,MITIE Group PLC,0.01%
+954,Spire Healthcare Group PLC,0.01%
+955,Just Group plc,0.01%
+956,Cellectis SA,0.01%
+957,Econocom Group SE Class D,0.01%
+958,Marston's PLC,0.01%
+959,Tecnicas Reunidas SA,0.01%
+960,Equiniti Group Plc,0.01%
+961,Hammerson plc,0.01%
+962,Vallourec SA,0.01%
+963,Hexagon Composites ASA,0.01%
+964,INFICON Holding AG,0.01%
+965,McCarthy & Stone PLC,0.01%
+966,BW Offshore Limited,0.00%
+967,Fingerprint Cards AB Class B,0.00%
+968,Halfords Group Plc,0.00%
+969,Scandic Hotels Group AB,0.00%
+970,Forterra Plc,0.00%
+971,Wereldhave N.V.,0.00%
+972,TOD'S S.p.A.,0.00%
+973,Go-Ahead Group plc,0.00%
+974,LEONI AG,0.00%
+975,Hyve Group PLC,0.00%
+976,Senior plc,0.00%
+977,Stagecoach Group plc,0.00%
+978,DBV Technologies SA,0.00%
+979,Veidekke ASA,0.00%
+980,Saga plc,0.00%
+981,SAS AB,0.00%
+982,Norwegian Air Shuttle ASA,0.00%
+983,Ascopiave S.p.A. Rights 2020-30.09.20 For Shares,0.00%
+984,DERIVATIVE SECURITIES (OTHER),-0.00%

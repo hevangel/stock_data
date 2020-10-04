@@ -1,0 +1,637 @@
+,Name,Allocation
+0,AT&T Inc.,3.48%
+1,Verizon Communications Inc.,2.87%
+2,Pfizer Inc.,2.47%
+3,Exxon Mobil Corporation,2.45%
+4,"AbbVie, Inc.",2.37%
+5,Philip Morris International Inc.,2.15%
+6,Chevron Corporation,1.91%
+7,Coca-Cola Company,1.84%
+8,Altria Group Inc,1.82%
+9,"Cisco Systems, Inc.",1.59%
+10,Broadcom Inc.,1.55%
+11,International Business Machines Corporation,1.47%
+12,QUALCOMM Incorporated,1.37%
+13,Amgen Inc.,1.30%
+14,"United Parcel Service, Inc. Class B",1.12%
+15,3M Company,1.02%
+16,"Gilead Sciences, Inc.",0.98%
+17,Bristol-Myers Squibb Company,0.96%
+18,Wells Fargo & Company,0.91%
+19,Kraft Heinz Company,0.85%
+20,Dominion Energy Inc,0.77%
+21,China Mobile Limited,0.74%
+22,British American Tobacco p.l.c.,0.68%
+23,Total SE,0.66%
+24,Duke Energy Corporation,0.64%
+25,Southern Company,0.64%
+26,"DuPont de Nemours, Inc.",0.60%
+27,BP p.l.c.,0.58%
+28,Rio Tinto plc,0.58%
+29,GlaxoSmithKline plc,0.57%
+30,Morgan Stanley,0.55%
+31,BHP Group Ltd,0.53%
+32,Siemens AG,0.52%
+33,China Construction Bank Corporation Class H,0.52%
+34,Kimberly-Clark Corporation,0.49%
+35,Enbridge Inc.,0.48%
+36,"Williams Companies, Inc.",0.48%
+37,Crown Castle International Corp,0.48%
+38,Royal Dutch Shell Plc Class A,0.47%
+39,"NTT DoCoMo, Inc.",0.44%
+40,Enel SpA,0.44%
+41,Progressive Corporation,0.44%
+42,Daimler AG,0.43%
+43,Deutsche Telekom AG,0.43%
+44,Kinder Morgan Inc Class P,0.41%
+45,Iberdrola SA,0.41%
+46,"General Mills, Inc.",0.41%
+47,SoftBank Corp.,0.41%
+48,Commonwealth Bank of Australia,0.40%
+49,PACCAR Inc,0.40%
+50,Gazprom PJSC Sponsored ADR,0.40%
+51,Emerson Electric Co.,0.40%
+52,"CenturyLink, Inc.",0.39%
+53,BHP Group Plc,0.38%
+54,HP Inc.,0.37%
+55,Walgreens Boots Alliance Inc,0.36%
+56,Royal Bank of Canada,0.35%
+57,Allianz SE,0.35%
+58,CNOOC Limited,0.34%
+59,"American Electric Power Company, Inc.",0.34%
+60,Blackstone Group Inc. Class A,0.34%
+61,Truist Financial Corporation,0.34%
+62,"Hon Hai Precision Industry Co., Ltd.",0.34%
+63,Takeda Pharmaceutical Co. Ltd.,0.32%
+64,MMC Norilsk Nickel PJSC ADR,0.32%
+65,Equinor ASA,0.32%
+66,Bayer AG,0.32%
+67,Exelon Corporation,0.31%
+68,KDDI Corporation,0.31%
+69,Sberbank Russia PJSC Sponsored ADR,0.31%
+70,PPL Corporation,0.31%
+71,Industrial and Commercial Bank of China Limited Class H,0.30%
+72,Nordea Bank Abp,0.30%
+73,Cummins Inc.,0.30%
+74,BASF SE,0.30%
+75,Toronto-Dominion Bank,0.29%
+76,"MetLife, Inc.",0.29%
+77,TATNEFT PJSC Sponsored ADR,0.28%
+78,Japan Tobacco Inc.,0.28%
+79,Fortescue Metals Group Ltd,0.28%
+80,Oil company LUKOIL PJSC Sponsored ADR,0.28%
+81,Zurich Insurance Group Ltd,0.27%
+82,Bayerische Motoren Werke AG,0.27%
+83,Valero Energy Corporation,0.27%
+84,UBS Group AG,0.27%
+85,Public Storage,0.26%
+86,ABB Ltd.,0.26%
+87,Phillips 66,0.26%
+88,Archer-Daniels-Midland Company,0.25%
+89,"Prudential Financial, Inc.",0.25%
+90,"Simon Property Group, Inc.",0.25%
+91,Kellogg Company,0.25%
+92,National Grid plc,0.24%
+93,Public Service Enterprise Group Inc,0.24%
+94,Westpac Banking Corporation,0.24%
+95,Occidental Petroleum Corporation,0.24%
+96,Eni S.p.A.,0.24%
+97,Vodafone Group Plc,0.24%
+98,"Paychex, Inc.",0.23%
+99,Deutsche Post AG,0.23%
+100,Marathon Petroleum Corporation,0.23%
+101,AXA SA,0.23%
+102,"Digital Realty Trust, Inc.",0.22%
+103,National Australia Bank Limited,0.22%
+104,TC Energy Corporation,0.22%
+105,Endesa S.A.,0.22%
+106,BCE Inc.,0.22%
+107,Wesfarmers Limited,0.22%
+108,"Honda Motor Co., Ltd.",0.21%
+109,"Consolidated Edison, Inc.",0.21%
+110,International Paper Company,0.21%
+111,"Mitsubishi UFJ Financial Group, Inc.",0.21%
+112,China Petroleum & Chemical Corporation Class H,0.21%
+113,Anglo American plc,0.21%
+114,Entergy Corporation,0.20%
+115,Bank of China Limited Class H,0.20%
+116,Imperial Brands PLC,0.20%
+117,Singapore Telecommunications Limited,0.20%
+118,"Welltower, Inc.",0.20%
+119,Bank of Nova Scotia,0.19%
+120,Mitsubishi Corporation,0.19%
+121,Itochu Corporation,0.19%
+122,"Avangrid, Inc.",0.19%
+123,"Sumitomo Mitsui Financial Group, Inc.",0.18%
+124,Munich Reinsurance Company,0.18%
+125,"Cardinal Health, Inc.",0.18%
+126,Edison International,0.18%
+127,"Maxim Integrated Products, Inc.",0.18%
+128,Australia and New Zealand Banking Group Limited,0.18%
+129,Royal Ahold Delhaize N.V.,0.18%
+130,DTE Energy Company,0.17%
+131,State Street Corporation,0.17%
+132,Rio Tinto Limited,0.17%
+133,"ONEOK, Inc.",0.17%
+134,Orange SA,0.17%
+135,Halliburton Company,0.16%
+136,Realty Income Corporation,0.16%
+137,Kuehne & Nagel International AG,0.16%
+138,SSE plc,0.16%
+139,Bank of Montreal,0.16%
+140,Macquarie Group Limited,0.15%
+141,Canon Inc.,0.15%
+142,DBS Group Holdings Ltd,0.15%
+143,Nan Ya Plastics Corporation,0.15%
+144,Sampo Oyj Class A,0.15%
+145,"JAPAN POST HOLDINGS Co., Ltd.",0.15%
+146,BOC Hong Kong (Holdings) Limited,0.14%
+147,Telenor ASA,0.14%
+148,"Mizuho Financial Group, Inc.",0.14%
+149,Persimmon Plc,0.14%
+150,"Ventas, Inc.",0.14%
+151,Suncor Energy Inc.,0.14%
+152,CNA Financial Corporation,0.14%
+153,Canadian Imperial Bank of Commerce,0.14%
+154,"Iron Mountain, Inc.",0.14%
+155,Swisscom AG,0.14%
+156,Whirlpool Corporation,0.14%
+157,CITIC Limited,0.14%
+158,FirstEnergy Corp.,0.13%
+159,Campbell Soup Company,0.13%
+160,"Evergy, Inc.",0.13%
+161,Canadian Natural Resources Limited,0.13%
+162,E.ON SE,0.13%
+163,Nucor Corporation,0.13%
+164,Swiss Re AG,0.13%
+165,Formosa Plastics Corporation,0.13%
+166,Power Corporation of Canada,0.13%
+167,WisdomTree International High Dividend Fund,0.13%
+168,W. P. Carey Inc.,0.13%
+169,J.M. Smucker Company,0.13%
+170,"Gaming and Leisure Properties, Inc.",0.13%
+171,Formosa Chemicals & Fibre Corporation,0.13%
+172,Fortum Oyj,0.13%
+173,CLP Holdings Limited,0.12%
+174,"NetApp, Inc.",0.12%
+175,TELUS Corporation,0.12%
+176,Omnicom Group Inc,0.12%
+177,Hewlett Packard Enterprise Co.,0.12%
+178,Transurban Group Ltd.,0.12%
+179,Genuine Parts Company,0.12%
+180,Eastman Chemical Company,0.12%
+181,BAE Systems plc,0.12%
+182,Telstra Corporation Limited,0.12%
+183,"Healthpeak Properties, Inc.",0.12%
+184,"Chunghwa Telecom Co., Ltd",0.12%
+185,Danske Bank A/S,0.12%
+186,EQUITY OTHER,0.12%
+187,"Naturgy Energy Group, S.A.",0.12%
+188,"Mid-America Apartment Communities, Inc.",0.11%
+189,Telefonica SA,0.11%
+190,EDP-Energias de Portugal SA,0.11%
+191,WestRock Company,0.11%
+192,Telia Company AB,0.11%
+193,Aena SME SA,0.11%
+194,Komatsu Ltd.,0.11%
+195,Svenska Handelsbanken AB Class A,0.11%
+196,LafargeHolcim Ltd.,0.11%
+197,"CenterPoint Energy, Inc.",0.11%
+198,Western Union Company,0.11%
+199,"Hang Seng Bank, Limited",0.11%
+200,DNB ASA,0.11%
+201,Snam S.p.A.,0.11%
+202,Apollo Global Management Inc. Class A,0.11%
+203,POSCO,0.11%
+204,Vedanta Limited,0.11%
+205,"Bank of Communications Co., Ltd. Class H",0.11%
+206,Targa Resources Corp.,0.11%
+207,AES Corporation,0.10%
+208,Grupo Mexico S.A.B. de C.V. Class B,0.10%
+209,Newell Brands Inc,0.10%
+210,"Interpublic Group of Companies, Inc.",0.10%
+211,KeyCorp,0.10%
+212,Repsol SA,0.10%
+213,"Mega Financial Holding Co., Ltd.",0.10%
+214,Taiwan Cement Corp.,0.10%
+215,Fifth Third Bancorp,0.10%
+216,Continental AG,0.10%
+217,Antero Midstream Corp.,0.10%
+218,Quanta Computer Inc.,0.10%
+219,Extra Space Storage Inc.,0.10%
+220,Legal & General Group Plc,0.10%
+221,Oversea-Chinese Banking Corporation Limited,0.10%
+222,"Medical Properties Trust, Inc.",0.10%
+223,VICI Properties Inc,0.10%
+224,Fiat Chrysler Automobiles N.V.,0.10%
+225,Evraz PLC,0.10%
+226,Terna S.p.A.,0.10%
+227,Bridgestone Corporation,0.10%
+228,Pinnacle West Capital Corporation,0.10%
+229,CTBC Financial Holding Company Ltd.,0.09%
+230,UPM-Kymmene Oyj,0.09%
+231,SUBARU CORP,0.09%
+232,"Citizens Financial Group, Inc.",0.09%
+233,"Omega Healthcare Investors, Inc.",0.09%
+234,"Principal Financial Group, Inc.",0.09%
+235,Mobile TeleSystems PJSC Sponsored ADR,0.09%
+236,"Delta Electronics, Inc.",0.09%
+237,Manulife Financial Corporation,0.09%
+238,"Boston Properties, Inc.",0.09%
+239,Telefonica Deutschland Holding AG,0.09%
+240,Magnit PJSC Sponsored GDR RegS,0.09%
+241,Power Assets Holdings Limited,0.09%
+242,Regions Financial Corporation,0.09%
+243,Woodside Petroleum Ltd,0.09%
+244,Agricultural Bank of China Limited Class H,0.09%
+245,Red Electrica Corp. SA,0.09%
+246,Compagnie Generale des Etablissements Michelin SCA,0.09%
+247,Emera Incorporated,0.09%
+248,"VEREIT, Inc. Class A",0.09%
+249,CaixaBank SA,0.08%
+250,Sumitomo Corporation,0.08%
+251,Evonik Industries AG,0.08%
+252,China Steel Corporation,0.08%
+253,"Franklin Resources, Inc.",0.08%
+254,"Juniper Networks, Inc.",0.08%
+255,Anhui Conch Cement Company Limited Class H,0.08%
+256,Huntington Bancshares Incorporated,0.08%
+257,National Bank of Canada,0.08%
+258,Malayan Banking Bhd.,0.08%
+259,Great-West Lifeco Inc.,0.08%
+260,Shimao Group Holdings Limited,0.08%
+261,KB Financial Group Inc.,0.08%
+262,Apache Corporation,0.08%
+263,Pembina Pipeline Corporation,0.08%
+264,United Overseas Bank Ltd. (Singapore),0.08%
+265,Chemours Co.,0.08%
+266,"Taiwan Mobile Co., Ltd.",0.08%
+267,Country Garden Holdings Co. Ltd.,0.08%
+268,"ENEOS Holdings, Inc.",0.08%
+269,Asia Cement Corporation,0.08%
+270,"PTT Public Co., Ltd. NVDR",0.07%
+271,"Hengan International Group Co., Ltd.",0.07%
+272,Henderson Land Development Co. Ltd.,0.07%
+273,Equitrans Midstream Corp.,0.07%
+274,Assicurazioni Generali S.p.A.,0.07%
+275,Xinyi Glass Holdings Limited,0.07%
+276,PT Telekomunikasi Indonesia (Persero) Tbk. Class B,0.07%
+277,Elisa Oyj Class A,0.07%
+278,Spark New Zealand Limited,0.07%
+279,First Financial Holding Co. Ltd.,0.07%
+280,Lamar Advertising Company Class A,0.07%
+281,Rosneft Oil Co. Sponsored GDR RegS,0.07%
+282,"Sekisui House, Ltd.",0.07%
+283,Service Properties Trust,0.07%
+284,Pegatron Corporation,0.07%
+285,Admiral Group plc,0.07%
+286,Hanesbrands Inc.,0.07%
+287,Vornado Realty Trust,0.07%
+288,China Shenhua Energy Co. Ltd. Class H,0.07%
+289,Hydro One Limited,0.07%
+290,PetroChina Company Limited Class H,0.07%
+291,ABN AMRO Bank NV Depositary receipts,0.07%
+292,Mowi ASA,0.07%
+293,Hana Financial Group Inc.,0.07%
+294,"Steel Dynamics, Inc.",0.07%
+295,"MS&AD Insurance Group Holdings, Inc.",0.06%
+296,NN Group N.V.,0.06%
+297,"SK Telecom Co., Ltd.",0.06%
+298,Meridian Energy Limited,0.06%
+299,Poste Italiane SpA,0.06%
+300,"Healthcare Trust of America, Inc. Class A",0.06%
+301,"Leggett & Platt, Incorporated",0.06%
+302,Yuanta Financial Holding Co. Ltd.,0.06%
+303,"Harley-Davidson, Inc.",0.06%
+304,"SK Innovation Co., Ltd",0.06%
+305,Fosun International Limited,0.06%
+306,New World Development Co. Ltd.,0.06%
+307,Publicis Groupe SA,0.06%
+308,Actividades de Construccion y Servicios SA,0.06%
+309,Marubeni Corporation,0.06%
+310,Klabin SA Ctf de Deposito de Acoes Cons of 1 Sh + 4 Pfd Shs,0.06%
+311,KT & G Corporation,0.06%
+312,ageas SA/NV,0.06%
+313,"Compal Electronics, Inc.",0.06%
+314,Vodacom Group Limited,0.06%
+315,Aisin Seiki Co Ltd,0.06%
+316,Novatek Microelectronics Corp.,0.06%
+317,Comerica Incorporated,0.06%
+318,KWG Group Holdings Limited,0.06%
+319,"Fubon Financial Holding Co., Ltd.",0.06%
+320,Royal KPN NV,0.06%
+321,"Extended Stay America, Inc.",0.06%
+322,Kingboard Holdings Limited,0.06%
+323,Lite-On Technology Corp.,0.06%
+324,Camden Property Trust,0.06%
+325,CIMB Group Holdings Bhd,0.06%
+326,PCCW Limited,0.06%
+327,Gjensidige Forsikring ASA,0.06%
+328,Xerox Holdings Corporation,0.06%
+329,Phoenix Group Holdings plc,0.06%
+330,OGE Energy Corp.,0.06%
+331,Mitsubishi Chemical Holdings Corporation,0.06%
+332,AGL Energy Limited,0.05%
+333,Covestro AG,0.05%
+334,"Cohen & Steers, Inc.",0.05%
+335,Sinotruk Hong Kong Ltd.,0.05%
+336,Grupo Financiero Banorte SAB de CV Class O,0.05%
+337,FirstRand Limited,0.05%
+338,Yageo Corporation,0.05%
+339,"JAPAN POST INSURANCE Co., Ltd.",0.05%
+340,"Brixmor Property Group, Inc.",0.05%
+341,"National Retail Properties, Inc.",0.05%
+342,Veolia Environnement SA,0.05%
+343,Old Republic International Corporation,0.05%
+344,"New York Community Bancorp, Inc.",0.05%
+345,Suncorp Group Limited,0.05%
+346,H. Lundbeck A/S,0.05%
+347,Azimut Holding Spa,0.05%
+348,"Flowers Foods, Inc.",0.05%
+349,UnipolSai Assicurazioni S.p.A.,0.05%
+350,Macerich Company,0.05%
+351,STORE Capital Corporation,0.05%
+352,Aker BP ASA,0.05%
+353,Ingredion Incorporated,0.05%
+354,Shimizu Corporation,0.05%
+355,Magnitogorsk Iron & Steel Works PJSC Sponsored GDR Reg S,0.05%
+356,Kimco Realty Corporation,0.05%
+357,Sonoco Products Company,0.05%
+358,"China Minsheng Banking Corp., Ltd. Class H",0.05%
+359,Far Eastern New Century Corporation,0.05%
+360,CubeSmart,0.05%
+361,Nanya Technology Corporation,0.05%
+362,Longfor Group Holdings Ltd.,0.05%
+363,Erste Group Bank AG,0.05%
+364,"People's United Financial, Inc.",0.05%
+365,Solvay SA,0.05%
+366,"Park Hotels & Resorts, Inc.",0.05%
+367,Nine Dragons Paper Holdings Ltd.,0.05%
+368,"QTS Realty Trust, Inc. Class A",0.05%
+369,Regency Centers Corporation,0.05%
+370,"Sabra Health Care REIT, Inc.",0.05%
+371,U.S. Dollar,0.05%
+372,"American Financial Group, Inc.",0.05%
+373,Walsin Technology Corporation,0.04%
+374,United Utilities Group PLC,0.04%
+375,"American Campus Communities, Inc.",0.04%
+376,Stora Enso Oyj Class R,0.04%
+377,TFS Financial Corporation,0.04%
+378,Haseko Corporation,0.04%
+379,AusNet Services Limited,0.04%
+380,"Helmerich & Payne, Inc.",0.04%
+381,Mercury NZ Ltd.,0.04%
+382,"Great Wall Motor Co., Ltd. Class H",0.04%
+383,Icade SA,0.04%
+384,Proximus SA de droit public,0.04%
+385,"Kansai Electric Power Company, Incorporated",0.04%
+386,PacWest Bancorp,0.04%
+387,WisdomTree U.S. High Dividend Fund,0.04%
+388,Companhia Siderurgica Nacional,0.04%
+389,Bharat Petroleum Corporation Limited,0.04%
+390,Lundin Energy AB,0.04%
+391,"Weichai Power Co., Ltd. Class H",0.04%
+392,DiGi.Com Bhd,0.04%
+393,Standard Life Aberdeen PLC,0.04%
+394,Murphy Oil Corporation,0.04%
+395,Canadian Utilities Limited Class A,0.04%
+396,St. James's Place Plc,0.04%
+397,Unum Group,0.04%
+398,IGM Financial Inc.,0.04%
+399,Rayonier Inc.,0.04%
+400,Umpqua Holdings Corporation,0.04%
+401,"MSC Industrial Direct Co., Inc. Class A",0.04%
+402,"H&R Block, Inc.",0.04%
+403,"SinoPac Financial Holdings Co., Ltd.",0.04%
+404,Federal Realty Investment Trust,0.04%
+405,SJM Holdings Limited,0.04%
+406,GALP Energia SGPS SA Class B,0.04%
+407,Wistron Corporation,0.04%
+408,"Bankia, S.A.",0.04%
+409,Sunrise Communications Group Ltd.,0.04%
+410,Spark Infrastructure Group,0.04%
+411,Singapore Technologies Engineering Ltd,0.04%
+412,PT United Tractors Tbk,0.04%
+413,Delta Electronics (Thailand) Public Co. Ltd. NVDR,0.04%
+414,Sanlam Limited,0.04%
+415,Kesko Oyj Class B,0.04%
+416,SUEZ SA,0.04%
+417,"Samsung Fire & Marine Insurance Co., Ltd",0.04%
+418,Crown Resorts Limited,0.04%
+419,CNP Assurances SA,0.04%
+420,QBE Insurance Group Limited,0.04%
+421,Indian Oil Corp. Ltd.,0.04%
+422,Klepierre SA,0.04%
+423,First American Financial Corporation,0.04%
+424,Bank Leumi Le-Israel Ltd.,0.04%
+425,"Woori Financial Group, Inc.",0.04%
+426,China Jinmao Holdings Group Limited,0.04%
+427,Inter Pipeline Ltd.,0.04%
+428,Iskenderun Demir ve Celik AS,0.04%
+429,Coca-Cola Amatil Limited,0.04%
+430,Acea S.p.A.,0.04%
+431,CIFI Holdings (Group) Co. Ltd.,0.04%
+432,Apartment Investment & Management Co Class A,0.04%
+433,Bankinter SA,0.04%
+434,"Ryder System, Inc.",0.04%
+435,Imerys SA,0.04%
+436,Pou Chen Corporation,0.04%
+437,"Highwoods Properties, Inc.",0.04%
+438,Covivio SA,0.04%
+439,Kumba Iron Ore Limited,0.04%
+440,"National Health Investors, Inc.",0.04%
+441,"PLDT, Inc.",0.04%
+442,Seiko Epson Corp.,0.04%
+443,Sino Land Co. Ltd.,0.04%
+444,Sojitz Corp.,0.04%
+445,"Santander Consumer USA Holdings, Inc.",0.04%
+446,Hochtief AG,0.04%
+447,"Piedmont Office Realty Trust, Inc. Class A",0.04%
+448,Cabot Corporation,0.03%
+449,Ford Otomotiv Sanayi A.S.,0.03%
+450,"Mebuki Financial Group, Inc.",0.03%
+451,Transmissora Alianca De Energia Eletrica S.A. Unit,0.03%
+452,OUTFRONT Media Inc.,0.03%
+453,Societe BIC SA,0.03%
+454,Genting Singapore Limited,0.03%
+455,Valeo SA,0.03%
+456,"Mitsubishi Gas Chemical Company, Inc.",0.03%
+457,"Trinity Industries, Inc.",0.03%
+458,"Cullen/Frost Bankers, Inc.",0.03%
+459,Siam Cement Public Co. Ltd. NVDR,0.03%
+460,Bharti Infratel Ltd.,0.03%
+461,CoreSite Realty Corporation,0.03%
+462,Itau Unibanco Holding S.A.,0.03%
+463,"Guangzhou Automobile Group Co., Ltd. Class H",0.03%
+464,NetLink NBN Trust,0.03%
+465,"Nu Skin Enterprises, Inc. Class A",0.03%
+466,Topdanmark A/S,0.03%
+467,African Rainbow Minerals Limited,0.03%
+468,Schroders PLC,0.03%
+469,Colbun S.A.,0.03%
+470,"Spectrum Brands Holdings, Inc.",0.03%
+471,Ares Management Corporation,0.03%
+472,Valley National Bancorp,0.03%
+473,Old Mutual Ltd.,0.03%
+474,NorthWestern Corporation,0.03%
+475,Powertech Technology Inc.,0.03%
+476,NSK Ltd.,0.03%
+477,"Yamaha Motor Co., Ltd.",0.03%
+478,Adecco Group AG,0.03%
+479,"Spirit Realty Capital, Inc.",0.03%
+480,Power Grid Corporation of India Limited,0.03%
+481,Mediobanca S.p.A.,0.03%
+482,Siltronic AG,0.03%
+483,"China Vanke Co., Ltd Class H",0.03%
+484,China Communications Construction Co. Ltd. Class H,0.03%
+485,NOS SGPS SA,0.03%
+486,Husky Energy Inc.,0.03%
+487,Petrobras Distribuidora SA,0.03%
+488,F.N.B. Corporation,0.03%
+489,Itausa SA,0.03%
+490,China CITIC Bank Corporation Ltd Class H,0.03%
+491,Grupo Aeroportuario del Pacifico SAB de CV Class B,0.03%
+492,BAWAG Group AG,0.03%
+493,TUI AG,0.03%
+494,AltaGas Ltd.,0.03%
+495,Olin Corporation,0.03%
+496,DWS Group GmbH & Co. KGaA,0.03%
+497,PTT Exploration & Production Plc NVDR,0.03%
+498,Wartsila Oyj Abp,0.03%
+499,Wacker Chemie AG,0.03%
+500,China Power International Development Ltd,0.03%
+501,O2 Czech Republic a.s.,0.03%
+502,ICL Group Ltd.,0.03%
+503,Mercury General Corporation,0.03%
+504,"Yuzhou Group Holdings Co., Ltd.",0.03%
+505,Lee & Man Paper Manufacturing Limited,0.03%
+506,"Yuexiu Property Co., Ltd.",0.03%
+507,"Mitsui Chemicals, Inc.",0.03%
+508,"Micro-Star International Co., Ltd.",0.03%
+509,Absa Group Limited,0.03%
+510,Chow Tai Fook Jewellery Group Limited,0.03%
+511,Turkcell Iletisim Hizmetleri A.S.,0.03%
+512,Industrias Penoles SAB de CV,0.03%
+513,Eutelsat Communications SA,0.03%
+514,Raiffeisen Bank International AG,0.03%
+515,Hang Lung Group Limited,0.03%
+516,"Concordia Financial Group, Ltd.",0.03%
+517,"IRPC Public Co., Ltd. NVDR",0.03%
+518,Agile Group Holdings Limited,0.03%
+519,Intrum AB,0.03%
+520,Spar Group Limited,0.03%
+521,Compania de Distribucion Integral Logista Holdings S.A.,0.03%
+522,Synovus Financial Corp.,0.03%
+523,Associated Banc-Corp,0.03%
+524,Bank OZK,0.03%
+525,Northland Power Inc.,0.03%
+526,Petronas Gas Bhd.,0.03%
+527,"Land & Houses Public Co., Ltd. NVDR",0.03%
+528,Swire Pacific Limited Class A,0.03%
+529,Hindustan Petroleum Corporation Limited,0.02%
+530,Nedbank Group Limited,0.02%
+531,"South Jersey Industries, Inc.",0.02%
+532,Kingboard Laminates Holdings Limited,0.02%
+533,China Everbright International Limited,0.02%
+534,PotlatchDeltic Corporation,0.02%
+535,Olam International Limited,0.02%
+536,"Nippon Electric Glass Co., Ltd.",0.02%
+537,Nikon Corp.,0.02%
+538,"Zardoya Otis, S.A.",0.02%
+539,"Federated Hermes, Inc. Class B",0.02%
+540,Industrial Bank Of Korea,0.02%
+541,RHB Bank Bhd.,0.02%
+542,"Paramount Group, Inc.",0.02%
+543,Banco Santander (Brasil) S.A. Units Cons of 1 Sh + 1 Pfd Sh,0.02%
+544,Investors Bancorp Inc,0.02%
+545,Avista Corporation,0.02%
+546,"Lawson, Inc.",0.02%
+547,Eaton Vance Corp.,0.02%
+548,Tosoh Corporation,0.02%
+549,Manila Electric Co.,0.02%
+550,Washington Real Estate Investment Trust,0.02%
+551,"Postal Savings Bank of China Co., Ltd. Class H",0.02%
+552,Acciona SA,0.02%
+553,"John Wiley & Sons, Inc. Class A",0.02%
+554,Nine Entertainment Co. Holdings Limited,0.02%
+555,"Alfa, S.A.B. de C.V. Class A",0.02%
+556,"United Bankshares, Inc.",0.02%
+557,"SBI Holdings, Inc.",0.02%
+558,Gibson Energy Inc.,0.02%
+559,BR Malls Participacoes S.A.,0.02%
+560,Mitsubishi Motors Corporation,0.02%
+561,Webster Financial Corporation,0.02%
+562,Showa Denko K.K.,0.02%
+563,Shenzhen Investment Limited,0.02%
+564,Atlas Arteria,0.02%
+565,Cathay General Bancorp,0.02%
+566,"TransAlta Renewables, Inc.",0.02%
+567,Compania Cervecerias Unidas S.A.,0.02%
+568,Osterreichische Post AG,0.02%
+569,First Horizon National Corporation,0.02%
+570,Corporate Office Properties Trust,0.02%
+571,"Hyundai Heavy Industries Holdings Co., Ltd.",0.02%
+572,"Kennedy-Wilson Holdings, Inc.",0.02%
+573,easyJet plc,0.02%
+574,SUMCO Corporation,0.02%
+575,"Sumitomo Rubber Industries, Ltd.",0.02%
+576,CVB Financial Corp.,0.02%
+577,AMMB Holdings Bhd.,0.02%
+578,"CGN Power Co., Ltd. Class H",0.02%
+579,Chartwell Retirement Residences,0.02%
+580,"Fukuoka Financial Group, Inc.",0.02%
+581,Capital Power Corporation,0.02%
+582,Jupiter Fund Management plc,0.02%
+583,REC Limited,0.02%
+584,ANDRITZ AG,0.02%
+585,Star Entertainment Group Limited,0.02%
+586,"Matsui Securities Co., Ltd.",0.02%
+587,Far East Horizon Limited,0.02%
+588,"Denka Co., Ltd.",0.02%
+589,Nokian Renkaat Oyj,0.02%
+590,Medibank Private Ltd.,0.02%
+591,"First Hawaiian, Inc.",0.02%
+592,UNIQA Insurance Group AG,0.02%
+593,Old National Bancorp,0.02%
+594,Beijing Enterprises Water Group Limited,0.02%
+595,Aker ASA Class A,0.02%
+596,Vector Limited,0.02%
+597,Bendigo & Adelaide Bank Ltd.,0.01%
+598,SITE Centers Corp.,0.01%
+599,Cyrela Brazil Realty SA Empreendimentos e Participacoes,0.01%
+600,PT Hanjaya Mandala Sampoerna Tbk,0.01%
+601,Methanex Corporation,0.01%
+602,"UBE Industries, Ltd.",0.01%
+603,Telecom Italia Rsp,0.01%
+604,Prosegur Cash SA,0.01%
+605,Fulton Financial Corporation,0.01%
+606,YTL Corp Bhd.,0.01%
+607,DIC Corporation,0.01%
+608,Nexity SA Class A,0.01%
+609,CareTrust REIT Inc,0.01%
+610,Pebblebrook Hotel Trust,0.01%
+611,Delek US Holdings Inc,0.01%
+612,COSCO SHIPPING Ports Limited,0.01%
+613,First Financial Bancorp.,0.01%
+614,Orora Ltd.,0.01%
+615,MISC Bhd,0.01%
+616,Cadence Bancorporation Class A,0.01%
+617,Wharf (Holdings) Ltd.,0.01%
+618,"Krung Thai Bank Public Co., Ltd. NVDR",0.01%
+619,"Columbia Banking System, Inc.",0.01%
+620,"Konica Minolta, Inc.",0.01%
+621,YDUQS Participacoes SA,0.01%
+622,Italgas SpA,0.01%
+623,"WesBanco, Inc.",0.01%
+624,TMB Bank Public Company Limited NVDR,0.01%
+625,DMCI Holdings Inc.,0.01%
+626,"AEON Financial Service Co., Ltd.",0.01%
+627,Midea Real Estate Holding Limited,0.01%
+628,Mitsubishi UFJ Lease & Finance Company Limited,0.01%
+629,Mediaset Espana Comunicacion SA,0.01%
+630,Porto Seguro S.A.,0.01%
+631,Gazprom Neft PJSC Sponsored ADR,0.01%
+632,Vienna Insurance Group AG Wiener Versicherung Gruppe,0.01%
+633,MERITZ SECURITIES CO LTD,0.01%
+634,Telkom SA SOC Ltd.,0.01%
+635,Indorama Ventures Public Co. Ltd. NVDR,0.00%
